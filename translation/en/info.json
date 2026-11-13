@@ -1,0 +1,457 @@
+{
+ "_movie": "info.dxr: Principal Oishi explains the disc contents; folder labels in the tree are already English",
+ "13": {
+  "ja": "…:…? …?…",
+  "ops": [
+   {
+    "erase": [
+     29,
+     20,
+     477,
+     82
+    ]
+   },
+   {
+    "text": "Principal Oishi: \"Oh, out for a stroll? How nice of you to come all this way. Since you're here, shall I tell you about the Digital Collection's data?\"",
+    "box": [
+     35,
+     24,
+     473,
+     82
+    ],
+    "size": 13
+   },
+   {
+    "erase": [
+     50,
+     82,
+     161,
+     104
+    ],
+    "thr": 60,
+    "sat": 255
+   },
+   {
+    "text": "Yes",
+    "box": [
+     53,
+     87,
+     87,
+     104
+    ],
+    "align": "center"
+   },
+   {
+    "text": "/",
+    "box": [
+     87,
+     87,
+     109,
+     104
+    ],
+    "align": "center",
+    "color": [
+     90,
+     90,
+     222
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     109,
+     87,
+     158,
+     104
+    ],
+    "align": "center"
+   }
+  ]
+ },
+ "14": {
+  "ja": "はい (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     13,
+     53,
+     84,
+     [
+      50,
+      82,
+      161,
+      104,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "Yes",
+    "box": [
+     1,
+     3,
+     35,
+     20
+    ],
+    "align": "center",
+    "color": [
+     107,
+     115,
+     198
+    ]
+   }
+  ]
+ },
+ "15": {
+  "ja": "いいえ (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     13,
+     109,
+     84,
+     [
+      50,
+      82,
+      161,
+      104,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     2,
+     3,
+     51,
+     20
+    ],
+    "align": "center",
+    "color": [
+     107,
+     115,
+     198
+    ]
+   }
+  ]
+ },
+ "58": {
+  "ja": "…:…? …",
+  "ops": [
+   {
+    "erase": [
+     33,
+     23,
+     481,
+     85
+    ]
+   },
+   {
+    "text": "Principal Oishi: \"Have you seen everything in the school? If you like, I would be happy to show you around.\"",
+    "box": [
+     39,
+     27,
+     477,
+     85
+    ],
+    "size": 13
+   },
+   {
+    "erase": [
+     54,
+     85,
+     165,
+     107
+    ],
+    "thr": 60,
+    "sat": 255
+   },
+   {
+    "text": "Yes",
+    "box": [
+     57,
+     90,
+     91,
+     107
+    ],
+    "align": "center"
+   },
+   {
+    "text": "/",
+    "box": [
+     91,
+     90,
+     113,
+     107
+    ],
+    "align": "center",
+    "color": [
+     90,
+     90,
+     222
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     113,
+     90,
+     162,
+     107
+    ],
+    "align": "center"
+   }
+  ]
+ },
+ "22": {
+  "ja": "※…",
+  "font": "Arial Bold.ttf",
+  "size": 13,
+  "leading": 1.45,
+  "text_box": [
+   10,
+   9,
+   450,
+   54
+  ],
+  "en": "\n* Contains the Digital Collection startup menu."
+ },
+ "24": {
+  "ja": "…(…) ※CD…",
+  "font": "Arial Bold.ttf",
+  "size": 13,
+  "leading": 1.45,
+  "text_box": [
+   10,
+   9,
+   450,
+   54
+  ],
+  "en": "The Satomi Tadashi Pharmacy Song (techno-pop version)\n* Play it on a CD player and enjoy."
+ },
+ "26": {
+  "ja": "… ※…",
+  "font": "Arial Bold.ttf",
+  "size": 13,
+  "leading": 1.45,
+  "text_box": [
+   10,
+   9,
+   450,
+   54
+  ],
+  "en": "Wallpaper Changer\n* The program launched by Mark's Wallpaper Browser."
+ },
+ "28": {
+  "ja": "…",
+  "font": "Arial Bold.ttf",
+  "size": 13,
+  "leading": 1.45,
+  "text_box": [
+   10,
+   9,
+   450,
+   54
+  ],
+  "en": "Digital Collection launcher\n* The program that starts the Digital Collection."
+ },
+ "30": {
+  "ja": "QuickTime(32bit…)…",
+  "font": "Arial Bold.ttf",
+  "size": 13,
+  "leading": 1.45,
+  "text_box": [
+   10,
+   9,
+   450,
+   54
+  ],
+  "en": "QuickTime (32-bit) installer\n* Install it from the Digital Collection startup menu."
+ },
+ "32": {
+  "ja": "…",
+  "font": "Arial Bold.ttf",
+  "size": 13,
+  "leading": 1.45,
+  "text_box": [
+   10,
+   9,
+   450,
+   54
+  ],
+  "en": "Screen saver installer\n* Install them from the Accessories install menu."
+ },
+ "34": {
+  "ja": "…",
+  "font": "Arial Bold.ttf",
+  "size": 13,
+  "leading": 1.45,
+  "text_box": [
+   10,
+   9,
+   450,
+   54
+  ],
+  "en": "Persona Daily Calendar\n* Install it from the Accessories install menu."
+ },
+ "36": {
+  "ja": "QuickTime… ※…VTR…",
+  "font": "Arial Bold.ttf",
+  "size": 13,
+  "leading": 1.45,
+  "text_box": [
+   10,
+   9,
+   450,
+   54
+  ],
+  "en": "QuickTime movie data\n* Watch them in Butler Yamaoka's Secret VTR Collection."
+ },
+ "38": {
+  "ja": "WAV音声データ(BGM)",
+  "font": "Arial Bold.ttf",
+  "size": 13,
+  "leading": 1.45,
+  "text_box": [
+   10,
+   9,
+   450,
+   54
+  ],
+  "en": "WAV audio (BGM)\n* Listen to them in Ayase's MD Collection."
+ },
+ "40": {
+  "ja": "WAV…(…SE)",
+  "font": "Arial Bold.ttf",
+  "size": 13,
+  "leading": 1.45,
+  "text_box": [
+   10,
+   9,
+   450,
+   54
+  ],
+  "en": "WAV audio (special attack sound effects)\n* Listen to them in Ayase's MD Collection."
+ },
+ "42": {
+  "ja": "WAV…(…) ※…",
+  "font": "Arial Bold.ttf",
+  "size": 13,
+  "leading": 1.45,
+  "text_box": [
+   10,
+   9,
+   450,
+   54
+  ],
+  "en": "WAV audio (field demons)\n* Listen to them in Kurouri's Spell Card Collection."
+ },
+ "44": {
+  "ja": "WAV…(…)",
+  "font": "Arial Bold.ttf",
+  "size": 13,
+  "leading": 1.45,
+  "text_box": [
+   10,
+   9,
+   450,
+   54
+  ],
+  "en": "WAV audio (characters)\n* Install them from the Accessories install menu."
+ },
+ "46": {
+  "ja": "壁紙(1024×768用)",
+  "font": "Arial Bold.ttf",
+  "size": 13,
+  "leading": 1.45,
+  "text_box": [
+   10,
+   9,
+   450,
+   54
+  ],
+  "en": "Wallpapers (1024x768)\n* Browse and install them in Mark's Wallpaper Browser."
+ },
+ "48": {
+  "ja": "壁紙(640×480用)",
+  "font": "Arial Bold.ttf",
+  "size": 13,
+  "leading": 1.45,
+  "text_box": [
+   10,
+   9,
+   450,
+   54
+  ],
+  "en": "Wallpapers (640x480)\n* Browse and install them in Mark's Wallpaper Browser."
+ },
+ "50": {
+  "ja": "WAV…(…)",
+  "font": "Arial Bold.ttf",
+  "size": 13,
+  "leading": 1.45,
+  "text_box": [
+   10,
+   9,
+   450,
+   54
+  ],
+  "en": "WAV audio (boss demons)\n* Install them from the Accessories install menu."
+ },
+ "52": {
+  "ja": "WAV…(…) ※…",
+  "font": "Arial Bold.ttf",
+  "size": 13,
+  "leading": 1.45,
+  "text_box": [
+   10,
+   9,
+   450,
+   54
+  ],
+  "en": "WAV audio (unreleased)\n* Listen to them in Yukino's Photo Exhibition."
+ },
+ "59": {
+  "ja": "…:…?…",
+  "en": "Principal Oishi: \"Yukino really does take wonderful photos. Have you seen them yet?\""
+ },
+ "60": {
+  "ja": "…:…MD…?…",
+  "en": "Principal Oishi: \"Ayase collects her favorite songs on MD, you know. Perhaps you'll hear some memorable tunes?\""
+ },
+ "61": {
+  "ja": "…:…!…",
+  "en": "Principal Oishi: \"I think Kurouri's passion for demon research is simply marvelous!\""
+ },
+ "62": {
+  "ja": "…:…VTR…",
+  "en": "Principal Oishi: \"Mr. Yamaoka says there's a VTR he simply must show everyone, so he has come back for it.\""
+ },
+ "63": {
+  "ja": "…:…",
+  "en": "Principal Oishi: \"I used to play with dress-up dolls as a child too. Now, with Trish's magic, you can dress up your favorite characters!\""
+ },
+ "55": {
+  "ja": "…:…?…",
+  "box": [
+   143,
+   18,
+   478,
+   103
+  ],
+  "en": "Principal Oishi: \"Which attraction shall I tell you about?\""
+ },
+ "18": {
+  "ja": "> …",
+  "box": [
+   97,
+   365,
+   545,
+   413
+  ],
+  "en": "> Point at a folder to see its description."
+ }
+}

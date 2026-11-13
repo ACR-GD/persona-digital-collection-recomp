@@ -1,0 +1,1741 @@
+{
+ "_movie": "photo.dxr: Yukino's photo exhibit: character gallery with profile and story; PREV/NEXT/BACK and PICTURE/PROFILE/STORY labels are English",
+ "11": {
+  "ja": "…:…?…",
+  "ops": [
+   {
+    "erase": [
+     29,
+     16,
+     477,
+     74
+    ]
+   },
+   {
+    "text": "Yukino: \"Wanna see the photos I took?\"",
+    "box": [
+     35,
+     20,
+     473,
+     74
+    ],
+    "size": 13
+   },
+   {
+    "erase": [
+     53,
+     74,
+     163,
+     96
+    ],
+    "thr": 60,
+    "sat": 255
+   },
+   {
+    "text": "Yes",
+    "box": [
+     56,
+     79,
+     90,
+     96
+    ],
+    "align": "center"
+   },
+   {
+    "text": "/",
+    "box": [
+     90,
+     79,
+     113,
+     96
+    ],
+    "align": "center",
+    "color": [
+     90,
+     90,
+     222
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     113,
+     79,
+     160,
+     96
+    ],
+    "align": "center"
+   }
+  ]
+ },
+ "12": {
+  "ja": "はい (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     11,
+     56,
+     76,
+     [
+      53,
+      74,
+      163,
+      96,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "Yes",
+    "box": [
+     1,
+     3,
+     35,
+     20
+    ],
+    "align": "center",
+    "color": [
+     107,
+     107,
+     206
+    ]
+   }
+  ]
+ },
+ "13": {
+  "ja": "いいえ (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     11,
+     113,
+     76,
+     [
+      53,
+      74,
+      163,
+      96,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     2,
+     3,
+     49,
+     20
+    ],
+    "align": "center",
+    "color": [
+     107,
+     107,
+     206
+    ]
+   }
+  ]
+ },
+ "18": {
+  "ja": "…:…? …",
+  "box": [
+   138,
+   308,
+   472,
+   393
+  ],
+  "text_box": [
+   141,
+   311,
+   470,
+   393
+  ],
+  "en": "Yukino: \"Which photo d'you wanna see? Hurry up and pick.\""
+ },
+ "100": {
+  "ja": "(profile card 100)",
+  "box": [
+   2,
+   2,
+   213,
+   63
+  ],
+  "text_box": [
+   4,
+   2,
+   212,
+   64
+  ],
+  "en": "Protagonist\nOccupation: High school student\n   (St. Hermelin High)",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "101": {
+  "ja": "(profile card 101)",
+  "box": [
+   2,
+   2,
+   215,
+   179
+  ],
+  "text_box": [
+   4,
+   2,
+   214,
+   180
+  ],
+  "en": "Maki\nReal name: Maki Sonomura\nBirthday: 6/4   Blood type: AB\nHeight: 158cm   Shoes: 23.5cm\nEyesight: 1.5   Hobby: Painting\nFavorite color: Red\nFavorite food: Strawberry sweets\nFavorite book: \"The Door of Paradise\"\nFamily: Her mother\nDays off: Shopping with Mom",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "102": {
+  "ja": "(profile card 102)",
+  "box": [
+   2,
+   2,
+   219,
+   177
+  ],
+  "text_box": [
+   4,
+   2,
+   218,
+   178
+  ],
+  "en": "Mark\nReal name: Masao Inaba\nBirthday: 7/11   Blood type: A\nHeight: 167cm   Weight: 52kg\nShoes: 25.5cm   Eyesight: 2.0\nFavorite color: Yellow\nHobbies: Graffiti and dance\nFavorite food: Chicken combo\nFavorite magazine: \"BOON\"\nFamily: Mother and father\nStyle: Hats",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "103": {
+  "ja": "(profile card 103)",
+  "box": [
+   2,
+   2,
+   216,
+   193
+  ],
+  "text_box": [
+   4,
+   2,
+   215,
+   194
+  ],
+  "en": "Nanjo\nReal name: Kei Nanjo\nBirthday: 10/2   Blood type: A\nHeight: 177cm   Weight: 62kg\nShoes: 26.5cm   Eyesight: 0.08\nFavorite color: Blue\nFamily: Yamaoka\nHobbies: Fencing, hunting\nFavorite food: Japanese cuisine\nFavorite magazine: \"President\"\nStyle: Scarf knit by Yamaoka\nDays off: Classical music, reading",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "104": {
+  "ja": "(profile card 104)",
+  "box": [
+   2,
+   2,
+   215,
+   190
+  ],
+  "text_box": [
+   4,
+   2,
+   214,
+   191
+  ],
+  "en": "Yukino\nReal name: Yukino Mayuzumi\nBirthday: 4/9   Blood type: A\nHeight: 170cm   Weight: 52kg\nShoes: 24.5cm   Eyesight: 1.5\nFavorite color: White\nHobby: Photography\nFavorite food: Yakisoba\nFavorite magazine: \"Asahi Camera\"\nFamily: Mother, 2 sisters, 2 brothers\nStyle: Long skirts\nFavorite fashion: agnes b.",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "105": {
+  "ja": "(profile card 105)",
+  "box": [
+   2,
+   2,
+   220,
+   191
+  ],
+  "text_box": [
+   4,
+   2,
+   219,
+   192
+  ],
+  "en": "Ayase\nReal name: Yuka Ayase\nBirthday: 3/3   Blood type: B\nHeight: 155cm   Shoes: 24.5cm\nEyesight: 2.2\nHobby: Purikura   Fav. color: Black\nFavorite food: Engawa sushi\nFavorite magazine: \"anan\"\nStyle: Avant-garde\nFavorite perfume: POISON\nFavorite fashion: LOVE BOAT",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "106": {
+  "ja": "(profile card 106)",
+  "box": [
+   2,
+   2,
+   218,
+   157
+  ],
+  "text_box": [
+   4,
+   2,
+   217,
+   158
+  ],
+  "en": "Brown\nReal name: Hidehiko Uesugi\nSign: Libra\nBlood type: O\nFavorite color: Brown\nFavorite reading: \"Comic BonBon\"\nStyle: Goggles and boots\nFavorite food: Hamburg steak and curry",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "107": {
+  "ja": "(profile card 107)",
+  "ops": [
+   {
+    "erase": [
+     2,
+     2,
+     217,
+     190
+    ],
+    "halo": 3
+   },
+   {
+    "erase": [
+     217,
+     12,
+     231,
+     34
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Elly\nReal name: Eriko Kirishima\nBirthday: 9/21   Blood type: O\nHeight: 164cm   Shoes: 24cm\nEyesight: 0.5\nHobby: Occult research\nFavorite color: Violet\nFavorite food: GODIVA chocolate\nFavorite magazines: \"ELLE\", \"Mu\"\nFamily: Parents, twin sisters\nFavorite perfume: ALLURE\nFavorite fashion: DKNY",
+    "box": [
+     4,
+     2,
+     216,
+     191
+    ],
+    "font": "Georgia Bold.ttf",
+    "size": 12,
+    "leading": 1.12
+   }
+  ]
+ },
+ "108": {
+  "ja": "(profile card 108)",
+  "box": [
+   2,
+   2,
+   217,
+   192
+  ],
+  "text_box": [
+   4,
+   2,
+   216,
+   193
+  ],
+  "en": "Reiji\nReal name: Reiji Kido\nBirthday: 8/18   Blood type: B\nHeight: 182cm   Weight: 75kg\nShoes: 27cm   Eyesight: 1.8\nFavorite color: Black\nHobby: Magic tricks\nFavorite food: His mom's cooking\nFavorite magazine: \"Kakutogi Tsushin\"\nFamily: His mother\nStyle: Chain choker\nDays off: Working on his abs",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "109": {
+  "ja": "(profile card 109)",
+  "box": [
+   2,
+   2,
+   148,
+   43
+  ],
+  "text_box": [
+   4,
+   2,
+   147,
+   44
+  ],
+  "en": "The girl in white\nKnown as: Mai",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3,
+  "nowrap": true
+ },
+ "110": {
+  "ja": "(profile card 110)",
+  "box": [
+   2,
+   2,
+   95,
+   49
+  ],
+  "text_box": [
+   4,
+   2,
+   94,
+   50
+  ],
+  "en": "The girl in black\nKnown as: Aki",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3,
+  "nowrap": true
+ },
+ "111": {
+  "ja": "(profile card 111)",
+  "box": [
+   2,
+   2,
+   218,
+   82
+  ],
+  "text_box": [
+   4,
+   2,
+   217,
+   83
+  ],
+  "en": "Maki's mother\nReal name: Setsuko Sonomura\nOccupation: Researcher\n   (SEBEC Mikage branch)",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "112": {
+  "ja": "(profile card 112)",
+  "box": [
+   2,
+   2,
+   130,
+   61
+  ],
+  "text_box": [
+   4,
+   2,
+   129,
+   62
+  ],
+  "en": "Ms. Saeko\nReal name: Saeko Takami\nOccupation: Teacher",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3,
+  "nowrap": true
+ },
+ "113": {
+  "ja": "(profile card 113)",
+  "box": [
+   2,
+   2,
+   210,
+   80
+  ],
+  "text_box": [
+   4,
+   2,
+   209,
+   81
+  ],
+  "en": "Ms. Natsumi\nReal name: Natsumi Yoshino\nOccupation: School nurse,\n   St. Hermelin High",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "114": {
+  "ja": "(profile card 114)",
+  "box": [
+   2,
+   2,
+   214,
+   45
+  ],
+  "text_box": [
+   4,
+   2,
+   213,
+   46
+  ],
+  "en": "Vice Principal Hanya\nOccupation: Vice principal, St. Hermelin High",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "115": {
+  "ja": "(profile card 115)",
+  "box": [
+   2,
+   2,
+   219,
+   45
+  ],
+  "text_box": [
+   4,
+   2,
+   218,
+   46
+  ],
+  "en": "Principal Oishi\nOccupation: Principal, St. Hermelin High",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "116": {
+  "ja": "(profile card 116)",
+  "box": [
+   2,
+   2,
+   148,
+   47
+  ],
+  "text_box": [
+   4,
+   2,
+   147,
+   48
+  ],
+  "en": "Butler Yamaoka\nOccupation: Butler (Nanjo)",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3,
+  "nowrap": true
+ },
+ "117": {
+  "ja": "(profile card 117)",
+  "box": [
+   2,
+   2,
+   216,
+   62
+  ],
+  "text_box": [
+   4,
+   2,
+   215,
+   63
+  ],
+  "en": "Real name: Yosuke Naito\nOccupation: High school student\n   (St. Hermelin High)",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "118": {
+  "ja": "(profile card 118)",
+  "box": [
+   2,
+   2,
+   210,
+   62
+  ],
+  "text_box": [
+   4,
+   2,
+   209,
+   63
+  ],
+  "en": "Real name: Chisato Kousai\nOccupation: High school student\n   (St. Hermelin High)",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "119": {
+  "ja": "(profile card 119)",
+  "box": [
+   2,
+   2,
+   214,
+   82
+  ],
+  "text_box": [
+   4,
+   2,
+   213,
+   83
+  ],
+  "en": "Demon Boy\nReal name: Tsutomu Kurouri\nOccupation: High school student\n   (St. Hermelin High)",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "120": {
+  "ja": "(profile card 120)",
+  "box": [
+   2,
+   2,
+   215,
+   61
+  ],
+  "text_box": [
+   4,
+   2,
+   214,
+   62
+  ],
+  "en": "Real name: Yuko Himeno\nOccupation: High school student\n   (St. Hermelin High)",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "121": {
+  "ja": "(profile card 121)",
+  "box": [
+   2,
+   2,
+   215,
+   82
+  ],
+  "text_box": [
+   4,
+   2,
+   214,
+   83
+  ],
+  "en": "Toro\nReal name: Kenta Yokouchi\nOccupation: High school student\n   (St. Hermelin High)",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "122": {
+  "ja": "(profile card 122)",
+  "box": [
+   2,
+   2,
+   215,
+   89
+  ],
+  "text_box": [
+   4,
+   2,
+   214,
+   90
+  ],
+  "en": "Tadashi\nReal name: Tadashi Satomi\nOccupation: High school student\n   (St. Hermelin High)",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "123": {
+  "ja": "(profile card 123)",
+  "box": [
+   2,
+   2,
+   214,
+   61
+  ],
+  "text_box": [
+   4,
+   2,
+   213,
+   62
+  ],
+  "en": "Tamaki\nOccupation: High school student\n   (St. Hermelin High)",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "124": {
+  "ja": "(profile card 124)",
+  "box": [
+   2,
+   2,
+   212,
+   192
+  ],
+  "text_box": [
+   4,
+   2,
+   211,
+   193
+  ],
+  "en": "Real name: Takahisa Kandori\nOccupation: President, SEBEC Mikage branch\nAge: 28\nBirthday: November 8\nBlood type: A\nHeight: 182cm\nWeight: 71kg\nEducation: Oxford University graduate school, UK\nFamily: Both parents deceased; single",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "125": {
+  "ja": "(profile card 125)",
+  "box": [
+   2,
+   2,
+   215,
+   78
+  ],
+  "text_box": [
+   4,
+   2,
+   214,
+   79
+  ],
+  "en": "Takeda\nOccupation: Representative,\n   SEBEC Security Services",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "126": {
+  "ja": "(profile card 126)",
+  "box": [
+   2,
+   2,
+   215,
+   61
+  ],
+  "text_box": [
+   4,
+   2,
+   214,
+   62
+  ],
+  "en": "Dr. Nicolai\nOccupation: Researcher\n   (SEBEC Mikage branch)",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "127": {
+  "ja": "(profile card 127)",
+  "box": [
+   2,
+   2,
+   216,
+   63
+  ],
+  "text_box": [
+   4,
+   2,
+   215,
+   64
+  ],
+  "en": "Real name: Kazumi Fujimori\nOccupation: High school student\n   (St. Hermelin High)",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "128": {
+  "ja": "(profile card 128)",
+  "box": [
+   2,
+   2,
+   213,
+   82
+  ],
+  "text_box": [
+   4,
+   2,
+   212,
+   83
+  ],
+  "en": "Master of the Tower of Hypnos\nReal name: Kumi Hirose\nOccupation: High school student\n   (St. Hermelin High)",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "129": {
+  "ja": "(profile card 129)",
+  "box": [
+   2,
+   2,
+   214,
+   84
+  ],
+  "text_box": [
+   4,
+   2,
+   213,
+   85
+  ],
+  "en": "Master of the Tower of Nemesis\nReal name: Michiko Matsudaira\nOccupation: High school student\n   (St. Hermelin High)",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "130": {
+  "ja": "(profile card 130)",
+  "box": [
+   2,
+   2,
+   214,
+   85
+  ],
+  "text_box": [
+   4,
+   2,
+   213,
+   86
+  ],
+  "en": "Master of the Tower of Thanatos\nReal name: Yuriko Yamamoto\nOccupation: High school student\n   (St. Hermelin High?)",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "131": {
+  "ja": "(profile card 131)",
+  "box": [
+   2,
+   2,
+   145,
+   48
+  ],
+  "text_box": [
+   4,
+   2,
+   144,
+   49
+  ],
+  "en": "Tadashi's father\nOccupation: Runs a pharmacy",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3,
+  "nowrap": true
+ },
+ "132": {
+  "ja": "(profile card 132)",
+  "box": [
+   2,
+   2,
+   212,
+   60
+  ],
+  "text_box": [
+   4,
+   2,
+   211,
+   61
+  ],
+  "en": "Igor\nOccupation: Mindmancer",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "133": {
+  "ja": "(profile card 133)",
+  "box": [
+   2,
+   2,
+   96,
+   45
+  ],
+  "text_box": [
+   4,
+   2,
+   95,
+   46
+  ],
+  "en": "Trish\nOccupation: Fairy",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3,
+  "nowrap": true
+ },
+ "134": {
+  "ja": "(profile card 134)",
+  "box": [
+   2,
+   2,
+   170,
+   50
+  ],
+  "text_box": [
+   4,
+   2,
+   169,
+   51
+  ],
+  "en": "Sennen Mannen-do owner\nOccupation: Candy shop owner",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "135": {
+  "ja": "(profile card 135)",
+  "box": [
+   2,
+   2,
+   167,
+   42
+  ],
+  "text_box": [
+   4,
+   2,
+   166,
+   43
+  ],
+  "en": "Tsurun-Khamen\nOccupation: Antique dealer",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3,
+  "nowrap": true
+ },
+ "136": {
+  "ja": "(profile card 136)",
+  "box": [
+   2,
+   2,
+   163,
+   45
+  ],
+  "text_box": [
+   4,
+   2,
+   162,
+   46
+  ],
+  "en": "Khamen-Tsurun\nOccupation: Antique dealer",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3,
+  "nowrap": true
+ },
+ "137": {
+  "ja": "(profile card 137)",
+  "box": [
+   2,
+   2,
+   216,
+   49
+  ],
+  "text_box": [
+   4,
+   2,
+   215,
+   50
+  ],
+  "en": "Mannequin\nOccupation: Boutique clerk",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "138": {
+  "ja": "(profile card 138)",
+  "box": [
+   2,
+   2,
+   165,
+   48
+  ],
+  "text_box": [
+   4,
+   2,
+   164,
+   49
+  ],
+  "en": "Clerk\nOccupation: Convenience store clerk",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3,
+  "nowrap": true
+ },
+ "139": {
+  "ja": "(profile card 139)",
+  "box": [
+   2,
+   2,
+   175,
+   44
+  ],
+  "text_box": [
+   4,
+   2,
+   174,
+   45
+  ],
+  "en": "Bartender\nOccupation: Bartender",
+  "size": 12,
+  "leading": 1.12,
+  "font": "Georgia Bold.ttf",
+  "halo": 3
+ },
+ "140": {
+  "ja": "(story 140)",
+  "box": [
+   2,
+   2,
+   449,
+   56
+  ],
+  "text_box": [
+   5,
+   3,
+   447,
+   57
+  ],
+  "en": "In class 2-4 at St. Hermelin High. Said to be taciturn, yet trusted enough to be given the final say in big decisions. Unobtrusive, but the heart of the party.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "141": {
+  "ja": "(story 141)",
+  "box": [
+   2,
+   2,
+   451,
+   54
+  ],
+  "text_box": [
+   5,
+   3,
+   449,
+   55
+  ],
+  "en": "The protagonist's classmate, in the art club. Hospitalized at Mikage General Hospital since a year ago. Envies school life and fears for her future. She had a crush on Yosuke Naito.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "142": {
+  "ja": "(story 142)",
+  "box": [
+   2,
+   2,
+   452,
+   56
+  ],
+  "text_box": [
+   5,
+   3,
+   450,
+   57
+  ],
+  "en": "The protagonist's classmate. Member of the graffiti and dance team \"Tailors\". He sees talent in Maki's paintings and has feelings for her. Popular in his team, with a strong sense of responsibility.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "143": {
+  "ja": "(story 143)",
+  "box": [
+   2,
+   2,
+   448,
+   56
+  ],
+  "text_box": [
+   5,
+   3,
+   446,
+   57
+  ],
+  "en": "The protagonist's classmate. Heir to the Nanjo conglomerate. Having received his parents' love only as money, he cannot express warmth and opens his heart only to his butler, Yamaoka.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "144": {
+  "ja": "(story 144)",
+  "box": [
+   2,
+   2,
+   451,
+   52
+  ],
+  "text_box": [
+   5,
+   3,
+   449,
+   53
+  ],
+  "en": "The protagonist's classmate. With a life outside school, she finds her classmates childish. Meeting Ms. Saeko turned her life around. She works part-time to save money to study abroad.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "145": {
+  "ja": "(story 145)",
+  "box": [
+   2,
+   2,
+   450,
+   63
+  ],
+  "text_box": [
+   5,
+   3,
+   448,
+   64
+  ],
+  "en": "The protagonist's classmate. Anxious about her future, she drowns it in a hedonistic lifestyle. Her emotional, impulsive words sometimes set incidents in motion.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "146": {
+  "ja": "(story 146)",
+  "box": [
+   2,
+   2,
+   451,
+   60
+  ],
+  "text_box": [
+   5,
+   3,
+   449,
+   61
+  ],
+  "en": "The protagonist's classmate. His fashion sense and banter make him popular in and out of school, but he feels stifled by the false image he plays up.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "147": {
+  "ja": "(story 147)",
+  "box": [
+   2,
+   2,
+   449,
+   59
+  ],
+  "text_box": [
+   5,
+   3,
+   447,
+   60
+  ],
+  "en": "The protagonist's classmate. A returnee whose looks and manners draw attention in and out of school; to live up to those expectations, she suppresses her true self.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "148": {
+  "ja": "(story 148)",
+  "box": [
+   2,
+   2,
+   447,
+   83
+  ],
+  "text_box": [
+   5,
+   3,
+   445,
+   84
+  ],
+  "en": "The protagonist's classmate. Transferred to St. Hermelin six months ago. He hates the Kandori family and lives only for revenge on Kandori. He opens his heart to no one but his mother and refuses all contact.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "149": {
+  "ja": "(story 149)",
+  "box": [
+   2,
+   2,
+   447,
+   75
+  ],
+  "text_box": [
+   5,
+   3,
+   445,
+   76
+  ],
+  "en": "The girl in white who appears at the start of the story: a convenient helper who runs the world for the ideal Maki. At first the whole town was a paradise she alone managed, but Kandori's arrival gave rise to \"Aki\".",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "150": {
+  "ja": "(story 150)",
+  "box": [
+   2,
+   2,
+   446,
+   71
+  ],
+  "text_box": [
+   5,
+   3,
+   444,
+   72
+  ],
+  "en": "The girl in black. She appeared when Kandori entered Maki's ideal world. Born of Maki's longing for her father, she does as Kandori says and torments the protagonists with the compact's magic.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "151": {
+  "ja": "(story 151)",
+  "box": [
+   2,
+   2,
+   449,
+   88
+  ],
+  "text_box": [
+   5,
+   3,
+   447,
+   89
+  ],
+  "en": "Maki's mother. She worked on the DEVA System. As it was a vital SEBEC secret, its researchers were all but locked away, so she could rarely visit her hospitalized daughter. The compact she gave her lonely girl became the key item of the incident.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "152": {
+  "ja": "(story 152)",
+  "box": [
+   2,
+   2,
+   453,
+   74
+  ],
+  "text_box": [
+   5,
+   3,
+   451,
+   75
+  ],
+  "en": "A St. Hermelin teacher in charge of the class of problem students. An alumna and former drama club member who starred in the legendary play \"The Snow Queen\". Her frankness wins every student's admiration; even Yukino respects her.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "153": {
+  "ja": "(story 153)",
+  "box": [
+   2,
+   2,
+   445,
+   58
+  ],
+  "text_box": [
+   5,
+   3,
+   443,
+   59
+  ],
+  "en": "The kind school nurse who always truly worries about the protagonists. Her mature charm and homely air make her popular with the boys of St. Hermelin. But in fact, she's a terrible cook.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "154": {
+  "ja": "(story 154)",
+  "box": [
+   2,
+   2,
+   450,
+   64
+  ],
+  "text_box": [
+   5,
+   3,
+   448,
+   65
+  ],
+  "en": "A vice principal whose personality matches his scary looks: the most hated teacher at St. Hermelin. He dislikes Principal Oishi's way of educating and does nothing but complain.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "155": {
+  "ja": "(story 155)",
+  "box": [
+   2,
+   2,
+   449,
+   61
+  ],
+  "text_box": [
+   5,
+   3,
+   447,
+   62
+  ],
+  "en": "A friendly principal who greets even students she just passes in the hall. She always puts the students first: a model educator.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "156": {
+  "ja": "(story 156)",
+  "box": [
+   2,
+   2,
+   450,
+   81
+  ],
+  "text_box": [
+   5,
+   3,
+   448,
+   82
+  ],
+  "en": "A butler by title, but to Nanjo, ignored by his parents, he was the only one who gave him love; the two share a deep bond. Naturally, the \"No. 1 scarf\" is his handiwork.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "157": {
+  "ja": "(story 157)",
+  "box": [
+   2,
+   2,
+   447,
+   64
+  ],
+  "text_box": [
+   5,
+   3,
+   445,
+   65
+  ],
+  "en": "Chisato Kousai's boyfriend, and the one Maki admired. Rumored to have vanished, he meets the protagonists in the world inside Maki's heart and helps them resolve the incident.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "158": {
+  "ja": "(story 158)",
+  "box": [
+   2,
+   2,
+   451,
+   86
+  ],
+  "text_box": [
+   5,
+   3,
+   449,
+   87
+  ],
+  "en": "Maki's best friend, yet jealous of her talent as a painter. She met Aki and, in exchange for the throne of the Harem Queen, became a hideous, ragged figure. Thanks to the protagonists and her boyfriend Yosuke, she regained her form and made up with Maki.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "159": {
+  "ja": "(story 159)",
+  "box": [
+   2,
+   2,
+   452,
+   79
+  ],
+  "text_box": [
+   5,
+   3,
+   450,
+   80
+  ],
+  "en": "As his nickname suggests, his hobby is occult research; he can always be found looking things up in the St. Hermelin library. Incidentally, Detective Isono of \"Shin Megami Tensei: Devil Summoner\" is his uncle.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "160": {
+  "ja": "(story 160)",
+  "box": [
+   2,
+   2,
+   449,
+   76
+  ],
+  "text_box": [
+   5,
+   3,
+   447,
+   77
+  ],
+  "en": "Maki's classmate. Maki even lent her \"The Door of Paradise\", her most treasured book, so they must be close. Yet in the Mikage-cho of Maki's heart, her change in attitude is a worry.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "161": {
+  "ja": "(story 161)",
+  "box": [
+   2,
+   2,
+   449,
+   79
+  ],
+  "text_box": [
+   5,
+   3,
+   447,
+   80
+  ],
+  "en": "He loves eating; his hobbies are raising and collecting turtles. His feelings for Ayase never reached her, and, cornered, his Persona awakened: a tragic one that turned his body into a demon.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "162": {
+  "ja": "(story 162)",
+  "box": [
+   2,
+   2,
+   451,
+   90
+  ],
+  "text_box": [
+   5,
+   3,
+   449,
+   91
+  ],
+  "en": "Eldest son of the Satomi family behind the \"Satomi Tadashi Pharmacy\". He's always fighting with Tamaki, though it goes without saying that it's because he likes her so much. Let's watch over them warmly.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "163": {
+  "ja": "(story 163)",
+  "box": [
+   2,
+   2,
+   451,
+   72
+  ],
+  "text_box": [
+   5,
+   3,
+   449,
+   73
+  ],
+  "en": "A bright, energetic girl, and a mysterious transfer student. She seems to have been caught up in a big incident at her old school. She's always fighting with Tadashi, but she may be truly happy that she can now.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "164": {
+  "ja": "(story 164)",
+  "box": [
+   2,
+   2,
+   435,
+   80
+  ],
+  "text_box": [
+   5,
+   3,
+   433,
+   81
+  ],
+  "en": "President of Saeki Electronics & Biological & Energy Corporation (SEBEC), Mikage branch. A former St. Hermelin student council president. Head of the DEVA System project, he is the man behind Mikage-cho's transformation.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "165": {
+  "ja": "(story 165)",
+  "box": [
+   2,
+   2,
+   448,
+   77
+  ],
+  "text_box": [
+   5,
+   3,
+   446,
+   78
+  ],
+  "en": "Head of SEBEC's private security force sounds nice, but his dirty work included things like delivering hush money to Kandori's mistress. Actually, he dreamed of being a singer.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "166": {
+  "ja": "(story 166)",
+  "box": [
+   2,
+   2,
+   449,
+   78
+  ],
+  "text_box": [
+   5,
+   3,
+   447,
+   79
+  ],
+  "en": "Inventor of the Dimension Variable Accelerator System, the \"DEVA System\", developed under Kandori. Learning his research was being misused, he sacrifices himself to take responsibility.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "167": {
+  "ja": "(story 167)",
+  "box": [
+   2,
+   2,
+   450,
+   88
+  ],
+  "text_box": [
+   5,
+   3,
+   448,
+   89
+  ],
+  "en": "The culprit who froze Ms. Saeko and set the protagonists' trials. Ms. Saeko's close friend since their own school days, she envied Saeko's personality and looks. Her pent-up feelings exploded in the \"Snow Queen incident\", giving birth to the Persona \"Snow Queen\".",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "168": {
+  "ja": "(story 168)",
+  "box": [
+   2,
+   2,
+   449,
+   73
+  ],
+  "text_box": [
+   5,
+   3,
+   447,
+   74
+  ],
+  "en": "Withdrawn and pessimistic, she feared harsh reality and became a servant of the \"Snow Queen\", who gave her a world of dreams. Her flashbacks in the dream world make you understand, if not excuse, why she was bullied.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "169": {
+  "ja": "(story 169)",
+  "box": [
+   2,
+   2,
+   447,
+   72
+  ],
+  "text_box": [
+   5,
+   3,
+   445,
+   73
+  ],
+  "en": "A girl of an old noble family who never doubts her own beauty, and was shunned and disliked by classmates for her arrogance. Resentful, she became a demon of vengeance. She alone shows no remorse even after defeat.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "170": {
+  "ja": "(story 170)",
+  "box": [
+   2,
+   2,
+   450,
+   85
+  ],
+  "text_box": [
+   5,
+   3,
+   448,
+   86
+  ],
+  "en": "As her retro '80s idol look suggests, she is obsessed with being \"cute\". Fearing time would take it, she sought eternal beauty and surrendered to the \"Snow Queen\". Her tearful story she tells you herself after the battle.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "171": {
+  "ja": "(story 171)",
+  "box": [
+   2,
+   2,
+   452,
+   69
+  ],
+  "text_box": [
+   5,
+   3,
+   450,
+   70
+  ],
+  "en": "Tadashi's father and founder of the \"Satomi Tadashi Pharmacy\". All three current stores are family-run as a chain. Aiming to go national, he is planning regional dialect versions of the theme song. His rival: a certain drugstore chain.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "172": {
+  "ja": "(story 172)",
+  "box": [
+   2,
+   2,
+   447,
+   86
+  ],
+  "text_box": [
+   5,
+   3,
+   445,
+   87
+  ],
+  "en": "Mindmancer Igor grants \"Personas\", products of the spirit world. A follower of Philemon, his role is to create \"triggers\" that change people's perception. With the Evilphone he summons demons and turns them into \"beings of the human heart\": his art of fusion.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "173": {
+  "ja": "(story 173)",
+  "box": [
+   2,
+   2,
+   447,
+   77
+  ],
+  "text_box": [
+   5,
+   3,
+   445,
+   78
+  ],
+  "en": "Trish, the fairy guarding the \"Healing Spring\". She was apparently banished from the fairy world for outrageous pranks, and since she still charges a fortune to help people in Mikage-cho, she can never go home.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "174": {
+  "ja": "(story 174)",
+  "box": [
+   2,
+   2,
+   449,
+   71
+  ],
+  "text_box": [
+   5,
+   3,
+   447,
+   72
+  ],
+  "en": "The candy shop with the auspicious name \"Sennen Mannen-do\". Its owner in a casual kimono leaves a strong impression. Judging by the big beckoning-cat figurine in the shop, his love of lucky charms is no joke.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "175": {
+  "ja": "(story 175)",
+  "box": [
+   2,
+   2,
+   446,
+   84
+  ],
+  "text_box": [
+   5,
+   3,
+   444,
+   85
+  ],
+  "en": "The item shop selling handy goods in transformed Mikage-cho. It seems to be one of the Personas born of the candy shop owner's heartfelt wish: \"Everyone, live a thousand, ten thousand years!\"",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "176": {
+  "ja": "(story 176)",
+  "box": [
+   2,
+   2,
+   449,
+   77
+  ],
+  "text_box": [
+   5,
+   3,
+   447,
+   78
+  ],
+  "en": "The only rug(?) shop in Mikage-cho, where gems are traded for handy items. It too seems to be a Persona born of the candy shop owner's heartfelt wish: \"Everyone, live a thousand, ten thousand years!\"",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "177": {
+  "ja": "(story 177)",
+  "box": [
+   2,
+   2,
+   449,
+   75
+  ],
+  "text_box": [
+   5,
+   3,
+   447,
+   76
+  ],
+  "en": "For clothes in Mikage-cho, this is the place: the boutique \"ROSSA CANDITA\". Its mannequins give off a punk vibe, but it sells more than those clothes. Incidentally, Brown seems to like her.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "178": {
+  "ja": "(story 178)",
+  "box": [
+   2,
+   2,
+   450,
+   77
+  ],
+  "text_box": [
+   5,
+   3,
+   448,
+   78
+  ],
+  "en": "The \"YIN&YAN\" convenience store chain. In Maki's inner world it stocks goods you'd never imagine. The clerk who smiles, asks \"Looking for a weapon?\" and holds out a rifle never gets less unnerving.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ },
+ "179": {
+  "ja": "(story 179)",
+  "box": [
+   2,
+   2,
+   446,
+   72
+  ],
+  "text_box": [
+   5,
+   3,
+   444,
+   73
+  ],
+  "en": "The Black Market, the town made by the Harem Queen and Aki. He runs its only bar. In a town full of flashy afros and funky characters, he is the one calm grown-up.",
+  "size": 12,
+  "leading": 1.15,
+  "halo": 3
+ }
+}

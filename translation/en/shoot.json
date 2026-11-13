@@ -1,0 +1,311 @@
+{
+ "_movie": "shoot.dxr: Vice Principal Hanya's shooting gallery: hit only the frog figurines, not the decoy characters",
+ "11": {
+  "ja": "…:…?…",
+  "ops": [
+   {
+    "erase": [
+     26,
+     18,
+     474,
+     80
+    ]
+   },
+   {
+    "text": "Vice Principal Hanya: \"This whole incident has made me a changed man. I intend to become an educator the students adore, like the principal. Well? Won't you have a little fun?\"",
+    "box": [
+     32,
+     22,
+     470,
+     80
+    ],
+    "size": 12
+   },
+   {
+    "erase": [
+     45,
+     80,
+     156,
+     102
+    ],
+    "thr": 60,
+    "sat": 255
+   },
+   {
+    "text": "Yes",
+    "box": [
+     48,
+     85,
+     82,
+     102
+    ],
+    "align": "center"
+   },
+   {
+    "text": "/",
+    "box": [
+     82,
+     85,
+     105,
+     102
+    ],
+    "align": "center",
+    "color": [
+     90,
+     90,
+     222
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     105,
+     85,
+     153,
+     102
+    ],
+    "align": "center"
+   }
+  ]
+ },
+ "12": {
+  "ja": "はい (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     11,
+     48,
+     82,
+     [
+      45,
+      80,
+      156,
+      102,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "Yes",
+    "box": [
+     1,
+     3,
+     35,
+     20
+    ],
+    "align": "center",
+    "color": [
+     107,
+     107,
+     206
+    ]
+   }
+  ]
+ },
+ "13": {
+  "ja": "いいえ (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     11,
+     105,
+     82,
+     [
+      45,
+      80,
+      156,
+      102,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     2,
+     3,
+     50,
+     20
+    ],
+    "align": "center",
+    "color": [
+     107,
+     107,
+     206
+    ]
+   }
+  ]
+ },
+ "18": {
+  "ja": "…:…?…",
+  "ops": [
+   {
+    "erase": [
+     27,
+     15,
+     475,
+     75
+    ]
+   },
+   {
+    "text": "Vice Principal Hanya: \"Hmm, close... but not quite. Well? Want to try again?\"",
+    "box": [
+     33,
+     19,
+     471,
+     75
+    ],
+    "size": 13
+   },
+   {
+    "erase": [
+     50,
+     75,
+     159,
+     95
+    ],
+    "thr": 60,
+    "sat": 255
+   },
+   {
+    "text": "Yes",
+    "box": [
+     53,
+     80,
+     87,
+     95
+    ],
+    "align": "center"
+   },
+   {
+    "text": "/",
+    "box": [
+     87,
+     80,
+     109,
+     95
+    ],
+    "align": "center",
+    "color": [
+     90,
+     90,
+     222
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     109,
+     80,
+     156,
+     95
+    ],
+    "align": "center"
+   }
+  ]
+ },
+ "19": {
+  "ja": "はい (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     18,
+     53,
+     77,
+     [
+      50,
+      75,
+      159,
+      95,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "Yes",
+    "box": [
+     1,
+     3,
+     35,
+     18
+    ],
+    "align": "center",
+    "color": [
+     107,
+     107,
+     206
+    ]
+   }
+  ]
+ },
+ "20": {
+  "ja": "いいえ (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     18,
+     109,
+     77,
+     [
+      50,
+      75,
+      159,
+      95,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     2,
+     3,
+     49,
+     18
+    ],
+    "align": "center",
+    "color": [
+     107,
+     107,
+     206
+    ]
+   }
+  ]
+ },
+ "17": {
+  "ja": "…:…! …",
+  "box": [
+   31,
+   17,
+   479,
+   102
+  ],
+  "text_box": [
+   37,
+   20,
+   475,
+   102
+  ],
+  "en": "Vice Principal Hanya: \"Quite the marksman, aren't you! Very well, here's a ticket.\""
+ },
+ "52": {
+  "ja": "…:…1…",
+  "box": [
+   28,
+   19,
+   476,
+   104
+  ],
+  "text_box": [
+   34,
+   22,
+   472,
+   104
+  ],
+  "en": "Vice Principal Hanya: \"Pests will pop up along the way, so look carefully and shoot only the frog figurines. Hit nothing but frogs, perfectly, and I'll give you a ticket as a reward.\""
+ }
+}

@@ -1,0 +1,865 @@
+{
+ "_movie": "tarot.dxr: Nanjo and Elly's tarot reading. Card images already carry English names; panels 432-543 are the 4 x 22 fortunes.",
+ "432": {
+  "ja": "The Magicianの正位置 (Nanjo)",
+  "en": "The Magician - Upright\n\"Fortune falls from the sky. Your original ideas will be recognized, and it's a good time to start new work. Connections are a gold mine: media, sales and jobs that involve talking look lucky.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "433": {
+  "ja": "The High Priestessの正位置 (Nanjo)",
+  "en": "The High Priestess - Upright\n\"Like a fish in water. Your specialty will be recognized and bring success. You may find work to throw yourself into in academia, research or the mind.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "434": {
+  "ja": "The Empressの正位置 (Nanjo)",
+  "en": "The Empress - Upright\n\"Strike while the iron is hot. Your efforts are bearing fruit. With your seniors' help, work goes smoothly. Even your gambling luck is not bad. Act on intuition.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "435": {
+  "ja": "The Emperorの正位置 (Nanjo)",
+  "en": "The Emperor - Upright\n\"Second to none. A time to show leadership and drive. You have the strength to reach your goals even with bold decisions. Your finances are stable too.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "436": {
+  "ja": "The Hierophantの正位置 (Nanjo)",
+  "en": "The Hierophant - Upright\n\"Constant dripping wears away stone. Steady effort pays off at last. If a problem arises, take your superiors' advice honestly and it will be easily solved.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "437": {
+  "ja": "The Loversの正位置 (Nanjo)",
+  "en": "The Lovers - Upright\n\"Two heads are better than one. Working with colleagues brings great results. Weigh your gains and losses and you'll come out ahead.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "438": {
+  "ja": "The Chariotの正位置 (Nanjo)",
+  "en": "The Chariot - Upright\n\"Nothing ventured, nothing gained. You have the strength to overcome hardship; push through even when it's tough. Problems clear up fast. Strike first and win.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "439": {
+  "ja": "Strengthの正位置 (Nanjo)",
+  "en": "Strength - Upright\n\"The wind blows, but the mountain stands firm. You can lead and show leadership. Even if opposition appears, you'll overwhelm it. Stick to what you believe is right.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "440": {
+  "ja": "The Hermitの正位置 (Nanjo)",
+  "en": "The Hermit - Upright\n\"Where there's a will, there's a way. Steady, tireless effort pays off: victory goes to calm strategy and selflessness. You'll meet a teacher you can respect.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "441": {
+  "ja": "Wheel of Fortuneの正位置 (Nanjo)",
+  "en": "Wheel of Fortune - Upright\n\"Good things come to those who wait. Unforeseen changes bring good results. Decide on the spot and adapt. The chance to change jobs you wanted may come.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "442": {
+  "ja": "Justiceの正位置 (Nanjo)",
+  "en": "Justice - Upright\n\"No risk, no reward. Friendships help your work and studies. Money spent on people comes back doubled. Work in law or the courts is lucky.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "443": {
+  "ja": "The Hanged Manの正位置 (Nanjo)",
+  "en": "The Hanged Man - Upright\n\"More haste, less speed. Lots of work in harsh conditions, but your effort will be rewarded. Endure this trial: sacrifice and daily effort lead to success.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "444": {
+  "ja": "Deathの正位置 (Nanjo)",
+  "en": "Death - Upright\n\"One beam can't hold up a falling house. You've hit a dead end. Plans stall and deals are suspended. Bankruptcy or job loss may loom, but a bold career change is lucky.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "445": {
+  "ja": "Temperanceの正位置 (Nanjo)",
+  "en": "Temperance - Upright\n\"Plan first, then fight. Keep things under control and planned work brings good results. Use favorable terms in negotiations and talks will go smoothly.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "446": {
+  "ja": "The Devilの正位置 (Nanjo)",
+  "en": "The Devil - Upright\n\"He who chases the deer doesn't see the mountain. Caught up in past success, are you losing sight of reality? You won't get out of this rut for a while.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "447": {
+  "ja": "The Towerの正位置 (Nanjo)",
+  "en": "The Tower - Upright\n\"Out of the frying pan, into the fire. Others' blunders or your own big mistakes cost you trust, and trouble keeps coming. Avoid clashing with teachers and bosses.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "448": {
+  "ja": "The Starの正位置 (Nanjo)",
+  "en": "The Star - Upright\n\"Seize the moment. You'll be given the work you dreamed of. Aim high. You're blessed in your relationships too, so teamwork is lucky.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "449": {
+  "ja": "The Moonの正位置 (Nanjo)",
+  "en": "The Moon - Upright\n\"Lend your axe and lose your forest. Beware betrayal by colleagues and scandal at work. Low motivation and mistakes cloud your future.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "450": {
+  "ja": "The Sunの正位置 (Nanjo)",
+  "en": "The Sun - Upright\n\"Where water flows, a channel forms. A time of progress, growth and action. You'll reach your goals and get rewarding work that shows off your talent.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "451": {
+  "ja": "Judgementの正位置 (Nanjo)",
+  "en": "Judgement - Upright\n\"A blessing in disguise. You'll get out of a pinch. Stalled matters improve, and something you'd long given up on may suddenly come true. Keep faith and work at it.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "452": {
+  "ja": "The Worldの正位置 (Nanjo)",
+  "en": "The World - Upright\n\"Every cloud has a silver lining. You'll overcome obstacles and reach your goals. Work and studies are at their peak. With luck on your side, any job will succeed.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "453": {
+  "ja": "The Foolの正位置 (Nanjo)",
+  "en": "The Fool - Upright\n\"Something from nothing. An unexpected success awaits. Intuitive action brings results; aim for the gaps and blind spots. Work that uses your individuality is lucky.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "462": {
+  "ja": "The Magicianの逆位置 (Nanjo)",
+  "en": "The Magician - Reversed\n\"Even monkeys fall from trees. Ideas won't come and things won't go your way: a time of worry. Watch out for small mistakes and prepare thoroughly.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "463": {
+  "ja": "The High Priestessの逆位置 (Nanjo)",
+  "en": "The High Priestess - Reversed\n\"Pie in the sky. Expected income won't come in, plans go awry, and the future looks unclear. Are you too fussy, or is your research lacking?\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "464": {
+  "ja": "The Empressの逆位置 (Nanjo)",
+  "en": "The Empress - Reversed\n\"The fuller the ear of rice, the lower it bows. Are you bored and getting lazy? Live lavishly and keep complaining, and your work and studies will only slide.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "465": {
+  "ja": "The Emperorの逆位置 (Nanjo)",
+  "en": "The Emperor - Reversed\n\"Barren flowers bear no fruit. All show, no substance. Are your plans unrealistic? Lean on others and you'll be shown how immature you are.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "466": {
+  "ja": "The Hierophantの逆位置 (Nanjo)",
+  "en": "The Hierophant - Reversed\n\"A top that spins itself over. You'll end up isolated from your colleagues, and the support you've had so far may be cut off.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "467": {
+  "ja": "The Loversの逆位置 (Nanjo)",
+  "en": "The Lovers - Reversed\n\"The hunter becomes the hunted. You lack focus and keep getting distracted, and that's exactly when unexpected problems hit.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "468": {
+  "ja": "The Chariotの逆位置 (Nanjo)",
+  "en": "The Chariot - Reversed\n\"Anger and quarrels only lose. Trouble with colleagues may make you want to throw it all away. Fix your haste and temper, or you'll make a serious mistake.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "469": {
+  "ja": "Strengthの逆位置 (Nanjo)",
+  "en": "Strength - Reversed\n\"You can't pour two pints into a one-pint jug. You'll feel your limits and lose confidence. Be patient: giving up before you start and slacking off is foolish.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "470": {
+  "ja": "The Hermitの逆位置 (Nanjo)",
+  "en": "The Hermit - Reversed\n\"You can't see the forest for the trees. You're too tense. Lack of focus means many silly mistakes, and the harder you cut costs, the more it backfires.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "471": {
+  "ja": "Wheel of Fortuneの逆位置 (Nanjo)",
+  "en": "Wheel of Fortune - Reversed\n\"Stumbling at the finish line. Surprises will throw your plans off, and unexpected costs will rise. Beware of jumping to conclusions and missed messages.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "472": {
+  "ja": "Justiceの逆位置 (Nanjo)",
+  "en": "Justice - Reversed\n\"Chase two hares and catch neither. You can't juggle two jobs. Swayed by others or afraid of losses, you'll make the wrong call.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "473": {
+  "ja": "The Hanged Manの逆位置 (Nanjo)",
+  "en": "The Hanged Man - Reversed\n\"Writing on water. You'll toil in vain at unwanted or pointless work, and struggling won't help. A hard time: all you can do is endure.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "474": {
+  "ja": "Deathの逆位置 (Nanjo)",
+  "en": "Death - Reversed\n\"Lose at go, win at shogi. Don't let past failures get you down: it's time for a fresh start. If you're thinking of changing jobs, now is the perfect chance.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "475": {
+  "ja": "Temperanceの逆位置 (Nanjo)",
+  "en": "Temperance - Reversed\n\"Carrying water in a sieve. You'll be swamped with irregular, useless work. Your efficiency will clearly drop, but, well, it can't be helped.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "476": {
+  "ja": "The Devilの逆位置 (Nanjo)",
+  "en": "The Devil - Reversed\n\"After rain, the ground hardens. The worst is nearly over. The economy is turning, and you'll finally be freed from work you hated.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "477": {
+  "ja": "The Towerの逆位置 (Nanjo)",
+  "en": "The Tower - Reversed\n\"A savior in hell. Someone will help you solve your problem. But get carried away and you'll pay dearly. Know when to step back.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "478": {
+  "ja": "The Starの逆位置 (Nanjo)",
+  "en": "The Star - Reversed\n\"Aim for a tiger, draw a dog. Do your ambitions ignore your real ability? The gap between dream and reality hurts; short of ideas, you'll stumble often.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "479": {
+  "ja": "The Moonの逆位置 (Nanjo)",
+  "en": "The Moon - Reversed\n\"A narrow escape. Your intuition is sharp, and you'll dodge harm in the nick of time. Things are slowly improving, so stay put and watch for now.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "480": {
+  "ja": "The Sunの逆位置 (Nanjo)",
+  "en": "The Sun - Reversed\n\"Your worst enemy is yourself. Productivity drops, and lavish spending will have you borrowing money. If your motivation stays this low, you'll lose your job.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "481": {
+  "ja": "Judgementの逆位置 (Nanjo)",
+  "en": "Judgement - Reversed\n\"What flourishes must fade. You can't recover from failure; even if you act now, it won't succeed. You may give up on something you worked on for years.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "482": {
+  "ja": "The Worldの逆位置 (Nanjo)",
+  "en": "The World - Reversed\n\"Good swimmers drown in rivers. You're stuck in a rut and a slump. Plans fail for lack of preparation and you'll taste defeat. There's a real risk of ruin.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "483": {
+  "ja": "The Foolの逆位置 (Nanjo)",
+  "en": "The Fool - Reversed\n\"Easy come, easy go. Your income becomes unstable, and a windfall is unlikely. Do anything reckless and you'll get burned. Be careful.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "492": {
+  "ja": "The Magicianの正位置 (Elly)",
+  "en": "The Magician - Upright\n\"Your relationship is ready for its next stage. Singles will sense a lovely romance about to begin, très bien!\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "493": {
+  "ja": "The High Priestessの正位置 (Elly)",
+  "en": "The High Priestess - Upright\n\"Your love for the one you've long adored will finally bloom! It's also a good time to put a full stop to a romance that isn't working.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "494": {
+  "ja": "The Empressの正位置 (Elly)",
+  "en": "The Empress - Upright\n\"Couples, you may give marriage the green light! Singles will stay in a merry, pop mood.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "495": {
+  "ja": "The Emperorの正位置 (Elly)",
+  "en": "The Emperor - Upright\n\"Loving matters more than being loved, darling. Push, push, push, and you will win your love!\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "496": {
+  "ja": "The Hierophantの正位置 (Elly)",
+  "en": "The Hierophant - Upright\n\"Someone who supports you will appear. Even if obstacles arise, good advice will see you through.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "497": {
+  "ja": "The Loversの正位置 (Elly)",
+  "en": "The Lovers - Upright\n\"You have a chance at a date with the one you admire! Why not call them and ask them out yourself? C'est parfait!\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "498": {
+  "ja": "The Chariotの正位置 (Elly)",
+  "en": "The Chariot - Upright\n\"You will defeat your rival. A bold love attack is the key point! You have the power to push through any opposition.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "499": {
+  "ja": "Strengthの正位置 (Elly)",
+  "en": "Strength - Upright\n\"You can read your partner perfectly. Even if others object, go for the happy ending!\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "500": {
+  "ja": "The Hermitの正位置 (Elly)",
+  "en": "The Hermit - Upright\n\"A time to get serious. Look carefully and you'll surely find the partner who suits you perfectly.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "501": {
+  "ja": "Wheel of Fortuneの正位置 (Elly)",
+  "en": "Wheel of Fortune - Upright\n\"Oh! A destined encounter awaits you! Timing is everything. Why not widen your circle? A fantastic romance is waiting for you!\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "502": {
+  "ja": "Justiceの正位置 (Elly)",
+  "en": "Justice - Upright\n\"What a well-matched couple! You're so compatible that even your parents and friends will approve.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "503": {
+  "ja": "The Hanged Manの正位置 (Elly)",
+  "en": "The Hanged Man - Upright\n\"To win love, some sacrifice seems unavoidable. But the you of today has the power to clear any trial.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "504": {
+  "ja": "Deathの正位置 (Elly)",
+  "en": "Death - Upright\n\"I sense a farewell... Hasn't a deep gap opened between the two of you without your noticing?\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "505": {
+  "ja": "Temperanceの正位置 (Elly)",
+  "en": "Temperance - Upright\n\"Friendship will step up into love. Couples would do well to take a little time apart.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "506": {
+  "ja": "The Devilの正位置 (Elly)",
+  "en": "The Devil - Upright\n\"You seem quite in a trance. Aren't you blinded? Tying your partner down or clinging to the past is no good.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "507": {
+  "ja": "The Towerの正位置 (Elly)",
+  "en": "The Tower - Upright\n\"A sudden parting may come: quarrels, fights with your partner... Be careful! An adventure in a weak moment would be disastrous.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "508": {
+  "ja": "The Starの正位置 (Elly)",
+  "en": "The Star - Upright\n\"Love may begin in a group of friends. Be clear in word and deed. Someone just like your ideal will appear.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "509": {
+  "ja": "The Moonの正位置 (Elly)",
+  "en": "The Moon - Upright\n\"Are you uneasy about your love? Stand firm so gossip doesn't sway you. Excuses and lies will be found out at once.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "510": {
+  "ja": "The Sunの正位置 (Elly)",
+  "en": "The Sun - Upright\n\"Magnifique! The best couple! Show your feelings straight and you'll surely enjoy an open relationship.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "511": {
+  "ja": "Judgementの正位置 (Elly)",
+  "en": "Judgement - Upright\n\"Past heartache will be swept away. Confessing your feelings is good. Couples, keep loving as you always have; that is best.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "512": {
+  "ja": "The Worldの正位置 (Elly)",
+  "en": "The World - Upright\n\"The best couple! You will reach a happy ending. Singles can meet their ideal match in this period.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "513": {
+  "ja": "The Foolの正位置 (Elly)",
+  "en": "The Fool - Upright\n\"You'll enjoy a free and easy romance. A tricky approach works well. Strike boldly and things will heat up at once!\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "522": {
+  "ja": "The Magicianの逆位置 (Elly)",
+  "en": "The Magician - Reversed\n\"Aren't you so timid that you're confusing your partner? Being more honest about yourself is what matters.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "523": {
+  "ja": "The High Priestessの逆位置 (Elly)",
+  "en": "The High Priestess - Reversed\n\"Aren't you fretting only about your weak points? Treat your partner with consideration; that is important.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "524": {
+  "ja": "The Empressの逆位置 (Elly)",
+  "en": "The Empress - Reversed\n\"Aren't you leaning on your partner too much? Meddling and pointless jealousy... be careful!\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "525": {
+  "ja": "The Emperorの逆位置 (Elly)",
+  "en": "The Emperor - Reversed\n\"You tend to push like a one-man show. Aren't you forcing a selfish love on them?\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "526": {
+  "ja": "The Hierophantの逆位置 (Elly)",
+  "en": "The Hierophant - Reversed\n\"Are you anxious because you can't see a future together? Your kindness may be repaid with ingratitude.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "527": {
+  "ja": "The Loversの逆位置 (Elly)",
+  "en": "The Lovers - Reversed\n\"A fickle time. Beware of cheating and wandering hearts!\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "528": {
+  "ja": "The Chariotの逆位置 (Elly)",
+  "en": "The Chariot - Reversed\n\"A sudden attack is no good. Don't be hasty. Couples, beware of quarrels.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "529": {
+  "ja": "Strengthの逆位置 (Elly)",
+  "en": "Strength - Reversed\n\"A dangerous gamble. Vanity and bravado could bring everything to ruin.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "530": {
+  "ja": "The Hermitの逆位置 (Elly)",
+  "en": "The Hermit - Reversed\n\"You can't trust your partner, so of course you feel lonely. If love disappoints you, it's because you're too wary and think too much.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "531": {
+  "ja": "Wheel of Fortuneの逆位置 (Elly)",
+  "en": "Wheel of Fortune - Reversed\n\"You feel out of step with your partner at every turn. Even if it has ended, you can still come back if you act now.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "532": {
+  "ja": "Justiceの逆位置 (Elly)",
+  "en": "Justice - Reversed\n\"Your feelings seem one-way; this may end as unrequited love. If you have a steady and play around, you'll lose both.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "533": {
+  "ja": "The Hanged Manの逆位置 (Elly)",
+  "en": "The Hanged Man - Reversed\n\"However much you love and give, it won't be rewarded, because you only think of yourself. Look into your heart once more.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "534": {
+  "ja": "Deathの逆位置 (Elly)",
+  "en": "Death - Reversed\n\"Reincarnation. Why not try again with feelings you'd nearly given up on? The you of today can surely express them well, n'est-ce pas?\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "535": {
+  "ja": "Temperanceの逆位置 (Elly)",
+  "en": "Temperance - Reversed\n\"Haven't you grown too comfortable? Being together seems a little tiring. Keep your feelings fresh and in control.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "536": {
+  "ja": "The Devilの逆位置 (Elly)",
+  "en": "The Devil - Reversed\n\"A time to be freed from your bonds: a chance to say farewell. Your feelings for a partner you were stuck with will fade away.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "537": {
+  "ja": "The Towerの逆位置 (Elly)",
+  "en": "The Tower - Reversed\n\"I sense a dangerous mood. Endless squabbles: truly a love crisis. And if you give up, the finale will come soon.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "538": {
+  "ja": "The Starの逆位置 (Elly)",
+  "en": "The Star - Reversed\n\"If your love disappoints you or things don't go as you hoped, it's because you expect too much. Don't ask too much of your partner.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "539": {
+  "ja": "The Moonの逆位置 (Elly)",
+  "en": "The Moon - Reversed\n\"Your doubts and hesitation will clear. You'll even see through a false love.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "540": {
+  "ja": "The Sunの逆位置 (Elly)",
+  "en": "The Sun - Reversed\n\"Aren't you being selfish? Your love is heading for catastrophe.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "541": {
+  "ja": "Judgementの逆位置 (Elly)",
+  "en": "Judgement - Reversed\n\"Too late. There's no redoing it now. A halfhearted affair or a passing adventure: c'est fini.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "542": {
+  "ja": "The Worldの逆位置 (Elly)",
+  "en": "The World - Reversed\n\"Haven't you grown too comfortable? An indecisive attitude is no good. Inexperience and immaturity may leave it half-finished.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "543": {
+  "ja": "The Foolの逆位置 (Elly)",
+  "en": "The Fool - Reversed\n\"This seems to be a love just for fun. Unless you fix your fickleness, you won't find true love.\"",
+  "size": 12,
+  "leading": 1.22
+ },
+ "283": {
+  "ja": "> …",
+  "box": [
+   27,
+   203,
+   472,
+   280
+  ],
+  "en": "> Click the character you want a reading from."
+ },
+ "288": {
+  "ja": "…:…?…",
+  "en": "Nanjo: \"Hmph. Tarot is nonsense, but I'll humor you today. So, you want to know your luck in work and studies?\""
+ },
+ "289": {
+  "ja": "…:…Hai! …? …",
+  "en": "Elly: \"Bonjour! Have you any troubles of the heart? Fear not, I shall solve them for you.\""
+ },
+ "294": {
+  "ja": "> …...…4…",
+  "en": "> Click the button below to shuffle the cards. Think about what you want to know and shuffle as long as you like. When you're ready, stop shuffling and choose 4 cards."
+ },
+ "301": {
+  "ja": "…:…?… / …",
+  "ops": [
+   {
+    "erase": [
+     136,
+     14,
+     482,
+     94
+    ]
+   },
+   {
+    "text": "Nanjo: \"Which card's meaning do you want to know?\"",
+    "box": [
+     146,
+     24,
+     478,
+     92
+    ]
+   },
+   {
+    "erase": [
+     404,
+     104,
+     476,
+     125
+    ]
+   },
+   {
+    "text": "Back",
+    "box": [
+     404,
+     107,
+     476,
+     125
+    ],
+    "align": "center",
+    "font": "Arial Bold Italic.ttf",
+    "size": 11
+   }
+  ]
+ },
+ "302": {
+  "ja": "…:… card … touch …?… / …",
+  "ops": [
+   {
+    "erase": [
+     136,
+     14,
+     482,
+     94
+    ]
+   },
+   {
+    "text": "Elly: \"Would you be so kind as to touch the card you'd like explained?\"",
+    "box": [
+     146,
+     24,
+     478,
+     92
+    ]
+   },
+   {
+    "erase": [
+     404,
+     104,
+     476,
+     125
+    ]
+   },
+   {
+    "text": "Back",
+    "box": [
+     404,
+     107,
+     476,
+     125
+    ],
+    "align": "center",
+    "font": "Arial Bold Italic.ttf",
+    "size": 11
+   }
+  ]
+ },
+ "295": {
+  "ja": "シャッフル",
+  "ops": [
+   {
+    "erase": [
+     16,
+     10,
+     96,
+     29
+    ]
+   },
+   {
+    "text": "Shuffle",
+    "box": [
+     16,
+     10,
+     96,
+     29
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Bold Italic.ttf",
+    "size": 11
+   }
+  ]
+ },
+ "296": {
+  "ja": "シャッフル (hover)",
+  "ops": [
+   {
+    "erase": [
+     0,
+     0,
+     82,
+     22
+    ]
+   },
+   {
+    "text": "Shuffle",
+    "box": [
+     2,
+     2,
+     80,
+     20
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Bold Italic.ttf",
+    "size": 11,
+    "color": [
+     165,
+     165,
+     214
+    ]
+   }
+  ]
+ },
+ "297": {
+  "ja": "…!",
+  "ops": [
+   {
+    "erase": [
+     19,
+     11,
+     92,
+     30
+    ]
+   },
+   {
+    "text": "Read it!",
+    "box": [
+     19,
+     11,
+     92,
+     30
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Bold Italic.ttf",
+    "size": 11
+   }
+  ]
+ },
+ "298": {
+  "ja": "…! (hover)",
+  "ops": [
+   {
+    "erase": [
+     0,
+     0,
+     75,
+     21
+    ]
+   },
+   {
+    "text": "Read it!",
+    "box": [
+     2,
+     2,
+     73,
+     19
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Bold Italic.ttf",
+    "size": 11,
+    "color": [
+     165,
+     165,
+     214
+    ]
+   }
+  ]
+ },
+ "303": {
+  "ja": "総合結果へ",
+  "ops": [
+   {
+    "erase": [
+     2,
+     3,
+     75,
+     21
+    ]
+   },
+   {
+    "text": "Summary",
+    "box": [
+     2,
+     3,
+     75,
+     21
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Bold Italic.ttf",
+    "size": 10
+   }
+  ]
+ },
+ "304": {
+  "ja": "総合結果へ (hover)",
+  "ops": [
+   {
+    "erase": [
+     0,
+     0,
+     75,
+     21
+    ]
+   },
+   {
+    "text": "Summary",
+    "box": [
+     2,
+     2,
+     73,
+     19
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Bold Italic.ttf",
+    "size": 10,
+    "color": [
+     165,
+     165,
+     214
+    ]
+   }
+  ]
+ },
+ "306": {
+  "ja": "前の画面へ (hover)",
+  "ops": [
+   {
+    "erase": [
+     0,
+     0,
+     74,
+     21
+    ]
+   },
+   {
+    "text": "Back",
+    "box": [
+     2,
+     2,
+     72,
+     19
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Bold Italic.ttf",
+    "size": 11,
+    "color": [
+     156,
+     173,
+     189
+    ]
+   }
+  ]
+ },
+ "310": {
+  "ja": "前の画面へ",
+  "ops": [
+   {
+    "erase": [
+     13,
+     6,
+     86,
+     25
+    ]
+   },
+   {
+    "text": "Back",
+    "box": [
+     13,
+     6,
+     86,
+     25
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Bold Italic.ttf",
+    "size": 11
+   }
+  ]
+ }
+}

@@ -1,0 +1,2068 @@
+{
+ "_movie": "karaoke.dxr: Tadashi & Tamaki's karaoke room, 'The Satomi Tadashi Pharmacy Song' (lyrics over the video)",
+ "283": {
+  "ja": "…:…?… > … / …",
+  "ops": [
+   {
+    "erase": [
+     31,
+     16,
+     479,
+     77
+    ]
+   },
+   {
+    "text": "Tadashi: \"It's a video my old man made... Wanna watch it?\"",
+    "box": [
+     37,
+     20,
+     475,
+     77
+    ],
+    "size": 13
+   },
+   {
+    "erase": [
+     52,
+     77,
+     162,
+     99
+    ],
+    "thr": 60,
+    "sat": 255
+   },
+   {
+    "text": "Yes",
+    "box": [
+     55,
+     82,
+     88,
+     99
+    ],
+    "align": "center"
+   },
+   {
+    "text": "/",
+    "box": [
+     88,
+     82,
+     110,
+     99
+    ],
+    "align": "center",
+    "color": [
+     90,
+     90,
+     222
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     110,
+     82,
+     159,
+     99
+    ],
+    "align": "center"
+   }
+  ]
+ },
+ "284": {
+  "ja": "はい (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     283,
+     55,
+     79,
+     [
+      52,
+      77,
+      162,
+      99,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "Yes",
+    "box": [
+     1,
+     3,
+     34,
+     20
+    ],
+    "align": "center",
+    "color": [
+     99,
+     107,
+     198
+    ]
+   }
+  ]
+ },
+ "285": {
+  "ja": "いいえ (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     283,
+     110,
+     79,
+     [
+      52,
+      77,
+      162,
+      99,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     2,
+     3,
+     51,
+     20
+    ],
+    "align": "center",
+    "color": [
+     99,
+     107,
+     198
+    ]
+   }
+  ]
+ },
+ "289": {
+  "ja": "… / …",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     122,
+     346
+    ]
+   },
+   {
+    "text": "To restore your hit points,",
+    "box": [
+     40,
+     1,
+     370,
+     63
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Medicine, Beads!",
+    "box": [
+     122,
+     62,
+     287,
+     98
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "♪1",
+    "box": [
+     4,
+     0,
+     60,
+     22
+    ],
+    "font": "Arial Unicode.ttf",
+    "size": 17,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ]
+   }
+  ]
+ },
+ "290": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     127,
+     347
+    ]
+   },
+   {
+    "text": "To restore your hit points,",
+    "box": [
+     35,
+     0,
+     365,
+     62
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "♪1",
+    "box": [
+     -1,
+     -1,
+     55,
+     21
+    ],
+    "font": "Arial Unicode.ttf",
+    "size": 17,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ]
+   }
+  ]
+ },
+ "291": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     242,
+     408
+    ]
+   },
+   {
+    "text": "Medicine, Beads!",
+    "box": [
+     2,
+     0,
+     167,
+     36
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "292": {
+  "ja": "… / …",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     160,
+     371
+    ]
+   },
+   {
+    "text": "Near death? Help your friends!",
+    "box": [
+     3,
+     1,
+     334,
+     40
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Revival Bead and Incense",
+    "box": [
+     47,
+     37,
+     293,
+     72
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "293": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     161,
+     372
+    ]
+   },
+   {
+    "text": "Near death? Help your friends!",
+    "box": [
+     2,
+     0,
+     333,
+     39
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "294": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     205,
+     408
+    ]
+   },
+   {
+    "text": "Revival Bead and Incense",
+    "box": [
+     2,
+     0,
+     248,
+     35
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "295": {
+  "ja": "… / …",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     152,
+     374
+    ]
+   },
+   {
+    "text": "Turned to stone? Dis-Stone!",
+    "box": [
+     19,
+     0,
+     325,
+     37
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Poison hurts? Dis-Poison!",
+    "box": [
+     0,
+     34,
+     344,
+     70
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "296": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     169,
+     374
+    ]
+   },
+   {
+    "text": "Turned to stone? Dis-Stone!",
+    "box": [
+     2,
+     0,
+     308,
+     37
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "297": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     150,
+     408
+    ]
+   },
+   {
+    "text": "Poison hurts? Dis-Poison!",
+    "box": [
+     2,
+     0,
+     346,
+     36
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "298": {
+  "ja": "… / …",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     115,
+     374
+    ]
+   },
+   {
+    "text": "When you're paralyzed, Dis-Paralyze,",
+    "box": [
+     0,
+     -1,
+     417,
+     36
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "to cure your illness, Dis-Sick!",
+    "box": [
+     42,
+     35,
+     378,
+     71
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "299": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     113,
+     373
+    ]
+   },
+   {
+    "text": "When you're paralyzed, Dis-Paralyze,",
+    "box": [
+     2,
+     0,
+     419,
+     37
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "300": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     155,
+     409
+    ]
+   },
+   {
+    "text": "to cure your illness, Dis-Sick!",
+    "box": [
+     2,
+     0,
+     338,
+     36
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "301": {
+  "ja": "… / …",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     140,
+     373
+    ]
+   },
+   {
+    "text": "Always on your side when you fight:",
+    "box": [
+     15,
+     3,
+     347,
+     38
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "the pharmacy in our town!",
+    "box": [
+     3,
+     35,
+     357,
+     71
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "302": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     153,
+     376
+    ]
+   },
+   {
+    "text": "Always on your side when you fight:",
+    "box": [
+     2,
+     0,
+     334,
+     35
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "303": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     141,
+     408
+    ]
+   },
+   {
+    "text": "the pharmacy in our town!",
+    "box": [
+     2,
+     0,
+     356,
+     36
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "304": {
+  "ja": "… / …",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     126,
+     346
+    ]
+   },
+   {
+    "text": "Use them when you save:",
+    "box": [
+     40,
+     0,
+     367,
+     64
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Medicine, Beads!",
+    "box": [
+     118,
+     63,
+     290,
+     97
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "♪2",
+    "box": [
+     4,
+     0,
+     60,
+     22
+    ],
+    "font": "Arial Unicode.ttf",
+    "size": 17,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ]
+   }
+  ]
+ },
+ "305": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     127,
+     346
+    ]
+   },
+   {
+    "text": "Use them when you save:",
+    "box": [
+     39,
+     0,
+     366,
+     64
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "♪2",
+    "box": [
+     3,
+     0,
+     59,
+     22
+    ],
+    "font": "Arial Unicode.ttf",
+    "size": 17,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ]
+   }
+  ]
+ },
+ "306": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     242,
+     409
+    ]
+   },
+   {
+    "text": "Medicine, Beads!",
+    "box": [
+     2,
+     0,
+     174,
+     34
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "307": {
+  "ja": "… / …",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     167,
+     375
+    ]
+   },
+   {
+    "text": "Fainted? No need for tears:",
+    "box": [
+     3,
+     -1,
+     320,
+     36
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Revival Bead and Incense",
+    "box": [
+     42,
+     34,
+     283,
+     68
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "308": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     168,
+     374
+    ]
+   },
+   {
+    "text": "Fainted? No need for tears:",
+    "box": [
+     2,
+     0,
+     319,
+     37
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "309": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     207,
+     409
+    ]
+   },
+   {
+    "text": "Revival Bead and Incense",
+    "box": [
+     2,
+     0,
+     243,
+     34
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "310": {
+  "ja": "… / …",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     133,
+     374
+    ]
+   },
+   {
+    "text": "Too heavy to carry? Dis-Stone.",
+    "box": [
+     17,
+     1,
+     372,
+     35
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Forget it, you're dying: Dis-Poison!",
+    "box": [
+     1,
+     33,
+     388,
+     69
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "311": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     148,
+     375
+    ]
+   },
+   {
+    "text": "Too heavy to carry? Dis-Stone.",
+    "box": [
+     2,
+     0,
+     357,
+     34
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "312": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     132,
+     407
+    ]
+   },
+   {
+    "text": "Forget it, you're dying: Dis-Poison!",
+    "box": [
+     2,
+     0,
+     389,
+     36
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "313": {
+  "ja": "… / …",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     135,
+     374
+    ]
+   },
+   {
+    "text": "You want them when you're out:",
+    "box": [
+     8,
+     0,
+     373,
+     34
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Dis-Paralyze and Dis-Sick!",
+    "box": [
+     3,
+     33,
+     380,
+     69
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "314": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     141,
+     374
+    ]
+   },
+   {
+    "text": "You want them when you're out:",
+    "box": [
+     2,
+     0,
+     367,
+     34
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "315": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     136,
+     407
+    ]
+   },
+   {
+    "text": "Dis-Paralyze and Dis-Sick!",
+    "box": [
+     2,
+     0,
+     379,
+     36
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "316": {
+  "ja": "… / …",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     119,
+     375
+    ]
+   },
+   {
+    "text": "Always there till they're gone,",
+    "box": [
+     0,
+     -2,
+     408,
+     35
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "that's why we love our pharmacy!",
+    "box": [
+     25,
+     33,
+     389,
+     68
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "317": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     117,
+     373
+    ]
+   },
+   {
+    "text": "Always there till they're gone,",
+    "box": [
+     2,
+     0,
+     410,
+     37
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "318": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     142,
+     408
+    ]
+   },
+   {
+    "text": "that's why we love our pharmacy!",
+    "box": [
+     2,
+     0,
+     366,
+     35
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "319": {
+  "ja": "… / …",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     127,
+     345
+    ]
+   },
+   {
+    "text": "Toothache, tummy, head or back,",
+    "box": [
+     40,
+     0,
+     344,
+     65
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "we've got the cure!",
+    "box": [
+     91,
+     63,
+     317,
+     98
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "♪3",
+    "box": [
+     4,
+     0,
+     60,
+     22
+    ],
+    "font": "Arial Unicode.ttf",
+    "size": 17,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ]
+   }
+  ]
+ },
+ "320": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     126,
+     345
+    ]
+   },
+   {
+    "text": "Toothache, tummy, head or back,",
+    "box": [
+     41,
+     0,
+     345,
+     65
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "♪3",
+    "box": [
+     5,
+     0,
+     61,
+     22
+    ],
+    "font": "Arial Unicode.ttf",
+    "size": 17,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ]
+   }
+  ]
+ },
+ "321": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     216,
+     408
+    ]
+   },
+   {
+    "text": "we've got the cure!",
+    "box": [
+     2,
+     0,
+     228,
+     35
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "322": {
+  "ja": "… / …",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     151,
+     374
+    ]
+   },
+   {
+    "text": "Ulcers, eye drops, herbs to go,",
+    "box": [
+     33,
+     0,
+     316,
+     37
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "whatever ails you, leave it to us!",
+    "box": [
+     5,
+     35,
+     347,
+     68
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "323": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     182,
+     374
+    ]
+   },
+   {
+    "text": "Ulcers, eye drops, herbs to go,",
+    "box": [
+     2,
+     0,
+     285,
+     37
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "324": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     154,
+     409
+    ]
+   },
+   {
+    "text": "whatever ails you, leave it to us!",
+    "box": [
+     2,
+     0,
+     344,
+     33
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "325": {
+  "ja": "… / …",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     151,
+     375
+    ]
+   },
+   {
+    "text": "What a handy world: Revival Incense!",
+    "box": [
+     28,
+     0,
+     322,
+     36
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Swallowed poison? Dis-Poison!",
+    "box": [
+     2,
+     32,
+     349,
+     67
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "326": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     177,
+     375
+    ]
+   },
+   {
+    "text": "What a handy world: Revival Incense!",
+    "box": [
+     2,
+     0,
+     296,
+     36
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "327": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     151,
+     407
+    ]
+   },
+   {
+    "text": "Swallowed poison? Dis-Poison!",
+    "box": [
+     2,
+     0,
+     349,
+     35
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "328": {
+  "ja": "… / 200… 300…",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     147,
+     374
+    ]
+   },
+   {
+    "text": "At this rate, the average age",
+    "box": [
+     3,
+     3,
+     358,
+     36
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "will be 200, even 300!",
+    "box": [
+     65,
+     36,
+     297,
+     69
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "329": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     148,
+     377
+    ]
+   },
+   {
+    "text": "At this rate, the average age",
+    "box": [
+     2,
+     0,
+     357,
+     33
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "330": {
+  "ja": "200… 300… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     210,
+     410
+    ]
+   },
+   {
+    "text": "will be 200, even 300!",
+    "box": [
+     2,
+     0,
+     234,
+     33
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "331": {
+  "ja": "… / …",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     134,
+     374
+    ]
+   },
+   {
+    "text": "Supporting everybody's heart:",
+    "box": [
+     10,
+     1,
+     376,
+     37
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Satomi Tadashi Pharmacy!",
+    "box": [
+     1,
+     34,
+     383,
+     72
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     255,
+     0,
+     49
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "332": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     142,
+     375
+    ]
+   },
+   {
+    "text": "Supporting everybody's heart:",
+    "box": [
+     2,
+     0,
+     368,
+     36
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "333": {
+  "ja": "… (highlight)",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     133,
+     408
+    ]
+   },
+   {
+    "text": "Satomi Tadashi Pharmacy!",
+    "box": [
+     2,
+     0,
+     384,
+     38
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 21,
+    "stroke": 2,
+    "stroke_color": [
+     49,
+     57,
+     239
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "288": {
+  "ja": "…(logo) “…” …:…:…",
+  "ops": [
+   {
+    "restore": [
+     286,
+     166,
+     210,
+     [
+      0,
+      100,
+      307,
+      157
+     ]
+    ]
+   },
+   {
+    "text": "\"The Satomi Tadashi Pharmacy Song\"",
+    "box": [
+     0,
+     104,
+     307,
+     128
+    ],
+    "align": "center",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 15,
+    "stroke": 2,
+    "stroke_color": [
+     239,
+     0,
+     0
+    ]
+   },
+   {
+    "text": "Lyrics: Misaki Okibe   Music: Hidehito Aoki",
+    "box": [
+     0,
+     131,
+     307,
+     157
+    ],
+    "align": "center",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 12,
+    "stroke": 2,
+    "stroke_color": [
+     239,
+     0,
+     0
+    ]
+   }
+  ]
+ },
+ "334": {
+  "ja": "…:…",
+  "ops": [
+   {
+    "bg_from": [
+     286,
+     476,
+     415
+    ]
+   },
+   {
+    "text": "Filmed in Mikage-cho",
+    "box": [
+     0,
+     0,
+     164,
+     33
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 15,
+    "stroke": 2,
+    "stroke_color": [
+     0,
+     0,
+     0
+    ]
+   }
+  ]
+ }
+}

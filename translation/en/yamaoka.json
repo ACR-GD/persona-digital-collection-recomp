@@ -1,0 +1,330 @@
+{
+ "_movie": "yamaoka.dxr: Yamaoka's VTRs: 4 remix movies (titles already English) + the unused Snow Queen ending; red LED menu and subtitles",
+ "9": {
+  "ja": "…:…! …VTR…?…",
+  "ops": [
+   {
+    "erase": [
+     30,
+     15,
+     478,
+     75
+    ]
+   },
+   {
+    "text": "Butler Yamaoka: \"It has been a long time. I, Yamaoka, have returned, wishing to see you all once more! Would you care to view the secret VTRs I have recorded?\"",
+    "box": [
+     36,
+     19,
+     474,
+     75
+    ],
+    "size": 12
+   },
+   {
+    "erase": [
+     47,
+     75,
+     161,
+     101
+    ],
+    "thr": 60,
+    "sat": 255
+   },
+   {
+    "text": "Yes",
+    "box": [
+     50,
+     80,
+     90,
+     101
+    ],
+    "align": "center"
+   },
+   {
+    "text": "/",
+    "box": [
+     90,
+     80,
+     105,
+     101
+    ],
+    "align": "center",
+    "color": [
+     90,
+     90,
+     222
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     105,
+     80,
+     158,
+     101
+    ],
+    "align": "center"
+   }
+  ]
+ },
+ "12": {
+  "ja": "はい (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     9,
+     50,
+     77,
+     [
+      47,
+      75,
+      161,
+      101,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "Yes",
+    "box": [
+     1,
+     3,
+     41,
+     24
+    ],
+    "align": "center",
+    "color": [
+     85,
+     95,
+     170
+    ]
+   }
+  ]
+ },
+ "13": {
+  "ja": "いいえ (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     9,
+     105,
+     77,
+     [
+      47,
+      75,
+      161,
+      101,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     2,
+     3,
+     55,
+     24
+    ],
+    "align": "center",
+    "color": [
+     85,
+     95,
+     170
+    ]
+   }
+  ]
+ },
+ "19": {
+  "ja": "まぼろしのEnding",
+  "ops": [
+   {
+    "led_grid": [
+     18,
+     4,
+     202,
+     17
+    ],
+    "origin": [
+     7,
+     6
+    ]
+   },
+   {
+    "pixel_text": "Phantom Ending",
+    "box": [
+     20,
+     4,
+     202,
+     17
+    ],
+    "size": 13
+   }
+  ]
+ },
+ "24": {
+  "ja": "…",
+  "ops": [
+   {
+    "led_grid": [
+     0,
+     0,
+     194,
+     24
+    ],
+    "origin": [
+     1,
+     5
+    ]
+   },
+   {
+    "pixel_text": "\"Once, I dreamed I was a butterfly.\"",
+    "box": [
+     3,
+     1,
+     191,
+     22
+    ],
+    "size": 13
+   }
+  ]
+ },
+ "25": {
+  "ja": "…",
+  "ops": [
+   {
+    "led_grid": [
+     0,
+     0,
+     365,
+     36
+    ],
+    "origin": [
+     0,
+     3
+    ]
+   },
+   {
+    "pixel_text": "\"I fluttered about, a butterfly, content. Then I woke,\nand there I was, unmistakably myself.\"",
+    "box": [
+     3,
+     1,
+     362,
+     34
+    ],
+    "size": 13
+   }
+  ]
+ },
+ "26": {
+  "ja": "…",
+  "ops": [
+   {
+    "led_grid": [
+     0,
+     0,
+     414,
+     23
+    ],
+    "origin": [
+     5,
+     5
+    ]
+   },
+   {
+    "pixel_text": "\"Was I dreaming I was a butterfly, or is the butterfly dreaming it is me?\"",
+    "box": [
+     3,
+     1,
+     411,
+     21
+    ],
+    "size": 13
+   }
+  ]
+ },
+ "27": {
+  "ja": "…",
+  "ops": [
+   {
+    "led_grid": [
+     0,
+     0,
+     411,
+     37
+    ],
+    "origin": [
+     2,
+     3
+    ]
+   },
+   {
+    "pixel_text": "\"Surely there is a difference between me and the butterfly,\nyet no absolute one. Cause and effect do not hold there.\"",
+    "box": [
+     3,
+     1,
+     408,
+     35
+    ],
+    "size": 13
+   }
+  ]
+ },
+ "28": {
+  "ja": "…",
+  "ops": [
+   {
+    "led_grid": [
+     0,
+     0,
+     396,
+     30
+    ],
+    "origin": [
+     3,
+     3
+    ]
+   },
+   {
+    "pixel_text": "The Snow Queen ending movie, cut for disc space.",
+    "box": [
+     3,
+     1,
+     393,
+     28
+    ],
+    "size": 13
+   }
+  ]
+ },
+ "14": {
+  "ja": "まぼろしのEnding (menu)",
+  "ops": [
+   {
+    "led_grid": [
+     108,
+     217,
+     236,
+     234
+    ],
+    "origin": [
+     7,
+     5
+    ]
+   },
+   {
+    "pixel_text": "Phantom Ending",
+    "box": [
+     110,
+     218,
+     236,
+     233
+    ],
+    "size": 13
+   }
+  ]
+ }
+}

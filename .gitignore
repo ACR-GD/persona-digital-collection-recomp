@@ -1,0 +1,14 @@
+# game content and build products stay out of the repo
+*.iso
+iso_extract/
+/work/
+/data/
+/gen/
+/build/
+/save/
+persona
+persona.exe
+.DS_Store
+__pycache__/
+/data_en/
+/.claude/

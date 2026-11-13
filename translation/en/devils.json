@@ -1,0 +1,8760 @@
+{
+ "_movie": "devils.dxr: 168 demon cards with captions; 'Crawly's spell card collection', VOICE, QUIT, BACK are English",
+ "9": {
+  "ja": "…:…? …",
+  "ops": [
+   {
+    "erase": [
+     29,
+     14,
+     477,
+     75
+    ]
+   },
+   {
+    "text": "Demon Boy: \"I collect cards too, heh heh... wanna see? I've got some amazing ones... fu fu fu.\"",
+    "box": [
+     35,
+     18,
+     473,
+     75
+    ],
+    "size": 13
+   },
+   {
+    "erase": [
+     52,
+     75,
+     160,
+     93
+    ],
+    "thr": 60,
+    "sat": 255
+   },
+   {
+    "text": "Yes",
+    "box": [
+     55,
+     80,
+     87,
+     93
+    ],
+    "align": "center"
+   },
+   {
+    "text": "/",
+    "box": [
+     87,
+     80,
+     111,
+     93
+    ],
+    "align": "center",
+    "color": [
+     90,
+     90,
+     222
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     111,
+     80,
+     157,
+     93
+    ],
+    "align": "center"
+   }
+  ]
+ },
+ "10": {
+  "ja": "はい (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     9,
+     55,
+     77,
+     [
+      52,
+      75,
+      160,
+      93,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "Yes",
+    "box": [
+     1,
+     3,
+     33,
+     16
+    ],
+    "align": "center",
+    "color": [
+     107,
+     107,
+     231
+    ]
+   }
+  ]
+ },
+ "11": {
+  "ja": "いいえ (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     9,
+     111,
+     77,
+     [
+      52,
+      75,
+      160,
+      93,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     2,
+     3,
+     48,
+     16
+    ],
+    "align": "center",
+    "color": [
+     107,
+     107,
+     231
+    ]
+   }
+  ]
+ },
+ "79": {
+  "ja": "魔族 夜魔【Evildark】 Jahi",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     294,
+     30
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Night [Evildark]",
+    "box": [
+     4,
+     7,
+     150,
+     27
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Jahi",
+    "box": [
+     150,
+     7,
+     292,
+     27
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "81": {
+  "ja": "魔族 夜魔【Evildark】 Tlazolteotl",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     332,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Night [Evildark]",
+    "box": [
+     4,
+     2,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Tlazolteotl",
+    "box": [
+     150,
+     2,
+     330,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "83": {
+  "ja": "魔族 夜魔【Evildark】 Succubus",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     306,
+     27
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Night [Evildark]",
+    "box": [
+     4,
+     3,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Succubus",
+    "box": [
+     150,
+     3,
+     304,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "85": {
+  "ja": "魔族 夜魔【Evildark】 Incubus",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     315,
+     25
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Night [Evildark]",
+    "box": [
+     4,
+     3,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Incubus",
+    "box": [
+     150,
+     3,
+     313,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "87": {
+  "ja": "魔族 夜魔【Evildark】 Hinoenma",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     304,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Night [Evildark]",
+    "box": [
+     4,
+     1,
+     150,
+     20
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Hinoenma",
+    "box": [
+     150,
+     1,
+     302,
+     20
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "89": {
+  "ja": "魔族 夜魔【Evildark】 Paligar",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     301,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Night [Evildark]",
+    "box": [
+     4,
+     2,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Paligar",
+    "box": [
+     150,
+     2,
+     299,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "91": {
+  "ja": "魔族 夜魔【Evildark】 Lilim",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     279,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Night [Evildark]",
+    "box": [
+     4,
+     3,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Lilim",
+    "box": [
+     150,
+     3,
+     277,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "93": {
+  "ja": "魔族 夜魔【Evildark】 Nightmare",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     297,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Night [Evildark]",
+    "box": [
+     4,
+     2,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Nightmare",
+    "box": [
+     150,
+     2,
+     295,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "95": {
+  "ja": "魔族 夜魔【Evildark】 Nacht Kobold",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     317,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Night [Evildark]",
+    "box": [
+     4,
+     1,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Nacht Kobold",
+    "box": [
+     150,
+     1,
+     315,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "97": {
+  "ja": "魔族 妖魔【Elemental】 Ganesha",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     304,
+     25
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fairy [Elemental]",
+    "box": [
+     4,
+     2,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Ganesha",
+    "box": [
+     150,
+     2,
+     302,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "99": {
+  "ja": "魔族 妖魔【Elemental】 Xiuhtecuhtli",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     307,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fairy [Elemental]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Xiuhtecuhtli",
+    "box": [
+     150,
+     1,
+     305,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "101": {
+  "ja": "魔族 妖魔【Elemental】 Tengu",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     285,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fairy [Elemental]",
+    "box": [
+     4,
+     2,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Tengu",
+    "box": [
+     150,
+     2,
+     283,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "103": {
+  "ja": "魔族 妖魔【Elemental】 Cupid",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     312,
+     28
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fairy [Elemental]",
+    "box": [
+     4,
+     5,
+     150,
+     26
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Cupid",
+    "box": [
+     150,
+     5,
+     310,
+     26
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "105": {
+  "ja": "魔族 妖魔【Elemental】 Jinn",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     277,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fairy [Elemental]",
+    "box": [
+     4,
+     2,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Jinn",
+    "box": [
+     150,
+     2,
+     275,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "107": {
+  "ja": "魔族 妖魔【Elemental】 Haokah",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     305,
+     25
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fairy [Elemental]",
+    "box": [
+     4,
+     3,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Haokah",
+    "box": [
+     150,
+     3,
+     303,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "109": {
+  "ja": "魔族 妖魔【Elemental】 Gandharva",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     314,
+     28
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fairy [Elemental]",
+    "box": [
+     4,
+     3,
+     150,
+     24
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Gandharva",
+    "box": [
+     150,
+     3,
+     312,
+     24
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "111": {
+  "ja": "魔族 妖魔【Elemental】 Agathion",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     306,
+     28
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fairy [Elemental]",
+    "box": [
+     4,
+     3,
+     150,
+     25
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Agathion",
+    "box": [
+     150,
+     3,
+     304,
+     25
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "113": {
+  "ja": "魔族 妖精【Elemental】 Oberon",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     293,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fairy [Elemental]",
+    "box": [
+     4,
+     3,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Oberon",
+    "box": [
+     150,
+     3,
+     291,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "115": {
+  "ja": "魔族 妖精【Elemental】 Titania",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     312,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fairy [Elemental]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Titania",
+    "box": [
+     150,
+     1,
+     310,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "117": {
+  "ja": "魔族 妖精【Elemental】 Sumizome",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     287,
+     25
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fairy [Elemental]",
+    "box": [
+     4,
+     1,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Sumizome",
+    "box": [
+     150,
+     1,
+     285,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "119": {
+  "ja": "魔族 妖精【Elemental】 Polisoon",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     305,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fairy [Elemental]",
+    "box": [
+     4,
+     0,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Polisoon",
+    "box": [
+     150,
+     0,
+     303,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "121": {
+  "ja": "魔族 妖精【Elemental】 Dark Elf",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     311,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fairy [Elemental]",
+    "box": [
+     4,
+     1,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Dark Elf",
+    "box": [
+     150,
+     1,
+     309,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "123": {
+  "ja": "魔族 妖精【Elemental】 Rusalka",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     302,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fairy [Elemental]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Rusalka",
+    "box": [
+     150,
+     1,
+     300,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "125": {
+  "ja": "魔族 妖精【Elemental】 Jack-o'-Lantern",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     322,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fairy [Elemental]",
+    "box": [
+     4,
+     1,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Jack-o'-Lantern",
+    "box": [
+     150,
+     1,
+     320,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "127": {
+  "ja": "魔族 妖精【Elemental】 Jack Frost",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     322,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fairy [Elemental]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Jack Frost",
+    "box": [
+     150,
+     1,
+     320,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "129": {
+  "ja": "魔族 妖精【Elemental】 Pixie",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     293,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fairy [Elemental]",
+    "box": [
+     4,
+     0,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Pixie",
+    "box": [
+     150,
+     0,
+     291,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "131": {
+  "ja": "飛天族 天使【Holylight】 Cherub",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     293,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Divine [Holylight]",
+    "box": [
+     4,
+     1,
+     150,
+     24
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Cherub",
+    "box": [
+     150,
+     1,
+     291,
+     24
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "133": {
+  "ja": "飛天族 天使【Holylight】 Throne",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     292,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Divine [Holylight]",
+    "box": [
+     4,
+     0,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Throne",
+    "box": [
+     150,
+     0,
+     290,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "135": {
+  "ja": "飛天族 天使【Holylight】 Dominion",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     307,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Divine [Holylight]",
+    "box": [
+     4,
+     0,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Dominion",
+    "box": [
+     150,
+     0,
+     305,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "137": {
+  "ja": "飛天族 天使【Holylight】 Virtue",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     316,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Divine [Holylight]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Virtue",
+    "box": [
+     150,
+     1,
+     314,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "139": {
+  "ja": "飛天族 天使【Holylight】 Power",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     291,
+     20
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Divine [Holylight]",
+    "box": [
+     4,
+     0,
+     150,
+     20
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Power",
+    "box": [
+     150,
+     0,
+     289,
+     20
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "141": {
+  "ja": "飛天族 天使【Holylight】 Principality",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     326,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Divine [Holylight]",
+    "box": [
+     4,
+     0,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Principality",
+    "box": [
+     150,
+     0,
+     324,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "143": {
+  "ja": "飛天族 天使【Holylight】 Archangel",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     334,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Divine [Holylight]",
+    "box": [
+     4,
+     0,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Archangel",
+    "box": [
+     150,
+     0,
+     332,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "145": {
+  "ja": "飛天族 天使【Holylight】 Angel",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     306,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Divine [Holylight]",
+    "box": [
+     4,
+     0,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Angel",
+    "box": [
+     150,
+     0,
+     304,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "147": {
+  "ja": "飛天族 堕天使【Evildark】 Adramelech",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     321,
+     20
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fallen [Evildark]",
+    "box": [
+     4,
+     0,
+     150,
+     20
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Adramelech",
+    "box": [
+     150,
+     0,
+     319,
+     20
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "149": {
+  "ja": "飛天族 堕天使【Evildark】 Paimon",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     304,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fallen [Evildark]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Paimon",
+    "box": [
+     150,
+     1,
+     302,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "151": {
+  "ja": "飛天族 堕天使【Evildark】 Barbatos",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     314,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fallen [Evildark]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Barbatos",
+    "box": [
+     150,
+     1,
+     312,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "153": {
+  "ja": "飛天族 堕天使【Evildark】 Berith",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     295,
+     19
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fallen [Evildark]",
+    "box": [
+     4,
+     0,
+     150,
+     19
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Berith",
+    "box": [
+     150,
+     0,
+     293,
+     19
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "155": {
+  "ja": "飛天族 堕天使【Evildark】 Alastor",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     321,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fallen [Evildark]",
+    "box": [
+     4,
+     0,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Alastor",
+    "box": [
+     150,
+     0,
+     319,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "157": {
+  "ja": "飛天族 堕天使【Evildark】 Eligor",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     317,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fallen [Evildark]",
+    "box": [
+     4,
+     0,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Eligor",
+    "box": [
+     150,
+     0,
+     315,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "159": {
+  "ja": "飛天族 堕天使【Evildark】 Malphas",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     312,
+     20
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fallen [Evildark]",
+    "box": [
+     4,
+     0,
+     150,
+     20
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Malphas",
+    "box": [
+     150,
+     0,
+     310,
+     20
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "161": {
+  "ja": "飛天族 堕天使【Evildark】 Nisroc",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     306,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fallen [Evildark]",
+    "box": [
+     4,
+     1,
+     150,
+     20
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Nisroc",
+    "box": [
+     150,
+     1,
+     304,
+     20
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "163": {
+  "ja": "飛天族 堕天使【Evildark】 Ukobach",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     306,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fallen [Evildark]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Ukobach",
+    "box": [
+     150,
+     1,
+     304,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "165": {
+  "ja": "龍族 龍王【Holylight】 Ouroboros",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     300,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Dragon King [Holylight]",
+    "box": [
+     4,
+     0,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Ouroboros",
+    "box": [
+     150,
+     0,
+     298,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "167": {
+  "ja": "龍族 龍王【Holylight】 Quetzalcoatl",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     297,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Dragon King [Holylight]",
+    "box": [
+     4,
+     0,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Quetzalcoatl",
+    "box": [
+     150,
+     0,
+     295,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "169": {
+  "ja": "龍族 龍王【Holylight】 Otohime",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     285,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Dragon King [Holylight]",
+    "box": [
+     4,
+     1,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Otohime",
+    "box": [
+     150,
+     1,
+     283,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "171": {
+  "ja": "龍族 龍王【Holylight】 Mizuchi",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     283,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Dragon King [Holylight]",
+    "box": [
+     4,
+     1,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Mizuchi",
+    "box": [
+     150,
+     1,
+     281,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "173": {
+  "ja": "龍族 龍王【Holylight】 Naga",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     283,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Dragon King [Holylight]",
+    "box": [
+     4,
+     1,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Naga",
+    "box": [
+     150,
+     1,
+     281,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "175": {
+  "ja": "龍族 龍王【Holylight】 Nozuchi",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     281,
+     25
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Dragon King [Holylight]",
+    "box": [
+     4,
+     2,
+     150,
+     24
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Nozuchi",
+    "box": [
+     150,
+     2,
+     279,
+     24
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "177": {
+  "ja": "龍族 龍王【Holylight】 Yato-no-Kami",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     295,
+     25
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Dragon King [Holylight]",
+    "box": [
+     4,
+     0,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Yato-no-Kami",
+    "box": [
+     150,
+     0,
+     293,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "179": {
+  "ja": "龍族 邪龍【Physical】 Fafnir",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     307,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Drake [Physical]",
+    "box": [
+     4,
+     1,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Fafnir",
+    "box": [
+     150,
+     1,
+     305,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "181": {
+  "ja": "龍族 邪龍【Physical】 Crom Cruach",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     331,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Drake [Physical]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Crom Cruach",
+    "box": [
+     150,
+     1,
+     329,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "183": {
+  "ja": "龍族 邪龍【Physical】 Mushussu",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     305,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Drake [Physical]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Mushussu",
+    "box": [
+     150,
+     1,
+     303,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "185": {
+  "ja": "龍族 邪龍【Physical】 Kiyohime",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     287,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Drake [Physical]",
+    "box": [
+     4,
+     1,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Kiyohime",
+    "box": [
+     150,
+     1,
+     285,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "187": {
+  "ja": "龍族 邪龍【Physical】 Humbaba",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     288,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Drake [Physical]",
+    "box": [
+     4,
+     3,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Humbaba",
+    "box": [
+     150,
+     3,
+     286,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "189": {
+  "ja": "龍族 邪龍【Physical】 Wyvern",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     301,
+     19
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Drake [Physical]",
+    "box": [
+     4,
+     0,
+     150,
+     19
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Wyvern",
+    "box": [
+     150,
+     0,
+     299,
+     19
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "191": {
+  "ja": "龍族 邪龍【Physical】 Cockatrice",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     304,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Drake [Physical]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Cockatrice",
+    "box": [
+     150,
+     1,
+     302,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "193": {
+  "ja": "鳥族 妖鳥【Elemental】 Roc",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     275,
+     19
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Avian [Elemental]",
+    "box": [
+     4,
+     0,
+     150,
+     19
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Roc",
+    "box": [
+     150,
+     0,
+     273,
+     19
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "195": {
+  "ja": "鳥族 妖鳥【Elemental】 Aello",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     293,
+     20
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Avian [Elemental]",
+    "box": [
+     4,
+     1,
+     150,
+     20
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Aello",
+    "box": [
+     150,
+     1,
+     291,
+     20
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "197": {
+  "ja": "鳥族 妖鳥【Elemental】 Celaeno",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     299,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Avian [Elemental]",
+    "box": [
+     4,
+     0,
+     150,
+     20
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Celaeno",
+    "box": [
+     150,
+     0,
+     297,
+     20
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "199": {
+  "ja": "鳥族 妖鳥【Elemental】 Ocypete",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     310,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Avian [Elemental]",
+    "box": [
+     4,
+     0,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Ocypete",
+    "box": [
+     150,
+     0,
+     308,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "201": {
+  "ja": "鳥族 妖鳥【Elemental】 Takuhi",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     280,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Avian [Elemental]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Takuhi",
+    "box": [
+     150,
+     1,
+     278,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "203": {
+  "ja": "鳥族 妖鳥【Elemental】 Ba",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     273,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Avian [Elemental]",
+    "box": [
+     4,
+     1,
+     150,
+     20
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Ba",
+    "box": [
+     150,
+     1,
+     271,
+     20
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "205": {
+  "ja": "鳥族 凶鳥【Physical】 Hraesvelgr",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     300,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Raptor [Physical]",
+    "box": [
+     4,
+     1,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Hraesvelgr",
+    "box": [
+     150,
+     1,
+     298,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "207": {
+  "ja": "鳥族 凶鳥【Physical】 Alecto",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     277,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Raptor [Physical]",
+    "box": [
+     4,
+     2,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Alecto",
+    "box": [
+     150,
+     2,
+     275,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "209": {
+  "ja": "鳥族 凶鳥【Physical】 Tisiphone",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     302,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Raptor [Physical]",
+    "box": [
+     4,
+     1,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Tisiphone",
+    "box": [
+     150,
+     1,
+     300,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "211": {
+  "ja": "鳥族 凶鳥【Physical】 Megaera",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     280,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Raptor [Physical]",
+    "box": [
+     4,
+     0,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Megaera",
+    "box": [
+     150,
+     0,
+     278,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "213": {
+  "ja": "鳥族 凶鳥【Physical】 Moh Shuvuu",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     312,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Raptor [Physical]",
+    "box": [
+     4,
+     0,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Moh Shuvuu",
+    "box": [
+     150,
+     0,
+     310,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "215": {
+  "ja": "獣族 魔獣【Holylight】 Dun",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     273,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Beast [Holylight]",
+    "box": [
+     4,
+     1,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Dun",
+    "box": [
+     150,
+     1,
+     271,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "217": {
+  "ja": "獣族 魔獣【Holylight】 Selket",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     285,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Beast [Holylight]",
+    "box": [
+     4,
+     0,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Selket",
+    "box": [
+     150,
+     0,
+     283,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "219": {
+  "ja": "獣族 魔獣【Holylight】 Orthrus",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     297,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Beast [Holylight]",
+    "box": [
+     4,
+     0,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Orthrus",
+    "box": [
+     150,
+     0,
+     295,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "221": {
+  "ja": "獣族 魔獣【Holylight】 Genkurou",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     294,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Beast [Holylight]",
+    "box": [
+     4,
+     0,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Genkurou",
+    "box": [
+     150,
+     0,
+     292,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "223": {
+  "ja": "獣族 魔獣【Holylight】 Nekomata",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     285,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Beast [Holylight]",
+    "box": [
+     4,
+     0,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Nekomata",
+    "box": [
+     150,
+     0,
+     283,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "225": {
+  "ja": "獣族 魔獣【Holylight】 Cu Sith",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     291,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Beast [Holylight]",
+    "box": [
+     4,
+     0,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Cu Sith",
+    "box": [
+     150,
+     0,
+     289,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "227": {
+  "ja": "獣族 魔獣【Holylight】 Cait Sith",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     294,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Beast [Holylight]",
+    "box": [
+     4,
+     0,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Cait Sith",
+    "box": [
+     150,
+     0,
+     292,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "229": {
+  "ja": "獣族 妖獣【Evildark】 Fenrir",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     291,
+     20
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Wilder [Evildark]",
+    "box": [
+     4,
+     1,
+     150,
+     20
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Fenrir",
+    "box": [
+     150,
+     1,
+     289,
+     20
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "231": {
+  "ja": "獣族 妖獣【Evildark】 Mandaguda",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     280,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Wilder [Evildark]",
+    "box": [
+     4,
+     0,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Mandaguda",
+    "box": [
+     150,
+     0,
+     278,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "233": {
+  "ja": "獣族 妖獣【Evildark】 Catoblepas",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     301,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Wilder [Evildark]",
+    "box": [
+     4,
+     0,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Catoblepas",
+    "box": [
+     150,
+     0,
+     299,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "235": {
+  "ja": "獣族 妖獣【Evildark】 Scylla",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     286,
+     20
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Wilder [Evildark]",
+    "box": [
+     4,
+     0,
+     150,
+     20
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Scylla",
+    "box": [
+     150,
+     0,
+     284,
+     20
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "237": {
+  "ja": "獣族 妖獣【Evildark】 Black Widow",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     316,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Wilder [Evildark]",
+    "box": [
+     4,
+     1,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Black Widow",
+    "box": [
+     150,
+     1,
+     314,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "239": {
+  "ja": "獣族 妖獣【Evildark】 Cath Palug",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     313,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Wilder [Evildark]",
+    "box": [
+     4,
+     2,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Cath Palug",
+    "box": [
+     150,
+     2,
+     311,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "241": {
+  "ja": "獣族 妖獣【Evildark】 Nue",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     264,
+     19
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Wilder [Evildark]",
+    "box": [
+     4,
+     1,
+     150,
+     19
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Nue",
+    "box": [
+     150,
+     1,
+     262,
+     19
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "243": {
+  "ja": "獣族 妖獣【Evildark】 Afanc",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     303,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Wilder [Evildark]",
+    "box": [
+     4,
+     2,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Afanc",
+    "box": [
+     150,
+     2,
+     301,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "245": {
+  "ja": "鬼族 鬼女【Physical】 Rangda",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     274,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Femme [Physical]",
+    "box": [
+     4,
+     1,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Rangda",
+    "box": [
+     150,
+     1,
+     272,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "247": {
+  "ja": "鬼族 鬼女【Physical】 Dakini",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     299,
+     25
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Femme [Physical]",
+    "box": [
+     4,
+     2,
+     150,
+     24
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Dakini",
+    "box": [
+     150,
+     2,
+     297,
+     24
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "249": {
+  "ja": "鬼族 鬼女【Physical】 Salome",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     274,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Femme [Physical]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Salome",
+    "box": [
+     150,
+     1,
+     272,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "251": {
+  "ja": "鬼族 鬼女【Physical】 Alcina",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     292,
+     20
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Femme [Physical]",
+    "box": [
+     4,
+     1,
+     150,
+     20
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Alcina",
+    "box": [
+     150,
+     1,
+     290,
+     20
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "253": {
+  "ja": "鬼族 鬼女【Physical】 Iwate",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     271,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Femme [Physical]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Iwate",
+    "box": [
+     150,
+     1,
+     269,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "255": {
+  "ja": "鬼族 鬼女【Physical】 Siren",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     290,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Femme [Physical]",
+    "box": [
+     4,
+     2,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Siren",
+    "box": [
+     150,
+     2,
+     288,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "257": {
+  "ja": "鬼族 鬼女【Physical】 Yomotsu-Shikome",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     299,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Femme [Physical]",
+    "box": [
+     4,
+     2,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Yomotsu-Shikome",
+    "box": [
+     150,
+     2,
+     297,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "259": {
+  "ja": "鬼族 妖鬼【Holylight】 Yaksa",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     285,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Yoma [Holylight]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Yaksa",
+    "box": [
+     150,
+     1,
+     283,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "261": {
+  "ja": "鬼族 妖鬼【Holylight】 Purski",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     292,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Yoma [Holylight]",
+    "box": [
+     4,
+     1,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Purski",
+    "box": [
+     150,
+     1,
+     290,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "263": {
+  "ja": "鬼族 妖鬼【Holylight】 Yakshini",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     299,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Yoma [Holylight]",
+    "box": [
+     4,
+     2,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Yakshini",
+    "box": [
+     150,
+     2,
+     297,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "265": {
+  "ja": "鬼族 妖鬼【Holylight】 Picollus",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     296,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Yoma [Holylight]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Picollus",
+    "box": [
+     150,
+     1,
+     294,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "267": {
+  "ja": "鬼族 妖鬼【Holylight】 Dokkaebi",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     279,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Yoma [Holylight]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Dokkaebi",
+    "box": [
+     150,
+     1,
+     277,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "269": {
+  "ja": "鬼族 妖鬼【Holylight】 Hannya",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     285,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Yoma [Holylight]",
+    "box": [
+     4,
+     1,
+     150,
+     20
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Hannya",
+    "box": [
+     150,
+     1,
+     283,
+     20
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "271": {
+  "ja": "鬼族 妖鬼【Holylight】 Ihika",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     276,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Yoma [Holylight]",
+    "box": [
+     4,
+     1,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Ihika",
+    "box": [
+     150,
+     1,
+     274,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "273": {
+  "ja": "鬼族 地霊【Elemental】 Uberri",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     287,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Jirae [Elemental]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Uberri",
+    "box": [
+     150,
+     1,
+     285,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "275": {
+  "ja": "鬼族 地霊【Elemental】 Kawancha",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     300,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Jirae [Elemental]",
+    "box": [
+     4,
+     0,
+     150,
+     20
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Kawancha",
+    "box": [
+     150,
+     0,
+     298,
+     20
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "277": {
+  "ja": "鬼族 地霊【Elemental】 Dobergar",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     299,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Jirae [Elemental]",
+    "box": [
+     4,
+     0,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Dobergar",
+    "box": [
+     150,
+     0,
+     297,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "279": {
+  "ja": "鬼族 地霊【Elemental】 Kobold",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     290,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Jirae [Elemental]",
+    "box": [
+     4,
+     1,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Kobold",
+    "box": [
+     150,
+     1,
+     288,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "281": {
+  "ja": "鬼族 地霊【Elemental】 Leprechaun",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     309,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Jirae [Elemental]",
+    "box": [
+     4,
+     1,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Leprechaun",
+    "box": [
+     150,
+     1,
+     307,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "283": {
+  "ja": "鬼族 地霊【Elemental】 Knocker",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     292,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Jirae [Elemental]",
+    "box": [
+     4,
+     0,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Knocker",
+    "box": [
+     150,
+     0,
+     290,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "285": {
+  "ja": "鬼族 邪鬼【Elemental】 Hecatoncheires",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     314,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Brute [Elemental]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Hecatoncheires",
+    "box": [
+     150,
+     1,
+     312,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "287": {
+  "ja": "鬼族 邪鬼【Elemental】 Girimehkala",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     296,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Brute [Elemental]",
+    "box": [
+     4,
+     2,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Girimehkala",
+    "box": [
+     150,
+     2,
+     294,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "289": {
+  "ja": "鬼族 邪鬼【Elemental】 Rakshasa",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     311,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Brute [Elemental]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Rakshasa",
+    "box": [
+     150,
+     1,
+     309,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "291": {
+  "ja": "鬼族 邪鬼【Elemental】 Ocelot",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     298,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Brute [Elemental]",
+    "box": [
+     4,
+     0,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Ocelot",
+    "box": [
+     150,
+     0,
+     296,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "293": {
+  "ja": "鬼族 邪鬼【Elemental】 Sarashina-hime",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     307,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Brute [Elemental]",
+    "box": [
+     4,
+     1,
+     150,
+     20
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Sarashina-hime",
+    "box": [
+     150,
+     1,
+     305,
+     20
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "295": {
+  "ja": "鬼族 邪鬼【Elemental】 Ogre",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     283,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Brute [Elemental]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Ogre",
+    "box": [
+     150,
+     1,
+     281,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "297": {
+  "ja": "鬼族 邪鬼【Elemental】 Gremlin",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     299,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Brute [Elemental]",
+    "box": [
+     4,
+     1,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Gremlin",
+    "box": [
+     150,
+     1,
+     297,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "299": {
+  "ja": "邪霊 幽鬼【Evildark】 Miyasudokoro",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     297,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Haunt [Evildark]",
+    "box": [
+     4,
+     0,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Miyasudokoro",
+    "box": [
+     150,
+     0,
+     295,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "301": {
+  "ja": "邪霊 幽鬼【Evildark】 Vetala",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     292,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Haunt [Evildark]",
+    "box": [
+     4,
+     2,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Vetala",
+    "box": [
+     150,
+     2,
+     290,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "303": {
+  "ja": "邪霊 幽鬼【Evildark】 Druj",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     285,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Haunt [Evildark]",
+    "box": [
+     4,
+     1,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Druj",
+    "box": [
+     150,
+     1,
+     283,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "305": {
+  "ja": "邪霊 幽鬼【Evildark】 Yaka",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     278,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Haunt [Evildark]",
+    "box": [
+     4,
+     0,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Yaka",
+    "box": [
+     150,
+     0,
+     276,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "307": {
+  "ja": "邪霊 幽鬼【Evildark】 Carey",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     285,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Haunt [Evildark]",
+    "box": [
+     4,
+     1,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Carey",
+    "box": [
+     150,
+     1,
+     283,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "309": {
+  "ja": "邪霊 幽鬼【Evildark】 Enku",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     277,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Haunt [Evildark]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Enku",
+    "box": [
+     150,
+     1,
+     275,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "311": {
+  "ja": "邪霊 幽鬼【Evildark】 Fuji-musume",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     296,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Haunt [Evildark]",
+    "box": [
+     4,
+     1,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Fuji-musume",
+    "box": [
+     150,
+     1,
+     294,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "313": {
+  "ja": "邪霊 幽鬼【Evildark】 Gaki",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     272,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Haunt [Evildark]",
+    "box": [
+     4,
+     0,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Gaki",
+    "box": [
+     150,
+     0,
+     270,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "315": {
+  "ja": "邪霊 悪霊【Evildark】 Legion",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     285,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Spirit [Evildark]",
+    "box": [
+     4,
+     3,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Legion",
+    "box": [
+     150,
+     3,
+     283,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "317": {
+  "ja": "邪霊 悪霊【Evildark】 Kuchisake",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     279,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Spirit [Evildark]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Kuchisake",
+    "box": [
+     150,
+     1,
+     277,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "319": {
+  "ja": "邪霊 悪霊【Evildark】 Hanako-san",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     292,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Spirit [Evildark]",
+    "box": [
+     4,
+     2,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Hanako-san",
+    "box": [
+     150,
+     2,
+     290,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "321": {
+  "ja": "邪霊 悪霊【Evildark】 Bukimi-chan",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     305,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Spirit [Evildark]",
+    "box": [
+     4,
+     1,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Bukimi-chan",
+    "box": [
+     150,
+     1,
+     303,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "323": {
+  "ja": "邪霊 悪霊【Evildark】 Dribbler",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     290,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Spirit [Evildark]",
+    "box": [
+     4,
+     0,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Dribbler",
+    "box": [
+     150,
+     0,
+     288,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "325": {
+  "ja": "邪霊 悪霊【Evildark】 Ghost",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     291,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Spirit [Evildark]",
+    "box": [
+     4,
+     1,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Ghost",
+    "box": [
+     150,
+     1,
+     289,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "327": {
+  "ja": "邪霊 悪霊【Evildark】 Quicksilver",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     319,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Spirit [Evildark]",
+    "box": [
+     4,
+     3,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Quicksilver",
+    "box": [
+     150,
+     3,
+     317,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "329": {
+  "ja": "邪霊 悪霊【Evildark】 Poltergeist",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     320,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Spirit [Evildark]",
+    "box": [
+     4,
+     0,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Poltergeist",
+    "box": [
+     150,
+     0,
+     318,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "331": {
+  "ja": "邪霊 屍鬼【Physical】 Zombie Painter",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     317,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Undead [Physical]",
+    "box": [
+     4,
+     1,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Zombie Painter",
+    "box": [
+     150,
+     1,
+     315,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "333": {
+  "ja": "邪霊 屍鬼【Physical】 Zapp",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     281,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Undead [Physical]",
+    "box": [
+     4,
+     0,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Zapp",
+    "box": [
+     150,
+     0,
+     279,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "335": {
+  "ja": "邪霊 屍鬼【Physical】 Teke-Teke",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     289,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Undead [Physical]",
+    "box": [
+     4,
+     2,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Teke-Teke",
+    "box": [
+     150,
+     2,
+     287,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "337": {
+  "ja": "邪霊 屍鬼【Physical】 Zombie Cop",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     301,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Undead [Physical]",
+    "box": [
+     4,
+     0,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Zombie Cop",
+    "box": [
+     150,
+     0,
+     299,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "339": {
+  "ja": "邪霊 屍鬼【Physical】 Zombie Nurse",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     301,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Undead [Physical]",
+    "box": [
+     4,
+     0,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Zombie Nurse",
+    "box": [
+     150,
+     0,
+     299,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "341": {
+  "ja": "邪霊 屍鬼【Physical】 Zombie-chan",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     303,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Undead [Physical]",
+    "box": [
+     4,
+     0,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Zombie-chan",
+    "box": [
+     150,
+     0,
+     301,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "343": {
+  "ja": "邪霊 屍鬼【Physical】 Zombie-kun",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     292,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Undead [Physical]",
+    "box": [
+     4,
+     0,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Zombie-kun",
+    "box": [
+     150,
+     0,
+     290,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "345": {
+  "ja": "邪霊 屍鬼【Physical】 Zombie-san",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     293,
+     25
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Undead [Physical]",
+    "box": [
+     4,
+     0,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Zombie-san",
+    "box": [
+     150,
+     0,
+     291,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "347": {
+  "ja": "外道 外道【Physical】 Gremies",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     302,
+     25
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Foul [Physical]",
+    "box": [
+     4,
+     2,
+     150,
+     24
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Gremies",
+    "box": [
+     150,
+     2,
+     300,
+     24
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "349": {
+  "ja": "外道 外道【Physical】 Shadow",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     281,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Foul [Physical]",
+    "box": [
+     4,
+     1,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Shadow",
+    "box": [
+     150,
+     1,
+     279,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "351": {
+  "ja": "外道 外道【Physical】 Doppelganger",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     319,
+     25
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Foul [Physical]",
+    "box": [
+     4,
+     2,
+     150,
+     24
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Doppelganger",
+    "box": [
+     150,
+     2,
+     317,
+     24
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "353": {
+  "ja": "外道 外道【Physical】 Anatomy",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     290,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Foul [Physical]",
+    "box": [
+     4,
+     2,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Anatomy",
+    "box": [
+     150,
+     2,
+     288,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "355": {
+  "ja": "外道 外道【Physical】 Kokkuri-san",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     296,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Foul [Physical]",
+    "box": [
+     4,
+     2,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Kokkuri-san",
+    "box": [
+     150,
+     2,
+     294,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "357": {
+  "ja": "外道 外道【Physical】 Yakuza",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     276,
+     25
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Foul [Physical]",
+    "box": [
+     4,
+     0,
+     150,
+     24
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Yakuza",
+    "box": [
+     150,
+     0,
+     274,
+     24
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "359": {
+  "ja": "外道 外道【Physical】 Punk",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     282,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Foul [Physical]",
+    "box": [
+     4,
+     0,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Punk",
+    "box": [
+     150,
+     0,
+     280,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "361": {
+  "ja": "外道 外道【Physical】 Slime",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     282,
+     25
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Foul [Physical]",
+    "box": [
+     4,
+     2,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Slime",
+    "box": [
+     150,
+     2,
+     280,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "363": {
+  "ja": "外道 業魔【Evildark】 Arrogance",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     297,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Karma [Evildark]",
+    "box": [
+     4,
+     0,
+     150,
+     20
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Arrogance",
+    "box": [
+     150,
+     0,
+     295,
+     20
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "365": {
+  "ja": "外道 業魔【Evildark】 Laziness",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     296,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Karma [Evildark]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Laziness",
+    "box": [
+     150,
+     1,
+     294,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "367": {
+  "ja": "外道 業魔【Evildark】 Bellicosity",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     304,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Karma [Evildark]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Bellicosity",
+    "box": [
+     150,
+     1,
+     302,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "369": {
+  "ja": "外道 業魔【Evildark】 Jealousy",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     299,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Karma [Evildark]",
+    "box": [
+     4,
+     1,
+     150,
+     20
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Jealousy",
+    "box": [
+     150,
+     1,
+     297,
+     20
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "371": {
+  "ja": "外道 業魔【Evildark】 Greed",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     285,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Karma [Evildark]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Greed",
+    "box": [
+     150,
+     1,
+     283,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "373": {
+  "ja": "外道 業魔【Evildark】 Obscene",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     303,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Karma [Evildark]",
+    "box": [
+     4,
+     1,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Obscene",
+    "box": [
+     150,
+     1,
+     301,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "375": {
+  "ja": "人間 超人【Normal】 Black Man",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     299,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Human [Normal]",
+    "box": [
+     4,
+     1,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Black Man",
+    "box": [
+     150,
+     1,
+     297,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "377": {
+  "ja": "人間 超人【Normal】 Agent",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     297,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Human [Normal]",
+    "box": [
+     4,
+     1,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Agent",
+    "box": [
+     150,
+     1,
+     295,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "379": {
+  "ja": "人間 超人【Normal】 Secret Service",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     327,
+     20
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Human [Normal]",
+    "box": [
+     4,
+     1,
+     150,
+     20
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Secret Service",
+    "box": [
+     150,
+     1,
+     325,
+     20
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "381": {
+  "ja": "人間 魔人【Normal】 Alice",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     268,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Fiend [Normal]",
+    "box": [
+     4,
+     0,
+     150,
+     20
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Alice",
+    "box": [
+     150,
+     0,
+     266,
+     20
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "383": {
+  "ja": "ボス 超人【Normal】 Takeda",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     271,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Boss Human [Normal]",
+    "box": [
+     4,
+     1,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Takeda",
+    "box": [
+     150,
+     1,
+     269,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "385": {
+  "ja": "ボス 外道【Physical】 Tesso",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     269,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Boss Foul [Physical]",
+    "box": [
+     4,
+     1,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Tesso",
+    "box": [
+     150,
+     1,
+     267,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "387": {
+  "ja": "ボス 邪鬼【Elemental】 Yog-Sothoth Jr.",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     303,
+     21
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Boss Brute [Elemental]",
+    "box": [
+     4,
+     0,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Yog-Sothoth Jr.",
+    "box": [
+     150,
+     0,
+     301,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "389": {
+  "ja": "ボス 超人【Normal】 Harem Queen",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     314,
+     20
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Boss Human [Normal]",
+    "box": [
+     4,
+     0,
+     150,
+     19
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Harem Queen",
+    "box": [
+     150,
+     0,
+     312,
+     19
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "391": {
+  "ja": "ボス 業魔【Evildark】 Teddy Bear",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     292,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Boss Karma [Evildark]",
+    "box": [
+     4,
+     1,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Teddy Bear",
+    "box": [
+     150,
+     1,
+     290,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "393": {
+  "ja": "ボス 魔王【Evildark】 Saurva",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     281,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Boss Tyrant [Evildark]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Saurva",
+    "box": [
+     150,
+     1,
+     279,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "395": {
+  "ja": "ボス 地母神【Physical】 Hariti",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     296,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Boss Mother [Physical]",
+    "box": [
+     4,
+     1,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Hariti",
+    "box": [
+     150,
+     1,
+     294,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "397": {
+  "ja": "ボス 超人【Normal】 Kandori",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     278,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Boss Human [Normal]",
+    "box": [
+     4,
+     2,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Kandori",
+    "box": [
+     150,
+     2,
+     276,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "399": {
+  "ja": "ボス 夜魔【Evildark】 Hypnos",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     292,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Boss Night [Evildark]",
+    "box": [
+     4,
+     1,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Hypnos",
+    "box": [
+     150,
+     1,
+     290,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "401": {
+  "ja": "ボス 鬼女【Physical】 Nemesis",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     281,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Boss Femme [Physical]",
+    "box": [
+     4,
+     1,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Nemesis",
+    "box": [
+     150,
+     1,
+     279,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "403": {
+  "ja": "ボス 死神【Evildark】 Thanatos",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     281,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Boss Reaper [Evildark]",
+    "box": [
+     4,
+     2,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Thanatos",
+    "box": [
+     150,
+     2,
+     279,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "405": {
+  "ja": "ボス 業魔【Evildark】 Lady Masquerade",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     331,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Boss Karma [Evildark]",
+    "box": [
+     4,
+     0,
+     150,
+     20
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Lady Masquerade",
+    "box": [
+     150,
+     0,
+     329,
+     20
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "407": {
+  "ja": "ボス ???【?????】 God Kandori",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     303,
+     24
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Boss [?????]",
+    "box": [
+     4,
+     2,
+     150,
+     23
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "God Kandori",
+    "box": [
+     150,
+     2,
+     301,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "409": {
+  "ja": "ボス ???【?????】 Pandora",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     281,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Boss [?????]",
+    "box": [
+     4,
+     2,
+     150,
+     20
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Pandora",
+    "box": [
+     150,
+     2,
+     279,
+     20
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "411": {
+  "ja": "ボス 業魔【Evildark】 Lady Snow",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     311,
+     22
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Boss Karma [Evildark]",
+    "box": [
+     4,
+     0,
+     150,
+     21
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Lady Snow",
+    "box": [
+     150,
+     0,
+     309,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "413": {
+  "ja": "ボス 魔王【?????】 Queen Asura",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     304,
+     31
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Boss Tyrant [?????]",
+    "box": [
+     4,
+     2,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Queen Asura",
+    "box": [
+     150,
+     2,
+     302,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "415": {
+  "ja": "ボス ???【?????】 Big Eater-kun",
+  "ops": [
+   {
+    "erase_dark": [
+     0,
+     0,
+     296,
+     23
+    ],
+    "thr": 520
+   },
+   {
+    "text": "Boss [?????]",
+    "box": [
+     4,
+     2,
+     150,
+     22
+    ],
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 13,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   },
+   {
+    "text": "Big Eater-kun",
+    "box": [
+     150,
+     2,
+     294,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Times New Roman Bold.ttf",
+    "size": 16,
+    "color": [
+     66,
+     49,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ }
+}

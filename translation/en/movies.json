@@ -1,0 +1,101 @@
+{
+ "_doc": "Burned-in Japanese text in the QuickTime movies, replaced at playback by pre-rendered English subtitles (tools/make_subs.py -> data_en/dc/mov/<movie>.sub). 'win' is the search window in seconds; the exact fade-in/out and the area to cover are measured from the video.",
+ "phantom": [
+  {
+   "win": [
+    30,
+    50
+   ],
+   "ja": "… / …/ … / …1…",
+   "en": "Thanks to the young heroes,\nthe school turned castle of ice was restored.\nThe curse of the mask was lifted,\nand one of the school's legends came to an end."
+  },
+  {
+   "win": [
+    52,
+    72
+   ],
+   "ja": "… / … / …",
+   "en": "As long as there are hearts\nthat turn hope into despair,\nthe eternal night will come again and again."
+  },
+  {
+   "win": [
+    74,
+    94
+   ],
+   "ja": "… / …/ … / …",
+   "en": "Leaving the queen's words behind them,\nthe boys and girls who cast off\nthe darkness in their hearts\nbegin to walk toward the future..."
+  }
+ ],
+ "remix4": [
+  {
+   "win": [
+    7,
+    11.5
+   ],
+   "ja": "…",
+   "en": "Once, I dreamed I was a butterfly.",
+   "box": [
+    20,
+    45,
+    220,
+    85
+   ]
+  },
+  {
+   "win": [
+    12,
+    16.5
+   ],
+   "ja": "…",
+   "en": "I was so wholly a butterfly that I did not know\nit was my own dream. But when I suddenly woke,\nthere I was, unmistakably myself,\nand not a butterfly at all.",
+   "box": [
+    10,
+    40,
+    230,
+    140
+   ]
+  },
+  {
+   "win": [
+    33,
+    37
+   ],
+   "ja": "…/ …",
+   "en": "Was I dreaming that I was a butterfly?\nOr is a butterfly dreaming that it is me?",
+   "box": [
+    10,
+    40,
+    230,
+    125
+   ]
+  },
+  {
+   "win": [
+    38.5,
+    43.5
+   ],
+   "ja": "…~…~",
+   "en": "Surely, though there is a distinction between\nthe butterfly and me, it is no absolute difference,\nand no cause and effect holds between us.\n~ Zhuangzi ~",
+   "box": [
+    10,
+    45,
+    230,
+    160
+   ]
+  },
+  {
+   "win": [
+    56.5,
+    60.2
+   ],
+   "ja": "…",
+   "en": "Time flows on, and people seem to bury\neverything deep in their memories.\nIn a world where nothing stands still,\nas if driven by something,\nas if fleeing the contradictions within,\nthe tide of people flows away somewhere...\nToday, once again.",
+   "box": [
+    10,
+    10,
+    230,
+    170
+   ]
+  }
+ ]
+}

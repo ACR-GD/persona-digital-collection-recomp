@@ -1,0 +1,235 @@
+{
+ "_movie": "race.dxr: Ms. Saeko makes everyone mop the gym floor as a race; pick a character, then click fast",
+ "13": {
+  "ja": "…:…! …! …",
+  "ops": [
+   {
+    "erase": [
+     28,
+     18,
+     476,
+     76
+    ]
+   },
+   {
+    "text": "Ms. Saeko: \"Hey, you! Look at this mess! As punishment, everyone's mopping the floor!\"",
+    "box": [
+     34,
+     22,
+     472,
+     76
+    ],
+    "size": 13
+   },
+   {
+    "erase": [
+     51,
+     76,
+     163,
+     97
+    ],
+    "thr": 60,
+    "sat": 255
+   },
+   {
+    "text": "Yes",
+    "box": [
+     54,
+     81,
+     91,
+     97
+    ],
+    "align": "center"
+   },
+   {
+    "text": "/",
+    "box": [
+     91,
+     81,
+     112,
+     97
+    ],
+    "align": "center",
+    "color": [
+     90,
+     90,
+     222
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     112,
+     82,
+     160,
+     96
+    ],
+    "align": "center"
+   }
+  ]
+ },
+ "14": {
+  "ja": "はい (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     13,
+     54,
+     78,
+     [
+      51,
+      76,
+      163,
+      97,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "Yes",
+    "box": [
+     1,
+     3,
+     38,
+     19
+    ],
+    "align": "center",
+    "color": [
+     99,
+     99,
+     181
+    ]
+   }
+  ]
+ },
+ "15": {
+  "ja": "いいえ (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     13,
+     112,
+     79,
+     [
+      51,
+      76,
+      163,
+      97,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     2,
+     3,
+     50,
+     17
+    ],
+    "align": "center",
+    "color": [
+     99,
+     99,
+     181
+    ]
+   }
+  ]
+ },
+ "91": {
+  "ja": "…:…",
+  "ops": [
+   {
+    "erase": [
+     43,
+     21,
+     491,
+     79
+    ]
+   },
+   {
+    "text": "Ms. Saeko: \"Oh dear, it's still not clean. Quicker, and put your back into it! Okay, from the top.\"",
+    "box": [
+     49,
+     25,
+     487,
+     79
+    ],
+    "size": 13
+   },
+   {
+    "erase": [
+     66,
+     79,
+     178,
+     100
+    ],
+    "thr": 60,
+    "sat": 255
+   },
+   {
+    "text": "Yes",
+    "box": [
+     69,
+     84,
+     106,
+     100
+    ],
+    "align": "center"
+   },
+   {
+    "text": "/",
+    "box": [
+     106,
+     84,
+     127,
+     100
+    ],
+    "align": "center",
+    "color": [
+     90,
+     90,
+     222
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     127,
+     85,
+     175,
+     99
+    ],
+    "align": "center"
+   }
+  ]
+ },
+ "92": {
+  "ja": "…:…!…",
+  "box": [
+   34,
+   25,
+   482,
+   110
+  ],
+  "text_box": [
+   40,
+   28,
+   478,
+   110
+  ],
+  "en": "Ms. Saeko: \"Nice, squeaky clean. Good work! Okay, here's a ticket as your reward!\""
+ },
+ "36": {
+  "ja": "> …",
+  "box": [
+   36,
+   305,
+   445,
+   385
+  ],
+  "en": "> Choose your favorite character."
+ }
+}

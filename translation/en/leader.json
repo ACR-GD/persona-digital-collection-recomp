@@ -1,0 +1,613 @@
+{
+ "_movie": "leader.dxr: Philemon's leadership test (title card 'Phylemon's leadership ability test' and YES/NO are already English)",
+ "13": {
+  "ja": "…:…",
+  "ops": [
+   {
+    "erase": [
+     26,
+     17,
+     474,
+     78
+    ]
+   },
+   {
+    "text": "Philemon: \"Let me assess how suited you are to be a leader, and whether you truly deserve to be one.\"",
+    "box": [
+     32,
+     21,
+     470,
+     78
+    ],
+    "size": 13
+   },
+   {
+    "erase": [
+     48,
+     78,
+     159,
+     98
+    ],
+    "thr": 60,
+    "sat": 255
+   },
+   {
+    "text": "Yes",
+    "box": [
+     51,
+     83,
+     87,
+     98
+    ],
+    "align": "center"
+   },
+   {
+    "text": "/",
+    "box": [
+     87,
+     83,
+     108,
+     98
+    ],
+    "align": "center",
+    "color": [
+     90,
+     90,
+     222
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     108,
+     83,
+     156,
+     98
+    ],
+    "align": "center"
+   }
+  ]
+ },
+ "14": {
+  "ja": "はい (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     13,
+     51,
+     80,
+     [
+      48,
+      78,
+      159,
+      98,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "Yes",
+    "box": [
+     1,
+     3,
+     37,
+     18
+    ],
+    "align": "center",
+    "color": [
+     107,
+     107,
+     206
+    ]
+   }
+  ]
+ },
+ "15": {
+  "ja": "いいえ (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     13,
+     108,
+     80,
+     [
+      48,
+      78,
+      159,
+      98,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     2,
+     3,
+     50,
+     18
+    ],
+    "align": "center",
+    "color": [
+     107,
+     107,
+     206
+    ]
+   }
+  ]
+ },
+ "23": {
+  "ja": "(question 23)",
+  "ops": [
+   {
+    "erase_dark": [
+     20,
+     0,
+     302,
+     32
+    ]
+   },
+   {
+    "text": "I know every friend's special skill.",
+    "box": [
+     24,
+     1,
+     298,
+     31
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Georgia Bold.ttf",
+    "size": 12,
+    "color": [
+     0,
+     33,
+     82
+    ]
+   }
+  ]
+ },
+ "24": {
+  "ja": "(question 24)",
+  "ops": [
+   {
+    "erase_dark": [
+     22,
+     0,
+     300,
+     31
+    ]
+   },
+   {
+    "text": "I tend to end up walking in front.",
+    "box": [
+     26,
+     1,
+     296,
+     30
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Georgia Bold.ttf",
+    "size": 12,
+    "color": [
+     0,
+     33,
+     82
+    ]
+   }
+  ]
+ },
+ "25": {
+  "ja": "(question 25)",
+  "ops": [
+   {
+    "erase_dark": [
+     20,
+     0,
+     318,
+     57
+    ]
+   },
+   {
+    "text": "Before I know it, I'm often the one running things.",
+    "box": [
+     24,
+     1,
+     314,
+     56
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Georgia Bold.ttf",
+    "size": 12,
+    "color": [
+     0,
+     33,
+     82
+    ]
+   }
+  ]
+ },
+ "26": {
+  "ja": "(question 26)",
+  "ops": [
+   {
+    "erase_dark": [
+     21,
+     0,
+     330,
+     38
+    ]
+   },
+   {
+    "text": "When I buy snacks, I always buy some for my friends too.",
+    "box": [
+     25,
+     1,
+     326,
+     37
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Georgia Bold.ttf",
+    "size": 12,
+    "color": [
+     0,
+     33,
+     82
+    ]
+   }
+  ]
+ },
+ "27": {
+  "ja": "(question 27)",
+  "ops": [
+   {
+    "erase_dark": [
+     22,
+     0,
+     272,
+     56
+    ]
+   },
+   {
+    "text": "When I'm with friends, I'm quick to ask \"Aren't you hungry?\"",
+    "box": [
+     26,
+     1,
+     268,
+     55
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Georgia Bold.ttf",
+    "size": 12,
+    "color": [
+     0,
+     33,
+     82
+    ]
+   }
+  ]
+ },
+ "28": {
+  "ja": "(question 28)",
+  "ops": [
+   {
+    "erase_dark": [
+     22,
+     0,
+     287,
+     36
+    ]
+   },
+   {
+    "text": "I'll even take on fights my friends got into.",
+    "box": [
+     26,
+     1,
+     283,
+     35
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Georgia Bold.ttf",
+    "size": 12,
+    "color": [
+     0,
+     33,
+     82
+    ]
+   }
+  ]
+ },
+ "29": {
+  "ja": "(question 29)",
+  "ops": [
+   {
+    "erase_dark": [
+     23,
+     0,
+     286,
+     26
+    ]
+   },
+   {
+    "text": "Many of my friends are oddballs.",
+    "box": [
+     27,
+     1,
+     282,
+     25
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Georgia Bold.ttf",
+    "size": 12,
+    "color": [
+     0,
+     33,
+     82
+    ]
+   }
+  ]
+ },
+ "30": {
+  "ja": "(question 30)",
+  "ops": [
+   {
+    "erase_dark": [
+     21,
+     0,
+     237,
+     29
+    ]
+   },
+   {
+    "text": "I'm a bad singer.",
+    "box": [
+     25,
+     1,
+     233,
+     28
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Georgia Bold.ttf",
+    "size": 12,
+    "color": [
+     0,
+     33,
+     82
+    ]
+   }
+  ]
+ },
+ "31": {
+  "ja": "(question 31)",
+  "ops": [
+   {
+    "erase_dark": [
+     21,
+     0,
+     270,
+     57
+    ]
+   },
+   {
+    "text": "I'm quiet. I don't talk much unless I have to.",
+    "box": [
+     25,
+     1,
+     266,
+     56
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Georgia Bold.ttf",
+    "size": 12,
+    "color": [
+     0,
+     33,
+     82
+    ]
+   }
+  ]
+ },
+ "32": {
+  "ja": "(question 32)",
+  "ops": [
+   {
+    "erase_dark": [
+     34,
+     0,
+     328,
+     40
+    ]
+   },
+   {
+    "text": "When I talk with people, I find myself lecturing them.",
+    "box": [
+     38,
+     1,
+     324,
+     39
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Georgia Bold.ttf",
+    "size": 12,
+    "color": [
+     0,
+     33,
+     82
+    ]
+   }
+  ]
+ },
+ "34": {
+  "ja": "…100% ...",
+  "box": [
+   144,
+   12,
+   479,
+   99
+  ],
+  "text_box": [
+   146,
+   14,
+   477,
+   99
+  ],
+  "en": "Leadership aptitude: 100%\nWith both self-control and ambition, you are a born leader. Leading a group of strong personalities should not be that hard for you.",
+  "size": 12,
+  "leading": 1.18
+ },
+ "36": {
+  "ja": "…90% ...",
+  "box": [
+   139,
+   15,
+   474,
+   102
+  ],
+  "text_box": [
+   141,
+   17,
+   472,
+   102
+  ],
+  "en": "Leadership aptitude: 90%\nDecisive, sensible and conscientious, you are the dependable big-sister type. Aside from a critical, idealistic streak, you are a flawless leader.",
+  "size": 12,
+  "leading": 1.18
+ },
+ "38": {
+  "ja": "…85% ...",
+  "box": [
+   140,
+   16,
+   475,
+   103
+  ],
+  "text_box": [
+   142,
+   18,
+   473,
+   103
+  ],
+  "en": "Leadership aptitude: 85%\nYou see yourself as self-confident. With courage, drive and self-control, you could be a constructive leader, but your grandiose side is a flaw.",
+  "size": 12,
+  "leading": 1.18
+ },
+ "40": {
+  "ja": "…82% ...",
+  "box": [
+   143,
+   17,
+   478,
+   104
+  ],
+  "text_box": [
+   145,
+   19,
+   476,
+   104
+  ],
+  "en": "Leadership aptitude: 82%\nDevoted, responsible and trustworthy, you lead naturally among close friends. See that your rebelliousness is really dependence, and you will lead many more.",
+  "size": 12,
+  "leading": 1.18
+ },
+ "42": {
+  "ja": "…64% ...",
+  "box": [
+   139,
+   16,
+   474,
+   103
+  ],
+  "text_box": [
+   141,
+   18,
+   472,
+   103
+  ],
+  "en": "Leadership aptitude: 64%\nEasygoing and tolerant, you never lose your cool in a crisis, and those around you see you as reliable. But aren't you straining to live up to that image?",
+  "size": 12,
+  "leading": 1.18
+ },
+ "44": {
+  "ja": "…58% ...",
+  "box": [
+   142,
+   14,
+   477,
+   101
+  ],
+  "text_box": [
+   144,
+   16,
+   475,
+   101
+  ],
+  "en": "Leadership aptitude: 58%\nSelf-assertive and highly adaptable, you are a popular smooth talker. Overcome your lack of backbone and your narcissism, and you'll show the makings of a leader.",
+  "size": 12,
+  "leading": 1.18
+ },
+ "46": {
+  "ja": "…46% ...",
+  "box": [
+   142,
+   19,
+   477,
+   106
+  ],
+  "text_box": [
+   144,
+   21,
+   475,
+   106
+  ],
+  "en": "Leadership aptitude: 46%\nEveryone has two sides, but your ideals and reality are far apart. Face reality calmly to get closer to your ideal. The people you envy struggle too.",
+  "size": 12,
+  "leading": 1.18
+ },
+ "48": {
+  "ja": "…3% ...",
+  "box": [
+   140,
+   15,
+   475,
+   102
+  ],
+  "text_box": [
+   142,
+   17,
+   473,
+   102
+  ],
+  "en": "Leadership aptitude: 3%\nSelf-destructive, dependent, paranoid and combative: leading is hard for you. Try getting along with all kinds of people; a magic trick could break the ice.",
+  "size": 12,
+  "leading": 1.18
+ },
+ "50": {
+  "ja": "…33% ...",
+  "box": [
+   139,
+   16,
+   474,
+   103
+  ],
+  "text_box": [
+   141,
+   18,
+   472,
+   103
+  ],
+  "en": "Leadership aptitude: 33%\nYou are an impulsive, greedy pragmatist. In other words, a realistic, outgoing doer. You fear loneliness more than you need to; you'll need the strength to overcome it.",
+  "size": 12,
+  "leading": 1.18
+ }
+}

@@ -1,0 +1,3179 @@
+{
+ "_movie": "END.dxr: staff roll; the Atlus / ASCII / QuickTime / Macromedia logos and the official Persona logo are kept",
+ "273": {
+  "ja": "staff card 273",
+  "ops": [
+   {
+    "erase": [
+     15,
+     152,
+     228,
+     174
+    ],
+    "vertical": true
+   },
+   {
+    "text": "CD-ROM Production Staff",
+    "box": [
+     10,
+     152,
+     235,
+     174
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   }
+  ]
+ },
+ "274": {
+  "ja": "staff card 274",
+  "ops": [
+   {
+    "erase": [
+     8,
+     2,
+     223,
+     24
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Publisher & Editor  Hirokazu Hamamura",
+    "box": [
+     11,
+     3,
+     385,
+     24
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     7,
+     42,
+     155,
+     64
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Editor-in-Chief  Kenji Sugiuchi",
+    "box": [
+     10,
+     43,
+     385,
+     64
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     7,
+     82,
+     155,
+     104
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Production Purchasing  Hiroshi Hamahira",
+    "box": [
+     10,
+     83,
+     385,
+     104
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     7,
+     124,
+     116,
+     146
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Production Manager  Rei Sato",
+    "box": [
+     10,
+     125,
+     385,
+     146
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     7,
+     165,
+     272,
+     187
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Editorial Cooperation  Famitsu Books Editorial Dept.",
+    "box": [
+     10,
+     166,
+     385,
+     187
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   }
+  ]
+ },
+ "275": {
+  "ja": "staff card 274 (variant)",
+  "ops": [
+   {
+    "erase": [
+     9,
+     5,
+     224,
+     27
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Publisher & Editor  Hirokazu Hamamura",
+    "box": [
+     12,
+     6,
+     386,
+     27
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     8,
+     45,
+     156,
+     67
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Editor-in-Chief  Kenji Sugiuchi",
+    "box": [
+     11,
+     46,
+     386,
+     67
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     8,
+     85,
+     156,
+     107
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Production Purchasing  Hiroshi Hamahira",
+    "box": [
+     11,
+     86,
+     386,
+     107
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     8,
+     127,
+     117,
+     149
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Production Manager  Rei Sato",
+    "box": [
+     11,
+     128,
+     386,
+     149
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     8,
+     168,
+     273,
+     190
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Editorial Cooperation  Famitsu Books Editorial Dept.",
+    "box": [
+     11,
+     169,
+     386,
+     190
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   }
+  ]
+ },
+ "276": {
+  "ja": "staff card 276",
+  "ops": [
+   {
+    "erase": [
+     362,
+     1,
+     538,
+     21
+    ],
+    "vertical": true
+   },
+   {
+    "text": "CD-ROM Planning & Composition",
+    "box": [
+     290,
+     2,
+     535,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     445,
+     21,
+     539,
+     40
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Sonoko Mikami",
+    "box": [
+     290,
+     22,
+     536,
+     40
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     355,
+     59,
+     539,
+     78
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Director Authoring",
+    "box": [
+     290,
+     60,
+     536,
+     78
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     374,
+     77,
+     538,
+     97
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Kaori Harukawa / Momoyo Saito",
+    "box": [
+     290,
+     78,
+     535,
+     97
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     304,
+     115,
+     538,
+     135
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Application Programming",
+    "box": [
+     290,
+     116,
+     535,
+     135
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     463,
+     135,
+     539,
+     155
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Masahiro Sano",
+    "box": [
+     290,
+     136,
+     536,
+     155
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     304,
+     172,
+     538,
+     192
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Title & Browser Design",
+    "box": [
+     290,
+     173,
+     535,
+     192
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     301,
+     191,
+     538,
+     212
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Nendo grafixxx  Kentaro Fujimoto",
+    "box": [
+     290,
+     192,
+     535,
+     212
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     393,
+     229,
+     538,
+     249
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Icon Design",
+    "box": [
+     290,
+     230,
+     535,
+     249
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     387,
+     249,
+     539,
+     268
+    ],
+    "vertical": true
+   },
+   {
+    "text": "ORTAS  Yosuke Ota",
+    "box": [
+     290,
+     250,
+     536,
+     268
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   }
+  ]
+ },
+ "277": {
+  "ja": "staff card 276 (variant)",
+  "ops": [
+   {
+    "erase": [
+     362,
+     1,
+     538,
+     21
+    ],
+    "vertical": true
+   },
+   {
+    "text": "CD-ROM Planning & Composition",
+    "box": [
+     290,
+     2,
+     535,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     445,
+     21,
+     539,
+     40
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Sonoko Mikami",
+    "box": [
+     290,
+     22,
+     536,
+     40
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     355,
+     59,
+     539,
+     78
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Director Authoring",
+    "box": [
+     290,
+     60,
+     536,
+     78
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     374,
+     77,
+     538,
+     97
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Kaori Harukawa / Momoyo Saito",
+    "box": [
+     290,
+     78,
+     535,
+     97
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     304,
+     115,
+     538,
+     135
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Application Programming",
+    "box": [
+     290,
+     116,
+     535,
+     135
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     463,
+     135,
+     539,
+     155
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Masahiro Sano",
+    "box": [
+     290,
+     136,
+     536,
+     155
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     304,
+     172,
+     538,
+     192
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Title & Browser Design",
+    "box": [
+     290,
+     173,
+     535,
+     192
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     301,
+     191,
+     538,
+     212
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Nendo grafixxx  Kentaro Fujimoto",
+    "box": [
+     290,
+     192,
+     535,
+     212
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     393,
+     229,
+     538,
+     249
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Icon Design",
+    "box": [
+     290,
+     230,
+     535,
+     249
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     387,
+     249,
+     539,
+     268
+    ],
+    "vertical": true
+   },
+   {
+    "text": "ORTAS  Yosuke Ota",
+    "box": [
+     290,
+     250,
+     536,
+     268
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   }
+  ]
+ },
+ "278": {
+  "ja": "staff card 276 (variant)",
+  "ops": [
+   {
+    "erase": [
+     362,
+     1,
+     538,
+     21
+    ],
+    "vertical": true
+   },
+   {
+    "text": "CD-ROM Planning & Composition",
+    "box": [
+     290,
+     2,
+     535,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     445,
+     21,
+     539,
+     40
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Sonoko Mikami",
+    "box": [
+     290,
+     22,
+     536,
+     40
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     355,
+     59,
+     539,
+     78
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Director Authoring",
+    "box": [
+     290,
+     60,
+     536,
+     78
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     374,
+     77,
+     538,
+     97
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Kaori Harukawa / Momoyo Saito",
+    "box": [
+     290,
+     78,
+     535,
+     97
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     304,
+     115,
+     538,
+     135
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Application Programming",
+    "box": [
+     290,
+     116,
+     535,
+     135
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     463,
+     135,
+     539,
+     155
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Masahiro Sano",
+    "box": [
+     290,
+     136,
+     536,
+     155
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     304,
+     172,
+     538,
+     192
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Title & Browser Design",
+    "box": [
+     290,
+     173,
+     535,
+     192
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     301,
+     191,
+     538,
+     212
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Nendo grafixxx  Kentaro Fujimoto",
+    "box": [
+     290,
+     192,
+     535,
+     212
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     393,
+     229,
+     538,
+     249
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Icon Design",
+    "box": [
+     290,
+     230,
+     535,
+     249
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     387,
+     249,
+     539,
+     268
+    ],
+    "vertical": true
+   },
+   {
+    "text": "ORTAS  Yosuke Ota",
+    "box": [
+     290,
+     250,
+     536,
+     268
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   }
+  ]
+ },
+ "279": {
+  "ja": "staff card 276 (variant)",
+  "ops": [
+   {
+    "erase": [
+     362,
+     1,
+     538,
+     21
+    ],
+    "vertical": true
+   },
+   {
+    "text": "CD-ROM Planning & Composition",
+    "box": [
+     290,
+     2,
+     535,
+     21
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     445,
+     21,
+     539,
+     40
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Sonoko Mikami",
+    "box": [
+     290,
+     22,
+     536,
+     40
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     355,
+     59,
+     539,
+     78
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Director Authoring",
+    "box": [
+     290,
+     60,
+     536,
+     78
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     374,
+     77,
+     538,
+     97
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Kaori Harukawa / Momoyo Saito",
+    "box": [
+     290,
+     78,
+     535,
+     97
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     304,
+     115,
+     538,
+     135
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Application Programming",
+    "box": [
+     290,
+     116,
+     535,
+     135
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     463,
+     135,
+     539,
+     155
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Masahiro Sano",
+    "box": [
+     290,
+     136,
+     536,
+     155
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     304,
+     172,
+     538,
+     192
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Title & Browser Design",
+    "box": [
+     290,
+     173,
+     535,
+     192
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     301,
+     191,
+     538,
+     212
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Nendo grafixxx  Kentaro Fujimoto",
+    "box": [
+     290,
+     192,
+     535,
+     212
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     393,
+     229,
+     538,
+     249
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Icon Design",
+    "box": [
+     290,
+     230,
+     535,
+     249
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     387,
+     249,
+     539,
+     268
+    ],
+    "vertical": true
+   },
+   {
+    "text": "ORTAS  Yosuke Ota",
+    "box": [
+     290,
+     250,
+     536,
+     268
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   }
+  ]
+ },
+ "280": {
+  "ja": "staff card 280",
+  "ops": [
+   {
+    "erase": [
+     0,
+     -1,
+     182,
+     20
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Satomi Tadashi Pharmacy Filming",
+    "box": [
+     3,
+     0,
+     360,
+     20
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     0,
+     19,
+     75,
+     38
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Michiko Sato",
+    "box": [
+     3,
+     20,
+     360,
+     38
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     1,
+     56,
+     359,
+     76
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Opening Movie & Remix Movies",
+    "box": [
+     4,
+     57,
+     360,
+     76
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     0,
+     76,
+     58,
+     96
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Ai Ishihama",
+    "box": [
+     3,
+     77,
+     360,
+     96
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     0,
+     113,
+     209,
+     133
+    ],
+    "vertical": true
+   },
+   {
+    "text": "SD Character Design",
+    "box": [
+     3,
+     114,
+     360,
+     133
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     -1,
+     132,
+     239,
+     153
+    ],
+    "vertical": true
+   },
+   {
+    "text": "ORTAS  Yosuke Ota / Makoto Miyauchi",
+    "box": [
+     2,
+     133,
+     360,
+     153
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     0,
+     170,
+     253,
+     190
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Dress-up Costume Design",
+    "box": [
+     3,
+     171,
+     360,
+     190
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     0,
+     189,
+     182,
+     210
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Hiroyo Ito / Hiroko Onose",
+    "box": [
+     3,
+     190,
+     360,
+     210
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     1,
+     227,
+     94,
+     247
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Data Editing",
+    "box": [
+     4,
+     228,
+     360,
+     247
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     0,
+     247,
+     181,
+     267
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Sonoko Mikami / Mayu Komura",
+    "box": [
+     3,
+     248,
+     360,
+     267
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   }
+  ]
+ },
+ "281": {
+  "ja": "staff card 280 (variant)",
+  "ops": [
+   {
+    "erase": [
+     3,
+     1,
+     185,
+     22
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Satomi Tadashi Pharmacy Filming",
+    "box": [
+     6,
+     2,
+     363,
+     22
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     3,
+     21,
+     78,
+     40
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Michiko Sato",
+    "box": [
+     6,
+     22,
+     363,
+     40
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     4,
+     58,
+     362,
+     78
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Opening Movie & Remix Movies",
+    "box": [
+     7,
+     59,
+     363,
+     78
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     3,
+     78,
+     61,
+     98
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Ai Ishihama",
+    "box": [
+     6,
+     79,
+     363,
+     98
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     3,
+     115,
+     212,
+     135
+    ],
+    "vertical": true
+   },
+   {
+    "text": "SD Character Design",
+    "box": [
+     6,
+     116,
+     363,
+     135
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     2,
+     134,
+     242,
+     155
+    ],
+    "vertical": true
+   },
+   {
+    "text": "ORTAS  Yosuke Ota / Makoto Miyauchi",
+    "box": [
+     5,
+     135,
+     363,
+     155
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     3,
+     172,
+     256,
+     192
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Dress-up Costume Design",
+    "box": [
+     6,
+     173,
+     363,
+     192
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     3,
+     191,
+     185,
+     212
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Hiroyo Ito / Hiroko Onose",
+    "box": [
+     6,
+     192,
+     363,
+     212
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     4,
+     229,
+     97,
+     249
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Data Editing",
+    "box": [
+     7,
+     230,
+     363,
+     249
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     3,
+     249,
+     184,
+     269
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Sonoko Mikami / Mayu Komura",
+    "box": [
+     6,
+     250,
+     363,
+     269
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   }
+  ]
+ },
+ "282": {
+  "ja": "staff card 282",
+  "ops": [
+   {
+    "erase": [
+     317,
+     0,
+     496,
+     22
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Screen Savers",
+    "box": [
+     125,
+     1,
+     493,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     285,
+     36,
+     495,
+     56
+    ],
+    "vertical": true
+   },
+   {
+    "text": "SD Character Design",
+    "box": [
+     125,
+     37,
+     492,
+     56
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     344,
+     56,
+     496,
+     75
+    ],
+    "vertical": true
+   },
+   {
+    "text": "ORTAS  Yosuke Ota",
+    "box": [
+     125,
+     57,
+     493,
+     75
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     297,
+     93,
+     496,
+     113
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Evilphone Modeling",
+    "box": [
+     125,
+     94,
+     493,
+     113
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     258,
+     112,
+     495,
+     133
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Nendo grafixxx  Kentaro Fujimoto",
+    "box": [
+     125,
+     113,
+     492,
+     133
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     421,
+     150,
+     495,
+     170
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Design",
+    "box": [
+     125,
+     151,
+     492,
+     170
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     438,
+     170,
+     495,
+     190
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Tsuyoshi Kusano",
+    "box": [
+     125,
+     171,
+     492,
+     190
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     367,
+     205,
+     495,
+     224
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Animation",
+    "box": [
+     125,
+     206,
+     492,
+     224
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     225,
+     223,
+     496,
+     244
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Kaori Harukawa / Momoyo Saito / Hiroko Onose",
+    "box": [
+     125,
+     224,
+     493,
+     244
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   }
+  ]
+ },
+ "283": {
+  "ja": "staff card 282 (variant)",
+  "ops": [
+   {
+    "erase": [
+     315,
+     0,
+     494,
+     22
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Screen Savers",
+    "box": [
+     123,
+     1,
+     491,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     283,
+     36,
+     493,
+     56
+    ],
+    "vertical": true
+   },
+   {
+    "text": "SD Character Design",
+    "box": [
+     123,
+     37,
+     490,
+     56
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     342,
+     56,
+     494,
+     75
+    ],
+    "vertical": true
+   },
+   {
+    "text": "ORTAS  Yosuke Ota",
+    "box": [
+     123,
+     57,
+     491,
+     75
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     295,
+     93,
+     494,
+     113
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Evilphone Modeling",
+    "box": [
+     123,
+     94,
+     491,
+     113
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     256,
+     112,
+     493,
+     133
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Nendo grafixxx  Kentaro Fujimoto",
+    "box": [
+     123,
+     113,
+     490,
+     133
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     419,
+     150,
+     493,
+     170
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Design",
+    "box": [
+     123,
+     151,
+     490,
+     170
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     436,
+     170,
+     493,
+     190
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Tsuyoshi Kusano",
+    "box": [
+     123,
+     171,
+     490,
+     190
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     365,
+     205,
+     493,
+     224
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Animation",
+    "box": [
+     123,
+     206,
+     490,
+     224
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     223,
+     223,
+     494,
+     244
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Kaori Harukawa / Momoyo Saito / Hiroko Onose",
+    "box": [
+     123,
+     224,
+     491,
+     244
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   }
+  ]
+ },
+ "284": {
+  "ja": "staff card 284",
+  "ops": [
+   {
+    "erase": [
+     0,
+     0,
+     83,
+     22
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Wallpapers",
+    "box": [
+     3,
+     1,
+     265,
+     22
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     1,
+     42,
+     203,
+     61
+    ],
+    "vertical": true
+   },
+   {
+    "text": "PEPPER SHOP  Manabu Koga",
+    "box": [
+     4,
+     43,
+     265,
+     61
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     1,
+     79,
+     248,
+     99
+    ],
+    "vertical": true
+   },
+   {
+    "text": "K'LIMITED E  Koji Hanihara",
+    "box": [
+     4,
+     80,
+     265,
+     99
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     1,
+     117,
+     149,
+     137
+    ],
+    "vertical": true
+   },
+   {
+    "text": "neuron  Miho Fukuda",
+    "box": [
+     4,
+     118,
+     265,
+     137
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     1,
+     156,
+     165,
+     176
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Tsuyoshi Kusano / Sonoko Mikami",
+    "box": [
+     4,
+     157,
+     265,
+     176
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   }
+  ]
+ },
+ "285": {
+  "ja": "staff card 284 (variant)",
+  "ops": [
+   {
+    "erase": [
+     -1,
+     0,
+     82,
+     22
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Wallpapers",
+    "box": [
+     2,
+     1,
+     264,
+     22
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     0,
+     42,
+     202,
+     61
+    ],
+    "vertical": true
+   },
+   {
+    "text": "PEPPER SHOP  Manabu Koga",
+    "box": [
+     3,
+     43,
+     264,
+     61
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     0,
+     79,
+     247,
+     99
+    ],
+    "vertical": true
+   },
+   {
+    "text": "K'LIMITED E  Koji Hanihara",
+    "box": [
+     3,
+     80,
+     264,
+     99
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     0,
+     117,
+     148,
+     137
+    ],
+    "vertical": true
+   },
+   {
+    "text": "neuron  Miho Fukuda",
+    "box": [
+     3,
+     118,
+     264,
+     137
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     0,
+     156,
+     164,
+     176
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Tsuyoshi Kusano / Sonoko Mikami",
+    "box": [
+     3,
+     157,
+     264,
+     176
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   }
+  ]
+ },
+ "286": {
+  "ja": "staff card 284 (variant)",
+  "ops": [
+   {
+    "erase": [
+     0,
+     0,
+     83,
+     22
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Wallpapers",
+    "box": [
+     3,
+     1,
+     265,
+     22
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     1,
+     42,
+     203,
+     61
+    ],
+    "vertical": true
+   },
+   {
+    "text": "PEPPER SHOP  Manabu Koga",
+    "box": [
+     4,
+     43,
+     265,
+     61
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     1,
+     79,
+     248,
+     99
+    ],
+    "vertical": true
+   },
+   {
+    "text": "K'LIMITED E  Koji Hanihara",
+    "box": [
+     4,
+     80,
+     265,
+     99
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     1,
+     117,
+     149,
+     137
+    ],
+    "vertical": true
+   },
+   {
+    "text": "neuron  Miho Fukuda",
+    "box": [
+     4,
+     118,
+     265,
+     137
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     1,
+     156,
+     165,
+     176
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Tsuyoshi Kusano / Sonoko Mikami",
+    "box": [
+     4,
+     157,
+     265,
+     176
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   }
+  ]
+ },
+ "287": {
+  "ja": "staff card 287",
+  "ops": [
+   {
+    "erase": [
+     422,
+     1,
+     504,
+     23
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Special Thanks",
+    "box": [
+     135,
+     2,
+     501,
+     23
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     344,
+     43,
+     504,
+     65
+    ],
+    "vertical": true
+   },
+   {
+    "text": "ATLUS Co., Ltd.",
+    "box": [
+     135,
+     44,
+     501,
+     65
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     324,
+     85,
+     505,
+     107
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Development Division 1, Development Section",
+    "box": [
+     135,
+     86,
+     502,
+     107
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     325,
+     106,
+     504,
+     128
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Kouji Okada / Kazuma Kaneko",
+    "box": [
+     135,
+     107,
+     501,
+     128
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     247,
+     127,
+     505,
+     149
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Tadashi Satomi / Takayuki Ide / Hidehito Aoki",
+    "box": [
+     135,
+     128,
+     502,
+     149
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     411,
+     169,
+     504,
+     191
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Consumer Sales Dept.",
+    "box": [
+     135,
+     170,
+     501,
+     191
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     325,
+     190,
+     505,
+     212
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Jun Morita / Rintaro Murata",
+    "box": [
+     135,
+     191,
+     502,
+     212
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     437,
+     243,
+     598,
+     297
+    ],
+    "thr": 120,
+    "sat": 60
+   },
+   {
+    "text": "*Complaints: Satomi Tadashi,\nMikage Sun Mall branch.",
+    "box": [
+     438,
+     243,
+     598,
+     298
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 8,
+    "leading": 1.05,
+    "nowrap": true
+   }
+  ]
+ },
+ "288": {
+  "ja": "staff card 287 (variant)",
+  "ops": [
+   {
+    "erase": [
+     416,
+     0,
+     498,
+     22
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Special Thanks",
+    "box": [
+     129,
+     1,
+     495,
+     22
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     338,
+     42,
+     498,
+     64
+    ],
+    "vertical": true
+   },
+   {
+    "text": "ATLUS Co., Ltd.",
+    "box": [
+     129,
+     43,
+     495,
+     64
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     318,
+     84,
+     499,
+     106
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Development Division 1, Development Section",
+    "box": [
+     129,
+     85,
+     496,
+     106
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     319,
+     105,
+     498,
+     127
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Kouji Okada / Kazuma Kaneko",
+    "box": [
+     129,
+     106,
+     495,
+     127
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     241,
+     126,
+     499,
+     148
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Tadashi Satomi / Takayuki Ide / Hidehito Aoki",
+    "box": [
+     129,
+     127,
+     496,
+     148
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     405,
+     168,
+     498,
+     190
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Consumer Sales Dept.",
+    "box": [
+     129,
+     169,
+     495,
+     190
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     319,
+     189,
+     499,
+     211
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Jun Morita / Rintaro Murata",
+    "box": [
+     129,
+     190,
+     496,
+     211
+    ],
+    "align": "right",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     431,
+     237,
+     593,
+     291
+    ],
+    "thr": 120,
+    "sat": 60
+   },
+   {
+    "text": "*Complaints: Satomi Tadashi,\nMikage Sun Mall branch.",
+    "box": [
+     432,
+     237,
+     593,
+     292
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 8,
+    "leading": 1.05,
+    "nowrap": true
+   }
+  ]
+ },
+ "289": {
+  "ja": "staff card 289",
+  "ops": [
+   {
+    "erase": [
+     90,
+     0,
+     172,
+     22
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Special Thanks",
+    "box": [
+     93,
+     1,
+     480,
+     22
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     90,
+     42,
+     309,
+     64
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Arts Vision Inc.",
+    "box": [
+     93,
+     43,
+     480,
+     64
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     90,
+     63,
+     192,
+     85
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Masayoshi Kinouchi",
+    "box": [
+     93,
+     64,
+     480,
+     85
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     91,
+     105,
+     328,
+     127
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Ken Ishizuka / Tomoe Hanba / Jun Mizusawa",
+    "box": [
+     94,
+     106,
+     480,
+     127
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     90,
+     126,
+     270,
+     148
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Masayo Kurata / Toranori Yoshikawa",
+    "box": [
+     93,
+     127,
+     480,
+     148
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     90,
+     209,
+     328,
+     232
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Chapter One Inc.",
+    "box": [
+     93,
+     210,
+     330,
+     232
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     92,
+     230,
+     316,
+     252
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Cosplex  Yuko Kobayashi",
+    "box": [
+     95,
+     231,
+     330,
+     252
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   }
+  ]
+ },
+ "290": {
+  "ja": "staff card 289 (variant)",
+  "ops": [
+   {
+    "erase": [
+     85,
+     0,
+     167,
+     22
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Special Thanks",
+    "box": [
+     88,
+     1,
+     475,
+     22
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     85,
+     42,
+     304,
+     64
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Arts Vision Inc.",
+    "box": [
+     88,
+     43,
+     475,
+     64
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     85,
+     63,
+     187,
+     85
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Masayoshi Kinouchi",
+    "box": [
+     88,
+     64,
+     475,
+     85
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     86,
+     105,
+     323,
+     127
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Ken Ishizuka / Tomoe Hanba / Jun Mizusawa",
+    "box": [
+     89,
+     106,
+     475,
+     127
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     85,
+     126,
+     265,
+     148
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Masayo Kurata / Toranori Yoshikawa",
+    "box": [
+     88,
+     127,
+     475,
+     148
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     85,
+     209,
+     323,
+     232
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Chapter One Inc.",
+    "box": [
+     88,
+     210,
+     325,
+     232
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   },
+   {
+    "erase": [
+     87,
+     230,
+     311,
+     252
+    ],
+    "vertical": true
+   },
+   {
+    "text": "Cosplex  Yuko Kobayashi",
+    "box": [
+     90,
+     231,
+     325,
+     252
+    ],
+    "align": "left",
+    "valign": "middle",
+    "font": "Arial.ttf",
+    "size": 15,
+    "nowrap": true
+   }
+  ]
+ }
+}

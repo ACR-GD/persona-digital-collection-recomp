@@ -1,0 +1,541 @@
+{
+ "_movie": "pcheck.dxr: Igor's Persona check: 15 yes/no questions, then a Persona and its spell card number",
+ "11": {
+  "ja": "…:…",
+  "ops": [
+   {
+    "erase": [
+     33,
+     15,
+     481,
+     72
+    ]
+   },
+   {
+    "text": "Igor: \"I shall find the Persona that suits you best.\"",
+    "box": [
+     39,
+     19,
+     477,
+     72
+    ],
+    "size": 13
+   },
+   {
+    "erase": [
+     52,
+     72,
+     165,
+     97
+    ],
+    "thr": 60,
+    "sat": 255
+   },
+   {
+    "text": "Yes",
+    "box": [
+     55,
+     77,
+     92,
+     97
+    ],
+    "align": "center"
+   },
+   {
+    "text": "/",
+    "box": [
+     92,
+     77,
+     112,
+     97
+    ],
+    "align": "center",
+    "color": [
+     90,
+     90,
+     222
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     112,
+     77,
+     162,
+     97
+    ],
+    "align": "center"
+   }
+  ]
+ },
+ "12": {
+  "ja": "はい (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     11,
+     55,
+     74,
+     [
+      52,
+      72,
+      165,
+      97,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "Yes",
+    "box": [
+     1,
+     3,
+     38,
+     23
+    ],
+    "align": "center",
+    "color": [
+     107,
+     107,
+     206
+    ]
+   }
+  ]
+ },
+ "13": {
+  "ja": "いいえ (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     11,
+     112,
+     74,
+     [
+      52,
+      72,
+      165,
+      97,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     2,
+     3,
+     52,
+     23
+    ],
+    "align": "center",
+    "color": [
+     107,
+     107,
+     206
+    ]
+   }
+  ]
+ },
+ "19": {
+  "ja": "(question 19)",
+  "box": [
+   0,
+   0,
+   290,
+   55
+  ],
+  "en": "The tougher things get, the more motivated I become.",
+  "align": "center",
+  "valign": "middle",
+  "size": 15,
+  "nowrap": false
+ },
+ "21": {
+  "ja": "(question 21)",
+  "box": [
+   0,
+   0,
+   290,
+   30
+  ],
+  "en": "I think I have a split personality.",
+  "align": "center",
+  "valign": "middle",
+  "size": 15,
+  "nowrap": false
+ },
+ "23": {
+  "ja": "(question 23)",
+  "box": [
+   0,
+   0,
+   256,
+   55
+  ],
+  "en": "I can't rest unless the garbage is properly sorted.",
+  "align": "center",
+  "valign": "middle",
+  "size": 15,
+  "nowrap": false
+ },
+ "25": {
+  "ja": "(question 25)",
+  "box": [
+   0,
+   0,
+   211,
+   54
+  ],
+  "en": "Somehow I always end up as group leader or party organizer.",
+  "align": "center",
+  "valign": "middle",
+  "size": 15,
+  "nowrap": false
+ },
+ "27": {
+  "ja": "(question 27)",
+  "box": [
+   0,
+   0,
+   268,
+   29
+  ],
+  "en": "There are so many things I want to do.",
+  "align": "center",
+  "valign": "middle",
+  "size": 15,
+  "nowrap": false
+ },
+ "29": {
+  "ja": "(question 29)",
+  "box": [
+   0,
+   0,
+   269,
+   33
+  ],
+  "en": "When I lie, it shows on my face.",
+  "align": "center",
+  "valign": "middle",
+  "size": 15,
+  "nowrap": false
+ },
+ "31": {
+  "ja": "(question 31)",
+  "box": [
+   0,
+   0,
+   267,
+   55
+  ],
+  "en": "I don't find other people's opinions very useful.",
+  "align": "center",
+  "valign": "middle",
+  "size": 15,
+  "nowrap": false
+ },
+ "33": {
+  "ja": "(question 33)",
+  "box": [
+   0,
+   0,
+   214,
+   76
+  ],
+  "en": "People often call me \"big sis\" or \"boss\".",
+  "align": "center",
+  "valign": "middle",
+  "size": 15,
+  "nowrap": false
+ },
+ "35": {
+  "ja": "(question 35)",
+  "box": [
+   0,
+   0,
+   212,
+   56
+  ],
+  "en": "I'm the type who holds a grudge.",
+  "align": "center",
+  "valign": "middle",
+  "size": 15,
+  "nowrap": false
+ },
+ "37": {
+  "ja": "(question 37)",
+  "box": [
+   0,
+   0,
+   200,
+   54
+  ],
+  "en": "Lately I've been really popular.",
+  "align": "center",
+  "valign": "middle",
+  "size": 15,
+  "nowrap": false
+ },
+ "39": {
+  "ja": "(question 39)",
+  "box": [
+   0,
+   0,
+   201,
+   61
+  ],
+  "en": "I never forget anything in a book I've read once.",
+  "align": "center",
+  "valign": "middle",
+  "size": 15,
+  "nowrap": false
+ },
+ "41": {
+  "ja": "(question 41)",
+  "box": [
+   0,
+   0,
+   236,
+   51
+  ],
+  "en": "I love new things but get bored quickly.",
+  "align": "center",
+  "valign": "middle",
+  "size": 15,
+  "nowrap": false
+ },
+ "43": {
+  "ja": "(question 43)",
+  "box": [
+   0,
+   0,
+   233,
+   55
+  ],
+  "en": "I love plotting pranks and telling tall tales.",
+  "align": "center",
+  "valign": "middle",
+  "size": 15,
+  "nowrap": false
+ },
+ "45": {
+  "ja": "(question 45)",
+  "box": [
+   0,
+   0,
+   230,
+   60
+  ],
+  "en": "At camps and amusement parks, I play my heart out.",
+  "align": "center",
+  "valign": "middle",
+  "size": 15,
+  "nowrap": false
+ },
+ "47": {
+  "ja": "(question 47)",
+  "box": [
+   0,
+   0,
+   266,
+   84
+  ],
+  "en": "I often daydream and lose track of time.",
+  "align": "center",
+  "valign": "middle",
+  "size": 15,
+  "nowrap": false
+ },
+ "49": {
+  "ja": "…:…",
+  "box": [
+   143,
+   18,
+   477,
+   101
+  ],
+  "en": "Igor: \"I have found the Persona for you. Please enter its spell card number into the Evilphone.\""
+ },
+ "121": {
+  "ja": "…:…\"WORLD Mucalinda\"…",
+  "box": [
+   144,
+   12,
+   478,
+   95
+  ],
+  "en": "Igor: \"For you, whose mind is heightened and focused right now, I recommend the Persona WORLD Mucalinda.\""
+ },
+ "123": {
+  "ja": "…:…\"TOWER Amatsu-Mikaboshi\"…",
+  "box": [
+   142,
+   19,
+   476,
+   102
+  ],
+  "en": "Igor: \"For you, who can be a little contrary, I recommend the Persona TOWER Amatsu-Mikaboshi.\""
+ },
+ "125": {
+  "ja": "…:…\"MOON Succubus\"…",
+  "box": [
+   142,
+   21,
+   476,
+   104
+  ],
+  "en": "Igor: \"For you, a witty and playful soul, I recommend the Persona MOON Succubus.\""
+ },
+ "127": {
+  "ja": "…:…\"HIEROPHANT Aizen-Myoh\"…",
+  "box": [
+   143,
+   18,
+   477,
+   101
+  ],
+  "en": "Igor: \"For you, pure, upright and noble, who hates anything crooked, I recommend the Persona HIEROPHANT Aizen-Myoh.\""
+ },
+ "129": {
+  "ja": "…:…\"EMPRESS Vesta\"…",
+  "box": [
+   142,
+   21,
+   476,
+   104
+  ],
+  "en": "Igor: \"For you, the strict but kind big-sister type everyone relies on, I recommend the Persona EMPRESS Vesta.\""
+ },
+ "131": {
+  "ja": "…:…\"SUN Suzaku\"…",
+  "box": [
+   143,
+   18,
+   477,
+   101
+  ],
+  "en": "Igor: \"For you, innocent as a child and full of energy, I recommend the Persona SUN Suzaku.\""
+ },
+ "133": {
+  "ja": "…:…\"JUSTICE Neamhain\"…",
+  "box": [
+   148,
+   24,
+   482,
+   107
+  ],
+  "en": "Igor: \"For you, honest to the core and unable to lie, I recommend the Persona JUSTICE Neamhain.\""
+ },
+ "135": {
+  "ja": "…:…\"DEATH Hel\"…",
+  "box": [
+   142,
+   18,
+   476,
+   101
+  ],
+  "en": "Igor: \"For you, who are forever seeking change, I recommend the Persona DEATH Hel.\""
+ },
+ "137": {
+  "ja": "…:…\"EMPEROR Seimen Kongo\"…",
+  "box": [
+   141,
+   17,
+   475,
+   100
+  ],
+  "en": "Igor: \"For you, the quiet pillar who looks after everyone, I recommend the Persona EMPEROR Seimen Kongo.\""
+ },
+ "139": {
+  "ja": "…:…\"CHARIOT Ogun\"…",
+  "box": [
+   142,
+   18,
+   476,
+   101
+  ],
+  "en": "Igor: \"For you, stubborn and with a craftsman's spirit, I recommend the Persona CHARIOT Ogun.\""
+ },
+ "141": {
+  "ja": "…:…\"FOOL Narukami\"…",
+  "box": [
+   143,
+   20,
+   477,
+   103
+  ],
+  "en": "Igor: \"For you, who hold limitless potential, I recommend the Persona FOOL Narukami.\""
+ },
+ "143": {
+  "ja": "…:…\"MAGICIAN Houri\"…",
+  "box": [
+   147,
+   20,
+   481,
+   103
+  ],
+  "en": "Igor: \"For you, a doer who can never sit still, I recommend the Persona MAGICIAN Houri.\""
+ },
+ "145": {
+  "ja": "…:…\"LOVERS Pixie\"…",
+  "box": [
+   147,
+   19,
+   481,
+   102
+  ],
+  "en": "Igor: \"For you, full of affection and brimming with charm, I recommend the Persona LOVERS Pixie.\""
+ },
+ "147": {
+  "ja": "…:…\"PRIESTESS Mazu\"…",
+  "box": [
+   148,
+   22,
+   482,
+   105
+  ],
+  "en": "Igor: \"For you, with your enigmatic, mysterious charm, I recommend the Persona PRIESTESS Mazu.\""
+ },
+ "149": {
+  "ja": "…:…\"DEVIL Bres\"…",
+  "box": [
+   143,
+   21,
+   477,
+   104
+  ],
+  "en": "Igor: \"For you, who hold to your principles in everything, I recommend the Persona DEVIL Bres.\""
+ },
+ "151": {
+  "ja": "…:…\"JUDGEMENT Nike\"…",
+  "box": [
+   144,
+   23,
+   478,
+   106
+  ],
+  "en": "Igor: \"For you, the type who catches fire in a pinch, I recommend the Persona JUDGEMENT Nike.\""
+ },
+ "153": {
+  "ja": "…:…\"HERMIT Byakko\"…",
+  "box": [
+   144,
+   22,
+   478,
+   105
+  ],
+  "en": "Igor: \"For you, the walking encyclopedia of your circle of friends, I recommend the Persona HERMIT Byakko.\""
+ },
+ "155": {
+  "ja": "…:…\"TEMPERANCE Genbu\"…",
+  "box": [
+   146,
+   22,
+   480,
+   105
+  ],
+  "en": "Igor: \"For you, who value balance and harmony in all things, I recommend the Persona TEMPERANCE Genbu.\""
+ }
+}

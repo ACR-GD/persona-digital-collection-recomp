@@ -1,0 +1,327 @@
+{
+ "_movie": "magic.dxr: Reiji's shell game: Brown hides in one of three toilets, the player picks one",
+ "14": {
+  "ja": "…:…?…",
+  "ops": [
+   {
+    "erase": [
+     28,
+     18,
+     476,
+     76
+    ]
+   },
+   {
+    "text": "Reiji: \"Wanna see my magic trick?\"",
+    "box": [
+     34,
+     22,
+     472,
+     76
+    ],
+    "size": 13
+   },
+   {
+    "erase": [
+     53,
+     76,
+     164,
+     98
+    ],
+    "thr": 60,
+    "sat": 255
+   },
+   {
+    "text": "Yes",
+    "box": [
+     56,
+     81,
+     93,
+     98
+    ],
+    "align": "center"
+   },
+   {
+    "text": "/",
+    "box": [
+     93,
+     81,
+     111,
+     98
+    ],
+    "align": "center",
+    "color": [
+     90,
+     90,
+     222
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     111,
+     81,
+     161,
+     98
+    ],
+    "align": "center"
+   }
+  ]
+ },
+ "15": {
+  "ja": "はい (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     14,
+     56,
+     78,
+     [
+      53,
+      76,
+      164,
+      98,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "Yes",
+    "box": [
+     1,
+     3,
+     38,
+     20
+    ],
+    "align": "center",
+    "color": [
+     107,
+     107,
+     206
+    ]
+   }
+  ]
+ },
+ "16": {
+  "ja": "いいえ (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     14,
+     111,
+     78,
+     [
+      53,
+      76,
+      164,
+      98,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     2,
+     3,
+     52,
+     20
+    ],
+    "align": "center",
+    "color": [
+     107,
+     107,
+     206
+    ]
+   }
+  ]
+ },
+ "53": {
+  "ja": "…:…:…! …! …?…",
+  "ops": [
+   {
+    "erase": [
+     39,
+     23,
+     450,
+     76
+    ]
+   },
+   {
+    "text": "Reiji: \"...Wrong.\"\nBrown: \"Too bad! I was over here! Wanna go again?\"",
+    "box": [
+     45,
+     27,
+     446,
+     76
+    ],
+    "size": 13
+   },
+   {
+    "erase": [
+     66,
+     76,
+     177,
+     96
+    ],
+    "thr": 60,
+    "sat": 255
+   },
+   {
+    "text": "Yes",
+    "box": [
+     69,
+     81,
+     105,
+     96
+    ],
+    "align": "center"
+   },
+   {
+    "text": "/",
+    "box": [
+     105,
+     81,
+     123,
+     96
+    ],
+    "align": "center",
+    "color": [
+     90,
+     90,
+     222
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     123,
+     81,
+     174,
+     96
+    ],
+    "align": "center"
+   }
+  ]
+ },
+ "54": {
+  "ja": "はい (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     53,
+     69,
+     78,
+     [
+      66,
+      76,
+      177,
+      96,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "Yes",
+    "box": [
+     1,
+     3,
+     37,
+     18
+    ],
+    "align": "center",
+    "color": [
+     90,
+     99,
+     165
+    ]
+   }
+  ]
+ },
+ "55": {
+  "ja": "いいえ (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     53,
+     123,
+     78,
+     [
+      66,
+      76,
+      177,
+      96,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     2,
+     3,
+     53,
+     18
+    ],
+    "align": "center",
+    "color": [
+     90,
+     99,
+     165
+    ]
+   }
+  ]
+ },
+ "19": {
+  "ja": "…:…? …",
+  "box": [
+   29,
+   19,
+   440,
+   104
+  ],
+  "text_box": [
+   35,
+   22,
+   436,
+   104
+  ],
+  "en": "Reiji: \"Brown's hiding in one of these toilets. I'll shuffle 'em with my magic so you can't tell, and you guess which one. Got it? Watch close.\""
+ },
+ "20": {
+  "ja": "…:…~…",
+  "box": [
+   22,
+   24,
+   433,
+   109
+  ],
+  "text_box": [
+   28,
+   27,
+   429,
+   109
+  ],
+  "en": "Brown: \"Okay, the great me is gonna hide now! Go easy on me, big bro Reiji~\""
+ },
+ "52": {
+  "ja": "…:…:…! …! …",
+  "box": [
+   26,
+   18,
+   437,
+   103
+  ],
+  "text_box": [
+   32,
+   21,
+   433,
+   103
+  ],
+  "en": "Reiji: \"......\"\nBrown: \"Bravo! A handshake with the great me, inside a toilet! Ha ha. Here, your ticket.\""
+ }
+}

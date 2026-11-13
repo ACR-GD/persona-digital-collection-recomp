@@ -1,0 +1,397 @@
+{
+ "_movie": "puzzle.dxr: Maki's 15-puzzle; GIVE UP button already English",
+ "11": {
+  "ja": "…:…? …! …?…",
+  "ops": [
+   {
+    "erase": [
+     31,
+     18,
+     479,
+     81
+    ]
+   },
+   {
+    "text": "Maki: \"You came to see my paintings? Thank you! ...is what I'd like to say, but a girl in black came and scattered my picture to pieces. Could you help me fix it?\"",
+    "box": [
+     37,
+     22,
+     475,
+     81
+    ],
+    "size": 12
+   },
+   {
+    "erase": [
+     50,
+     81,
+     160,
+     102
+    ],
+    "thr": 60,
+    "sat": 255
+   },
+   {
+    "text": "Yes",
+    "box": [
+     53,
+     86,
+     87,
+     102
+    ],
+    "align": "center"
+   },
+   {
+    "text": "/",
+    "box": [
+     87,
+     86,
+     110,
+     102
+    ],
+    "align": "center",
+    "color": [
+     90,
+     90,
+     222
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     110,
+     86,
+     157,
+     102
+    ],
+    "align": "center"
+   }
+  ]
+ },
+ "12": {
+  "ja": "はい (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     11,
+     53,
+     83,
+     [
+      50,
+      81,
+      160,
+      102,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "Yes",
+    "box": [
+     1,
+     3,
+     35,
+     19
+    ],
+    "align": "center",
+    "color": [
+     107,
+     107,
+     181
+    ]
+   }
+  ]
+ },
+ "13": {
+  "ja": "いいえ (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     11,
+     110,
+     83,
+     [
+      50,
+      81,
+      160,
+      102,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     2,
+     3,
+     49,
+     19
+    ],
+    "align": "center",
+    "color": [
+     107,
+     107,
+     181
+    ]
+   }
+  ]
+ },
+ "25": {
+  "ja": "…:…1…? …!…",
+  "ops": [
+   {
+    "erase": [
+     30,
+     16,
+     478,
+     79
+    ]
+   },
+   {
+    "text": "Maki: \"Ugh, the girl in black got me again... Will you help me one more time? Please!\"",
+    "box": [
+     36,
+     20,
+     474,
+     79
+    ],
+    "size": 13
+   },
+   {
+    "erase": [
+     49,
+     79,
+     159,
+     100
+    ],
+    "thr": 60,
+    "sat": 255
+   },
+   {
+    "text": "Yes",
+    "box": [
+     52,
+     84,
+     86,
+     100
+    ],
+    "align": "center"
+   },
+   {
+    "text": "/",
+    "box": [
+     86,
+     84,
+     109,
+     100
+    ],
+    "align": "center",
+    "color": [
+     90,
+     90,
+     222
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     109,
+     84,
+     156,
+     100
+    ],
+    "align": "center"
+   }
+  ]
+ },
+ "26": {
+  "ja": "…:…! …? …? …? …",
+  "box": [
+   35,
+   18,
+   483,
+   103
+  ],
+  "text_box": [
+   41,
+   21,
+   479,
+   103
+  ],
+  "en": "Maki: \"Thank you! ...Huh? Yuko? She wanted me to go see her? Got it. Here, take this ticket.\"",
+  "size": 13
+ },
+ "67": {
+  "ja": "…:…",
+  "box": [
+   19,
+   8,
+   467,
+   93
+  ],
+  "text_box": [
+   25,
+   11,
+   463,
+   93
+  ],
+  "en": "Maki: \"Finish the puzzle within the time limit. If all the timer lamps go out, it's game over and the girl in black scatters my picture again. Click the screen when you're ready!\"",
+  "size": 12
+ },
+ "68": {
+  "ja": "…:…15…? …\"GIVE UP…\"…",
+  "box": [
+   19,
+   8,
+   467,
+   93
+  ],
+  "text_box": [
+   25,
+   11,
+   463,
+   93
+  ],
+  "en": "Maki: \"You know the 15-puzzle, right? Slide the pieces one at a time to finish the picture. If you just can't do it, click the \"GIVE UP\" button below to start over, even with a different picture. Click the screen when you're ready!\"",
+  "size": 12
+ },
+ "47": {
+  "ja": "すたーと!!",
+  "ops": [
+   {
+    "fill": [
+     0,
+     0,
+     283,
+     62
+    ],
+    "color": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Start!!",
+    "box": [
+     0,
+     0,
+     283,
+     62
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 52,
+    "color": [
+     239,
+     156,
+     49
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "48": {
+  "ja": "げ~むお~ば~",
+  "ops": [
+   {
+    "fill": [
+     0,
+     0,
+     437,
+     64
+    ],
+    "color": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Game over~",
+    "box": [
+     0,
+     0,
+     437,
+     64
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 52,
+    "color": [
+     49,
+     49,
+     206
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "49": {
+  "ja": "おめでとう♪",
+  "ops": [
+   {
+    "fill": [
+     0,
+     0,
+     368,
+     61
+    ],
+    "color": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "Well done!",
+    "box": [
+     0,
+     0,
+     368,
+     61
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Rounded Bold.ttf",
+    "size": 52,
+    "color": [
+     214,
+     16,
+     33
+    ],
+    "nowrap": true
+   }
+  ]
+ },
+ "24": {
+  "ja": "制限時間 (timer frame)",
+  "ops": [
+   {
+    "erase": [
+     4,
+     8,
+     50,
+     30
+    ]
+   },
+   {
+    "text": "TIME",
+    "box": [
+     4,
+     9,
+     50,
+     29
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Arial Bold Italic.ttf",
+    "size": 12
+   }
+  ]
+ }
+}

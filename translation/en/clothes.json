@@ -1,0 +1,174 @@
+{
+ "_movie": "clothes.dxr: Trish dresses up the party; only Trish's prompt and the BG 1 ceremony banner are Japanese",
+ "283": {
+  "ja": "…:…Ha-i! …! …?…",
+  "ops": [
+   {
+    "erase": [
+     27,
+     18,
+     475,
+     77
+    ]
+   },
+   {
+    "text": "Trish: \"Ha-i! I'm Trish. I'll use my magic to transform everyone! Ready?\"",
+    "box": [
+     33,
+     22,
+     471,
+     77
+    ],
+    "size": 13
+   },
+   {
+    "erase": [
+     50,
+     77,
+     159,
+     101
+    ],
+    "thr": 60,
+    "sat": 255
+   },
+   {
+    "text": "Yes",
+    "box": [
+     53,
+     82,
+     86,
+     101
+    ],
+    "align": "center"
+   },
+   {
+    "text": "/",
+    "box": [
+     86,
+     82,
+     108,
+     101
+    ],
+    "align": "center",
+    "color": [
+     90,
+     90,
+     222
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     108,
+     82,
+     156,
+     101
+    ],
+    "align": "center"
+   }
+  ]
+ },
+ "284": {
+  "ja": "はい (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     283,
+     53,
+     79,
+     [
+      50,
+      77,
+      159,
+      101,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "Yes",
+    "box": [
+     1,
+     3,
+     34,
+     22
+    ],
+    "align": "center",
+    "color": [
+     107,
+     107,
+     206
+    ]
+   }
+  ]
+ },
+ "285": {
+  "ja": "いいえ (hover)",
+  "ops": [
+   {
+    "bg_from": [
+     283,
+     108,
+     79,
+     [
+      50,
+      77,
+      159,
+      101,
+      60,
+      255
+     ]
+    ]
+   },
+   {
+    "text": "No",
+    "box": [
+     2,
+     3,
+     50,
+     22
+    ],
+    "align": "center",
+    "color": [
+     107,
+     107,
+     206
+    ]
+   }
+  ]
+ },
+ "313": {
+  "ja": "…",
+  "ops": [
+   {
+    "erase_dark": [
+     148,
+     76,
+     492,
+     143
+    ],
+    "thr": 690
+   },
+   {
+    "text": "32nd Graduation Ceremony",
+    "box": [
+     150,
+     78,
+     490,
+     141
+    ],
+    "align": "center",
+    "valign": "middle",
+    "font": "Times New Roman.ttf",
+    "size": 34,
+    "color": [
+     40,
+     40,
+     40
+    ],
+    "nowrap": true
+   }
+  ]
+ }
+}
