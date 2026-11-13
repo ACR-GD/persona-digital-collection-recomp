@@ -56,6 +56,19 @@ class Patcher:
         payload = bitd_from_image(im, bi)
         self._append_chunk(old.index, 'BITD', payload)
 
+    def disable_handler(self, lscr_index, handler, must_contain=None):
+        """Make handler number `handler` of script chunk Lscr #lscr_index return at once (its first
+        opcode becomes ret). must_contain: a literal the script must hold (guards against a wrong index)."""
+        ch = next(c for c in self.f.by_tag['Lscr'] if c.index == lscr_index)
+        d = bytearray(ch.data)
+        if must_contain and must_contain.encode('latin-1') not in d:
+            raise ValueError('Lscr #%d does not contain %r' % (lscr_index, must_contain))
+        hcount, hoff = struct.unpack_from('>HI', d, 72)
+        if handler >= hcount: raise ValueError('Lscr #%d has %d handlers' % (lscr_index, hcount))
+        coff = struct.unpack_from('>I', d, hoff + 42 * handler + 8)[0]
+        d[coff] = 0x01   # ret
+        self._append_chunk(lscr_index, 'Lscr', bytes(d))
+
     def _append_chunk(self, index, tag, payload):
         if len(self.buf) & 1:
             self.buf += b'\0'

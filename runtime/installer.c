@@ -232,8 +232,32 @@ out:
     SDL_free(pt);
     return ok;
 }
+// <overlay>/patch.id records the size and CRC-32 of the patch file the overlay was built from, so a
+// newer persona_en.patch (a program update) is applied again at startup.
+static int patch_id(const char *patch, char *out, size_t n) {
+    size_t sz; uint8_t *b = read_all(patch, &sz);
+    if (!b) return 0;
+    snprintf(out, n, "%zu %08x\n", sz, crc32_update(0, b, sz));
+    SDL_free(b);
+    return 1;
+}
+int install_patch_is_current(const char *patch, const char *overlay_dir) {
+    char want[64], p[1200]; if (!patch_id(patch, want, sizeof want)) return 1;
+    join(p, sizeof p, overlay_dir, "patch.id");
+    size_t n; char *have = (char *)read_all(p, &n);
+    int same = have && n == strlen(want) && !memcmp(have, want, n);
+    SDL_free(have);
+    return same;
+}
+static void mark_patch(const char *patch, const char *overlay_dir) {
+    char id[64], p[1200];
+    if (!patch_id(patch, id, sizeof id)) return;
+    join(p, sizeof p, overlay_dir, "patch.id"); write_all(p, id, strlen(id));
+}
 int install_patch(const char *patch, const char *data_dir, const char *overlay_dir, char *err, size_t errn) {
-    return apply_patch(patch, data_dir, overlay_dir, 0, 0, 1, err, errn);
+    if (!apply_patch(patch, data_dir, overlay_dir, 0, 0, 1, err, errn)) return 0;
+    mark_patch(patch, overlay_dir);
+    return 1;
 }
 
 // ---------------------------------------------------------------- install
@@ -324,7 +348,7 @@ int install_game(const char *src, const char *data_dir, const char *overlay_dir,
         char err[512] = "";
         if (!apply_patch(patch, data_dir, overlay_dir, p, 0.9f, 1.0f, err, sizeof err)) {
             snprintf(p->warn, sizeof p->warn, "Game installed, but the English patch failed: %s", err);
-        }
+        } else mark_patch(patch, overlay_dir);
     } else snprintf(p->warn, sizeof p->warn, "Game installed (Japanese only: persona_en.patch was not found next to the program).");
     status(p, 1, "Done.");
     ok = 1;

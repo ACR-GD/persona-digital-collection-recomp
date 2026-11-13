@@ -188,6 +188,12 @@ int main(int argc, char **argv) {
         if (launcher_run(&lp) != LAUNCH_PLAY) { SDL_Quit(); return 0; }
         ready = install_is_complete(game_dir);
     }
+    // a newer English patch than the one the overlay was built from (program update): apply it again
+    if (!dev && ready && patch[0] && is_dir(ovl) && !install_patch_is_current(patch, ovl)) {
+        char err[600] = "";
+        fprintf(stderr, "updating the English overlay from %s\n", patch);
+        if (!install_patch(patch, game_dir, ovl, err, sizeof err)) fprintf(stderr, "English patch: %s\n", err);
+    }
     if (!ready && !is_dir(game_dir)) rt_fatal("game data folder '%s' not found (run the launcher and install from your disc, or see README)", game_dir);
     // translation overlay: PERSONA_OVERLAY, else <data>_en unless PERSONA_LANG=ja (PERSONA_OVERLAY= disables)
     const char *ov = SDL_getenv("PERSONA_OVERLAY"), *lang = getenv("PERSONA_LANG");

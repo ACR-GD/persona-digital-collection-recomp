@@ -68,6 +68,10 @@ label must not be duplicated); Yamaoka's LED panels rebuilt on their 8-px grid w
   石塚堅 Ken Ishizuka, 半場友恵 Tomoe Hanba, 倉田雅代 Masayo Kurata, 吉川虎範 Toranori Yoshikawa.
   反谷教頭 = Vice Principal Hanya (reading not checked against the PSP release).
 * Photo backgrounds (staff roll) use the `vertical` erase: masked pixels copy the clean strip above the line.
+* Mark's gallery (wpmark): INSTALL ran `open "<cd>\\acce\\Wallchg.exe"` (the disc's Windows wallpaper
+  changer; WinExec is stubbed). The button is removed: its frame and shadow are refilled with the photo
+  texture in the three gallery backgrounds, the label sprite (291) becomes the same patch, and the
+  handler (Lscr #188) returns at once (`_disable` in the translation script, `Patcher.disable_handler`).
 * Hotspots in tests: the hub QUIT button reacts around pointer (50,440), i.e. butterfly (66,456).
 
 ## Recompilation
@@ -127,6 +131,8 @@ QT installer: data/qt/qt32.exe holds the real DLLs as SZDD blobs (tools/szdd.py 
 * `persona_en.patch` (`tools/make_patch.py`): per overlay file, size + CRC-32 of the original and of the
   result, and the differing byte runs (dxrpatch only appends BITD chunks and rewrites mmap entries,
   so a movie patch is the new chunks plus a few hundred bytes). 12.5 MB for the 20 movies + 2 .sub.
+* `<data>_en/patch.id` (size + CRC-32 of the patch it was built from): when a program update ships a
+  different patch, it is applied again at startup (installed layout only).
 * `PS.exe` is mapped at startup (`install_map_exe`, checked against EXE_SIZE / EXE_CRC32 from
   `gen/image_info.h`); nothing from the disc is compiled into the binary. `PERSONA_IMAGE=gen/image.bin`
   still works for experiments.

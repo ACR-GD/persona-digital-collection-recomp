@@ -20,5 +20,7 @@ int install_is_complete(const char *data_dir);
 int install_has_english(const char *overlay_dir);
 // Apply the English patch alone (data_dir must be complete). Returns 1 on success.
 int install_patch(const char *patch, const char *data_dir, const char *overlay_dir, char *err, size_t errn);
+// The overlay was built from this patch file (patch.id matches); 1 when the patch cannot be read.
+int install_patch_is_current(const char *patch, const char *overlay_dir);
 // Map <data_dir>/dc/PS.exe at its image base in mem (checked against the build). Returns 1 on success.
 int install_map_exe(const char *exe, uint8_t *mem, uint32_t mem_size, char *err, size_t errn);

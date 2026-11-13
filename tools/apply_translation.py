@@ -15,6 +15,8 @@ Script entries are keyed by cast member number:
   "286": {"ja": "...", "ops": [{"erase": [l,t,r,b]}, {"text": "Yes", "box": [l,t,r,b], "align": "center"}]}
       explicit operations, applied in order.
   "en": null or a missing entry leaves the bitmap untouched.
+  "_disable": [{"lscr": 188, "handler": 0, "literal": "..."}]
+      Lingo handlers to switch off (they return at once), e.g. buttons that start Windows programs.
 """
 import sys, os, json
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -143,6 +145,8 @@ def main():
             P.replace_bitmap(num, new)
             new.convert('RGB').save(os.path.join(prev, '%04d.png' % num))
             n += 1
+        for dis in script.get('_disable', []):
+            P.disable_handler(dis['lscr'], dis['handler'], dis.get('literal'))
         dst = os.path.join(out, 'dc', mv + '.dxr')
         P.save(dst)
         print('%s: %d bitmaps translated -> %s' % (mv, n, dst))

@@ -43,7 +43,7 @@ def main(data, overlay, out):
     for root, _, names in os.walk(overlay):
         for nm in sorted(names):
             p = os.path.join(root, nm); rel = os.path.relpath(p, overlay).replace(os.sep, '/')
-            if nm.startswith('.'): continue
+            if nm.startswith('.') or nm == 'patch.id': continue
             files.append(rel)
     files.sort()
     blob = bytearray(b'PDCPAT1\0' + struct.pack('<I', len(files)))
