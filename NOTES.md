@@ -90,6 +90,11 @@ label must not be duplicated); Yamaoka's LED panels rebuilt on their 8-px grid w
     colour-domain translation, StretchDIBits/SetDIBitsToDevice, regions (rect lists), palettes
     (identity realization, AnimatePalette), pens/brushes/shapes, basic text.
   * `w32_mm.c`: waveOut on SDL audio streams, multimedia timers.
+    A buffer is done when the device has consumed it (bytes put minus `SDL_GetAudioStreamQueued`). SDL's
+    resampler keeps a few frames (7 bytes at 22 kHz -> 44.1 kHz) until more data arrives, so a residue of
+    up to 64 frames counts as played: otherwise MacroMix's last buffer of a sound never completed, the
+    channel stayed busy forever, BGM never looped (`soundBusy(2)`) and buttons that wait for their click
+    sound (`repeat while soundBusy(1)`) froze the game once the music had ended.
 * Director 5/Win is built on Altura's Mac-to-Windows layer: Win32 input becomes Mac EventRecords
   (queue at 0x50f3b8, WaitNextEvent at 0x40db80).
 

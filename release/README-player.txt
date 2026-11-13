@@ -21,6 +21,13 @@ fullscreen in the game. To get the launcher back after choosing "Skip", start th
 
 Playing: aim with the butterfly - it is the game's mouse cursor.
 
+Tickets and hidden attractions
+  Five mini-games each give a ticket when you win them: the mopping race, Reiji & Brown's magic,
+  turtle hockey, the shooting gallery and Maki's puzzle. The other attractions (tarot, karaoke,
+  checks...) give none. To use your tickets, go to the principal's office and answer Yes when
+  Principal Oishi offers to show you around; each ticket opens one hidden attraction. Tickets are
+  not saved: quitting the program loses them. Details: GUIDE.md on the project page.
+
 Where things are kept
   macOS:   ~/Library/Application Support/Second Save/Persona Digital Collection/
   Windows: %APPDATA%\Second Save\Persona Digital Collection\

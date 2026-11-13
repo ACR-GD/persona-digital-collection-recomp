@@ -21,6 +21,8 @@ launcher opens:
    smooth scaling, sound, launcher at startup.
 3. **Play**. Aim with the butterfly: it is the game's cursor. Alt+Enter toggles fullscreen.
 
+How to win tickets and open the hidden attractions: see [GUIDE.md](GUIDE.md).
+
 `--play` starts the game directly, `--launcher` shows the launcher even when it is set to Skip.
 Installed files, saves and `persona.cfg` live in the per-user folder
 (`~/Library/Application Support/Second Save/Persona Digital Collection` on macOS,

@@ -23,12 +23,17 @@ struct wout {
 };
 static struct wout WO[4];
 static SDL_AudioDeviceID dev;
+// Bytes of this stream the device has consumed. SDL's resampler keeps a few frames of history that it
+// only releases when more data arrives, so once the guest stops writing (end of a sound) a small tail
+// stays queued for good; without this, the last buffer would never be reported done (WOM_DONE), and
+// MacroMix would keep the sound channel busy (no BGM loop, buttons waiting on soundBusy forever).
+static uint64_t wave_played(struct wout *w) {
+    int queued = SDL_GetAudioStreamQueued(w->st);
+    if (queued <= 64 * w->bpf) queued = 0;
+    return w->put - (uint64_t)queued;
+}
 static int wave_pending(void) {
-    for (int k = 0; k < 4; k++) if (WO[k].used && WO[k].qn) {
-        int queued = SDL_GetAudioStreamQueued(WO[k].st);
-        uint64_t played = WO[k].put - (uint64_t)(queued > 0 ? queued : 0);
-        if (played >= WO[k].q[0].end) return 1;
-    }
+    for (int k = 0; k < 4; k++) if (WO[k].used && WO[k].qn && wave_played(&WO[k]) >= WO[k].q[0].end) return 1;
     return 0;
 }
 static int SDLCALL poll_thread(void *arg) {
@@ -57,9 +62,11 @@ void w32_async_callbacks(void) {
     for (int k = 0; k < 4; k++) {
         struct wout *w = &WO[k];
         while (w->used && w->qn) {
-            int queued = SDL_GetAudioStreamQueued(w->st);
-            uint64_t played = w->put - (uint64_t)(queued > 0 ? queued : 0);
-            if (played < w->q[0].end) break;
+            static int dbg = -1; if (dbg < 0) dbg = getenv("PERSONA_DEBUG_WAVE") != 0;
+            if (dbg) { static uint32_t last; uint32_t now = w32_tick_ms(); if (now - last > 1000) { last = now;
+                fprintf(stderr, "[%u] wave %d: put %llu queued %d qn %d next end %llu\n", now, k, (unsigned long long)w->put,
+                        SDL_GetAudioStreamQueued(w->st), w->qn, (unsigned long long)w->q[0].end); } }
+            if (wave_played(w) < w->q[0].end) break;
             uint32_t hdr = w->q[0].hdr;
             memmove(w->q, w->q + 1, sizeof w->q[0] * (size_t)(w->qn - 1)); w->qn--;
             wave_done(w, k, hdr);
