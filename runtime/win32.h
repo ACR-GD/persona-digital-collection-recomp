@@ -97,7 +97,7 @@ void audio_shutdown(void);
 void host_sleep_ms(uint32_t ms);
 #ifdef _WIN32
 #include <direct.h>
-#define MKDIR(p) _mkdir(p)
+#define MKDIR(p) u8_mkdir(p)
 #define FSEEK64 _fseeki64
 #define FTELL64 _ftelli64
 #else

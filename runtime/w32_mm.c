@@ -209,7 +209,7 @@ const int N_MISC = sizeof API_MISC / sizeof API_MISC[0];
 // ---------------------------------------------------------------- device
 void audio_init(void) {
     mu = SDL_CreateMutex();
-    if (getenv("PERSONA_NOAUDIO")) return;
+    if (getenv("PERSONA_NOAUDIO") && atoi(getenv("PERSONA_NOAUDIO"))) return;
     if (!SDL_InitSubSystem(SDL_INIT_AUDIO)) { fprintf(stderr, "audio: %s\n", SDL_GetError()); return; }
     SDL_AudioSpec spec = { SDL_AUDIO_S16LE, 2, 44100 };
     dev = SDL_OpenAudioDevice(SDL_AUDIO_DEVICE_DEFAULT_PLAYBACK, &spec);

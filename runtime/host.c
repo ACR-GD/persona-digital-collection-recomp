@@ -5,6 +5,8 @@
 #include <SDL3/SDL.h>
 #include <SDL3/SDL_main.h>
 #include <sys/stat.h>
+#include "installer.h"
+#include "launcher.h"
 
 int video_headless;
 static SDL_Window *win;
@@ -17,7 +19,7 @@ extern uint32_t gdi_screen_bits(void);
 
 void video_init(void) {
     video_headless = getenv("PERSONA_HEADLESS") && atoi(getenv("PERSONA_HEADLESS"));
-    shot_path = getenv("PERSONA_SHOT");
+    shot_path = SDL_getenv("PERSONA_SHOT");
     if (getenv("PERSONA_SHOT_MS")) shot_ms = atoi(getenv("PERSONA_SHOT_MS"));
     t0 = (uint32_t)SDL_GetTicks();
     if (video_headless) return;
@@ -29,7 +31,7 @@ void video_init(void) {
     SDL_SetRenderVSync(ren, 1);
     SDL_SetRenderLogicalPresentation(ren, SCREEN_W, SCREEN_H, SDL_LOGICAL_PRESENTATION_LETTERBOX);
     tex = SDL_CreateTexture(ren, SDL_PIXELFORMAT_XRGB8888, SDL_TEXTUREACCESS_STREAMING, SCREEN_W, SCREEN_H);
-    SDL_SetTextureScaleMode(tex, getenv("PERSONA_SMOOTH") ? SDL_SCALEMODE_LINEAR : SDL_SCALEMODE_NEAREST);
+    SDL_SetTextureScaleMode(tex, getenv("PERSONA_SMOOTH") && atoi(getenv("PERSONA_SMOOTH")) ? SDL_SCALEMODE_LINEAR : SDL_SCALEMODE_NEAREST);
     SDL_HideCursor();
     if (getenv("PERSONA_FULLSCREEN") && atoi(getenv("PERSONA_FULLSCREEN"))) SDL_SetWindowFullscreen(win, true);
 }
@@ -144,32 +146,60 @@ static int is_dir(const char *p) { struct stat st; return !stat(p, &st) && S_ISD
 void user_init(void);
 void audio_poll(void) {}
 
+static void load_config(const char *path) {   // KEY = value lines -> PERSONA_KEY (environment wins)
+    size_t n; char *c = SDL_LoadFile(path, &n); if (!c) return;
+    for (char *line = strtok(c, "\r\n"); line; line = strtok(0, "\r\n")) {
+        while (*line == ' ' || *line == '\t') line++;
+        char *eq = strchr(line, '='); if (*line == '#' || !eq) continue;
+        char *ke = eq; while (ke > line && (ke[-1] == ' ' || ke[-1] == '\t')) ke--;
+        char *v = eq + 1; while (*v == ' ' || *v == '\t') v++;
+        char *ve = v + strlen(v); while (ve > v && (ve[-1] == ' ' || ve[-1] == '\t')) *--ve = 0;
+        char name[128]; snprintf(name, sizeof name, "PERSONA_%.*s", (int)(ke - line), line);
+        if (ke > line && !getenv(name)) SDL_setenv_unsafe(name, v, 0);
+    }
+    SDL_free(c);
+}
+
 int main(int argc, char **argv) {
+    // layout: development (./data next to the sources) or installed (per-user folder, filled by the launcher)
+    int dev = !SDL_getenv("PERSONA_DATA") && is_dir("data");
+    char *pref = dev ? 0 : SDL_GetPrefPath("Second Save", "Persona Digital Collection");
+    char cfg[1100], patch[1100] = "";
+    snprintf(cfg, sizeof cfg, "%s%s", pref ? pref : "", "persona.cfg");
+    if (SDL_getenv("PERSONA_CONFIG")) snprintf(cfg, sizeof cfg, "%s", SDL_getenv("PERSONA_CONFIG"));
+    load_config(cfg);
     rt_verbose = getenv("PERSONA_VERBOSE") != 0;
     w32_log_api = getenv("PERSONA_TRACE") ? atoi(getenv("PERSONA_TRACE")) : 0;
-    const char *data = getenv("PERSONA_DATA");
-    char buf[1024];
-    if (!data) {
-        if (is_dir("data")) data = "data";
-        else { const char *base = SDL_GetBasePath(); snprintf(buf, sizeof buf, "%sdata", base ? base : ""); data = buf; }
+    if (SDL_getenv("PERSONA_DATA")) snprintf(game_dir, sizeof game_dir, "%s", SDL_getenv("PERSONA_DATA"));
+    else snprintf(game_dir, sizeof game_dir, "%s%s", pref ? pref : "", "data");
+    if (SDL_getenv("PERSONA_SAVE")) snprintf(save_dir, sizeof save_dir, "%s", SDL_getenv("PERSONA_SAVE"));
+    else snprintf(save_dir, sizeof save_dir, "%s%s", pref ? pref : "", "save");
+    char ovl[1100]; snprintf(ovl, sizeof ovl, "%s_en", game_dir);
+    { const char *base = SDL_GetBasePath(); struct stat st;
+      snprintf(patch, sizeof patch, "%spersona_en.patch", base ? base : "");
+      if (stat(patch, &st)) { snprintf(patch, sizeof patch, "build/persona_en.patch"); if (stat(patch, &st)) patch[0] = 0; } }
+    int headless = getenv("PERSONA_HEADLESS") && atoi(getenv("PERSONA_HEADLESS"));
+    int play_arg = 0, launcher_arg = 0;
+    for (int k = 1; k < argc; k++) { if (!strcmp(argv[k], "--play")) play_arg = 1; if (!strcmp(argv[k], "--launcher")) launcher_arg = 1; }
+    const char *lv = launcher_arg ? 0 : getenv("PERSONA_LAUNCHER");
+    int ready = install_is_complete(game_dir);
+    if (!headless && !(lv && !strcmp(lv, "0") && ready) && !(play_arg && ready)) {
+        struct launch_paths lp = { game_dir, ovl, save_dir, cfg, patch };
+        if (launcher_run(&lp) != LAUNCH_PLAY) { SDL_Quit(); return 0; }
+        ready = install_is_complete(game_dir);
     }
-    snprintf(game_dir, sizeof game_dir, "%s", data);
-    snprintf(save_dir, sizeof save_dir, "%s", getenv("PERSONA_SAVE") ? getenv("PERSONA_SAVE") : "save");
-    // translation overlay: PERSONA_OVERLAY, else data_en/ next to data/ (PERSONA_OVERLAY= disables)
-    const char *ov = getenv("PERSONA_OVERLAY");
+    if (!ready && !is_dir(game_dir)) rt_fatal("game data folder '%s' not found (run the launcher and install from your disc, or see README)", game_dir);
+    // translation overlay: PERSONA_OVERLAY, else <data>_en unless PERSONA_LANG=ja (PERSONA_OVERLAY= disables)
+    const char *ov = SDL_getenv("PERSONA_OVERLAY"), *lang = getenv("PERSONA_LANG");
     if (ov) snprintf(overlay_dir, sizeof overlay_dir, "%s", ov);
-    else { snprintf(overlay_dir, sizeof overlay_dir, "%s_en", game_dir); if (!is_dir(overlay_dir)) overlay_dir[0] = 0; }
+    else if (lang && !strcmp(lang, "ja")) overlay_dir[0] = 0;
+    else { snprintf(overlay_dir, sizeof overlay_dir, "%s", ovl); if (!is_dir(overlay_dir)) overlay_dir[0] = 0; }
     if (overlay_dir[0]) fprintf(stderr, "translation overlay: %s\n", overlay_dir);
-    if (!is_dir(game_dir)) rt_fatal("game data folder '%s' not found (see README)", game_dir);
     MEM = calloc(1, MEM_SIZE + 16);
-    char img[1100]; snprintf(img, sizeof img, "%s/persona.img", game_dir);
-    FILE *probe = fopen(img, "rb"); if (probe) fclose(probe);
-    if (getenv("PERSONA_IMAGE") || probe) load_image(getenv("PERSONA_IMAGE") ? getenv("PERSONA_IMAGE") : img);
-    else {   // the image compiled into the binary
-        extern const uint32_t IMAGE_BLOB_SIZE; extern const uint8_t IMAGE_BLOB[];
-        uint32_t base, size; memcpy(&base, IMAGE_BLOB, 4); memcpy(&size, IMAGE_BLOB + 4, 4);
-        if (size + 8 > IMAGE_BLOB_SIZE) rt_fatal("bad embedded image");
-        memcpy(MEM + base, IMAGE_BLOB + 8, size);
+    if (SDL_getenv("PERSONA_IMAGE")) load_image(SDL_getenv("PERSONA_IMAGE"));
+    else {   // the player's PS.exe, mapped at its image base
+        char exe[1200], err[600]; snprintf(exe, sizeof exe, "%s/dc/PS.exe", game_dir);
+        if (!install_map_exe(exe, MEM, MEM_SIZE, err, sizeof err)) rt_fatal("%s", err);
     }
     SDL_SetAppMetadata("Persona Digital Collection", "1.0", "persona.recomp");
     SDL_Init(SDL_INIT_EVENTS);

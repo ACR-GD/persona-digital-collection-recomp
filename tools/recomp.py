@@ -11,7 +11,7 @@ Model (same as the Quarantine recompiler this grew out of)
     dispatcher routes to host implementations (runtime/win32*.c).
 usage: recomp.py PS.exe outdir
 """
-import sys, os, struct, collections, re
+import sys, os, struct, collections, re, zlib
 from capstone import *
 from capstone.x86 import *
 
@@ -716,17 +716,12 @@ with open(os.path.join(OUT, 'table.c'), 'w') as f:
 with open(os.path.join(OUT, 'image.bin'), 'wb') as f:
     f.write(struct.pack('<II', pe.base, len(pe.image)))
     f.write(bytes(pe.image))
-# the image is also compiled into the binary (self-contained executables)
-with open(os.path.join(OUT, 'image_data.c'), 'w') as f:
-    blob = struct.pack('<II', pe.base, len(pe.image)) + bytes(pe.image)
-    f.write('// generated: PE image of PS.exe (base, size, bytes)\n#include <stdint.h>\n')
-    f.write('const uint32_t IMAGE_BLOB_SIZE = %d;\nconst uint8_t IMAGE_BLOB[] = {\n' % len(blob))
-    for k in range(0, len(blob), 32):
-        f.write(','.join(str(b) for b in blob[k:k + 32]) + ',\n')
-    f.write('};\n')
 with open(os.path.join(OUT, 'image_info.h'), 'w') as f:
     f.write('#define IMAGE_BASE 0x%x\n#define IMAGE_SIZE 0x%x\n' % (pe.base, len(pe.image)))
     f.write('#define TEXT_LO 0x%x\n#define TEXT_HI 0x%x\n' % (CB, CE))
+    # the player's PS.exe is mapped at startup (runtime/installer.c); these identify the supported version
+    exe = open(sys.argv[1], 'rb').read()
+    f.write('#define EXE_SIZE %d\n#define EXE_CRC32 0x%08xu\n' % (len(exe), zlib.crc32(exe)))
 
 print('functions %d, jump tables %d' % (len(funcs), len(jump_tables)))
 print('instructions covered: %d' % len(seen))

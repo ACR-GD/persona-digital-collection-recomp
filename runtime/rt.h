@@ -3,6 +3,7 @@
 #include <stdint.h>
 #include <string.h>
 #include <math.h>
+#include "u8path.h"
 
 // ---------------------------------------------------------------- state
 extern uint32_t R[8];            // eax ecx edx ebx esp ebp esi edi

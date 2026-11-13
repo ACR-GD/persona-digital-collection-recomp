@@ -120,6 +120,22 @@ subtitles pre-rendered by tools/make_subs.py from translation/en/movies.json (ca
 measured from the video) into data_en/dc/mov/<movie>.sub.
 QT installer: data/qt/qt32.exe holds the real DLLs as SZDD blobs (tools/szdd.py extracts them) if ever needed.
 
+## Launcher and installed layout
+* `runtime/launcher.c` (SDL3 renderer, Crimson Pro UI font, OFL) + `runtime/installer.c`: ISO 9660 reader
+  (2048/2352-byte sectors, cue sheets; the disc has mixed-case ISO names with Apple extensions and no
+  Joliet) or a folder walk (disc root or its `dc` folder), copied into `<pref>/data`.
+* `persona_en.patch` (`tools/make_patch.py`): per overlay file, size + CRC-32 of the original and of the
+  result, and the differing byte runs (dxrpatch only appends BITD chunks and rewrites mmap entries,
+  so a movie patch is the new chunks plus a few hundred bytes). 12.5 MB for the 20 movies + 2 .sub.
+* `PS.exe` is mapped at startup (`install_map_exe`, checked against EXE_SIZE / EXE_CRC32 from
+  `gen/image_info.h`); nothing from the disc is compiled into the binary. `PERSONA_IMAGE=gen/image.bin`
+  still works for experiments.
+* Windows: `runtime/u8path.h` routes fopen/stat/opendir/mkdir/rename through UTF-16 so a user folder with
+  non-ASCII characters works; path variables are read with SDL_getenv (UTF-8). The cross build links
+  winpthread statically (`-Wl,-Bstatic` last) and needs the 64 MB stack.
+* Test hooks: `PERSONA_LAUNCHER_SHOT=file.bmp` + `PERSONA_LAUNCHER_AUTO=play|quit|install`
+  (`PERSONA_SOURCE=` the disc), `SDL_VIDEO_DRIVER=offscreen` for containers.
+
 ## Debugging
 * `tools/run_headless.sh SECS VAR=...` (screens in `build/shots/sNNNN.ppm`, tenths of a second),
   `tools/shots.sh T...`, `tools/smoke.sh` (enters each attraction), `tools/lingo_dis.py movie.dxr`

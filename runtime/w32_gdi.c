@@ -127,11 +127,11 @@ static struct rect rg_box(const struct rgn *g) { struct rect b = { 0, 0, 0, 0 };
 // ---------------------------------------------------------------- colours
 static uint32_t pal_rgb(uint32_t e) { return e & 0xffffffu; }    // PALETTEENTRY as stored: 0x00BBGGRR
 static int nearest_in(const uint32_t *tab, int n, uint32_t cr) {   // cr: COLORREF 0x00BBGGRR
-    int r = cr & 255, g = (cr >> 8) & 255, b = (cr >> 16) & 255, best = 0; long bd = 1L << 40;
+    int r = cr & 255, g = (cr >> 8) & 255, b = (cr >> 16) & 255, best = 0; int64_t bd = INT64_MAX;
     for (int i = 0; i < n; i++) {
         uint32_t c = tab[i];
         int dr = (int)(c & 255) - r, dg = (int)((c >> 8) & 255) - g, db = (int)((c >> 16) & 255) - b;
-        long d = 3L * dr * dr + 4L * dg * dg + 2L * db * db;
+        int64_t d = (int64_t)3 * dr * dr + 4L * dg * dg + 2L * db * db;
         if (d < bd) { bd = d; best = i; if (!d) break; }
     }
     return best;

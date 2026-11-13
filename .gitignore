@@ -12,3 +12,5 @@ persona.exe
 __pycache__/
 /data_en/
 /.claude/
+/release/cache/
+/dist/
