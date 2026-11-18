@@ -8,6 +8,20 @@ game's own movies and scripts run unmodified; translated movies are read from an
 
 No game data is included. You need your own copy of the original Japanese disc.
 
+**Download:** [latest release](https://github.com/ACR-GD/persona-digital-collection-recomp/releases/latest) (macOS, Windows, Linux).
+
+## Screenshots
+
+| | |
+|---|---|
+| ![St. Hermelin festival hub](docs/screenshots/02-festival-hub.png) | ![Attraction menu](docs/screenshots/03-attractions.png) |
+| ![Nanjo and Elly's tarot reading](docs/screenshots/04-tarot.png) | ![Karaoke with English lyrics](docs/screenshots/05-karaoke.png) |
+| ![Vice principal's shooting gallery](docs/screenshots/06-shooting-gallery.png) | ![Toro's turtle hockey](docs/screenshots/07-turtle-hockey.png) |
+| ![Ms. Saeko's mopping race](docs/screenshots/08-mopping-race.png) | ![Principal's office: hidden attractions](docs/screenshots/09-principals-office.png) |
+| ![Trish's dress-up](docs/screenshots/10-dress-up.png) | ![Title screen](docs/screenshots/01-title.png) |
+
+![Launcher](docs/screenshots/00-launcher.png)
+
 ## Playing
 
 Download the package for your system (macOS universal app, Windows x64, Linux x64), start it, and the
