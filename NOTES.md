@@ -156,3 +156,24 @@ QT installer: data/qt/qt32.exe holds the real DLLs as SZDD blobs (tools/szdd.py 
   (log guest calls in a range with return values), `PERSONA_DUMP=addr:n`, `PERSONA_DEBUG_MSG`,
   `PERSONA_HIDE=substr` (pretend files are missing). `make debug` builds a profiling binary
   (`PERSONA_PROF_AT=secs`, `PERSONA_PROF_LO/HI`, `PERSONA_PROF_ALL`).
+
+## QA pass for 1.0 (2026-11-18)
+* Music: in all 12 attractions the opening track ends and restarts (tools/qa_contents.sh MOVIE TRACK+20 [X:Y[:MS]]
+  boots straight into a movie, clicks after the track has ended and logs the waveOut writes). Leaving after the
+  music has ended works everywhere: Contents (tarot) or No on the opening question (the other 11; Contents is
+  not active on those questions, in the original too). Hidden rooms: Contents works after the music has ended;
+  Yukino's photo grid and Yamaoka's VTR library do not restart their music (by design: the track is started
+  only by the intro frame).
+* Tickets: tools/qa_tickets.py makes a test-only contents.dxr whose startMovie gives all 5 tickets. With it,
+  the principal asks "Have you seen everything...?", Yes opens the 5-card menu, and all 5 hidden rooms open
+  from it and return to it. The mopping race was won for real with scripted clicks (pick a character, then
+  click the Click!! button every 60 ms): Win!!, Ms. Saeko's ticket line, hub counter "Tickets 1".
+* Hub ticket counter: frame 5 (the greeting) runs the counter script too, where channel 31 is empty; with
+  tickets already held there (only possible with the test copy) the number stays blank until an attraction
+  is visited. Not reachable in normal play.
+* Hotspots differ a little between movies: Contents is at butterfly 586:466 in most attractions and 580:448
+  in the MD room, Kurouri's cards and the race ending. Opening questions: No at 214:344, Yes at 142:344.
+  Clicks on Lingo-polled buttons need a hold (`:250`).
+* tools/score_sprites.py lists sprites, scripts (Lscr numbers as in lingo_dis.py) and frame scripts per frame.
+* Names: the hub calls him Yokouchi (横内君) and the hockey game Toro (トロ), as in the original; the photo
+  exhibition gives "Toro, real name Kenta Yokouchi".

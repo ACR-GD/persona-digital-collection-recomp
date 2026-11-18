@@ -687,10 +687,10 @@ static int vk_of(SDL_Scancode s) {
 
 // scripted input for headless testing: PERSONA_CLICKS="t:x:y,..." (seconds), PERSONA_KEYS="t:vk,..."
 struct sev { double t; int kind, a, b; int done; };
-static struct sev sevs[512]; static int nsev;
+static struct sev sevs[8192]; static int nsev;
 static void parse_script(void) {
     const char *k = getenv("PERSONA_KEYS");
-    while (k && *k && nsev < 500) {
+    while (k && *k && nsev < 8100) {
         double t; int vk, n = 0;
         if (sscanf(k, "%lf:%i%n", &t, &vk, &n) < 2) break;
         sevs[nsev++] = (struct sev){ t, 0, vk, 1, 0 };
@@ -698,7 +698,7 @@ static void parse_script(void) {
         k += n; if (*k == ',') k++;
     }
     const char *c = getenv("PERSONA_CLICKS");
-    while (c && *c && nsev < 500) {
+    while (c && *c && nsev < 8100) {
         double t; int x, y, ms = 120, n = 0;
         if (sscanf(c, "%lf:%d:%d:%d%n", &t, &x, &y, &ms, &n) < 4) { ms = 120; if (sscanf(c, "%lf:%d:%d%n", &t, &x, &y, &n) < 3) break; }
         if (!getenv("PERSONA_CLICK_RAW")) { x -= 16; y -= 16; }
